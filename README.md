@@ -1,8 +1,8 @@
 # mini_project_CS_final_assignment
 Final Python mini project for bridging students (deadline: Nov 22)
--python version
- python 3.11.5
--needed librarys
+- python version
+  python 3.11.5
+- needed librarys
  1. pandas
  2. numpy
  3. matplotlib
