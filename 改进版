@@ -164,7 +164,7 @@ def deal_all(T):
     for i in range(1,11):
         for A in T[i-1]:
             # 名字可能要改，此处命名为 group i 型
-            A["group"] = " group" + str(i)
+            A["small group"] = "small group" + str(i)
             total.append(A)
     return total
 
