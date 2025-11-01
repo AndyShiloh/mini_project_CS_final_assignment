@@ -1,0 +1,169 @@
+"""
+接口还缺函数
+本段中T表示一大组【A1，A2...A10】
+A表示一小组【{stu-1},{stu-2} ....{stu-5}】
+应该还需要一个函数来读取T，分配A
+"""
+
+def connect(H,i):
+    """
+    读取总体函数并返回T
+    """
+    group_list = []
+    big_group_list = []
+    B = "G-" + str(i)
+    for row in H:
+        if row["Tutorial Group"] == B:
+            big_group_list.append(row)
+    for j in range(1,11):
+        # 此处A的值跟提供的group对应的value有关 ，此处仅做示范
+        A = "G-" + str(j)
+        small_group = []
+        for row in big_group_list:
+            if row["group"] == A:
+                small_group.append(row)
+        group_list.append(small_group)
+    return group_list
+
+
+# 模拟接口函数
+T = []
+for i in range(10):
+    B = [{"vector": i}]
+    T.append(B)
+
+
+def calculate_ave(A):
+    return sum(i["vector"] for i in A) / len(A)
+
+
+def row_up(T):
+    """
+    计算每一组的平均值并按平均值从大到小排序
+    """
+    T_sorted = sorted(T, key=lambda g: calculate_ave(g), reverse=True)
+    return T_sorted
+
+
+def check(T, ave, gap=0.01):
+    """
+    检查每个小组的平均值是否接近目标 ave
+    """
+    for A in T:
+        X = calculate_ave(A)
+        if abs(X - ave) > gap:
+            return False
+    return True
+
+
+def swap(A, B, i, j):
+    """
+    交换两个组中的成员 i 和 j（浅拷贝）
+    """
+    A_new = A.copy()
+    B_new = B.copy()
+    A_new.remove(i)
+    B_new.remove(j)
+    A_new.append(j)
+    B_new.append(i)
+    return A_new, B_new
+
+
+def group_swap(A, B, ave, already_move, move_time=50, accuracy=0.02):
+    """
+    暴力尝试交换两个组的成员以让平均值更接近 ave
+    """
+    if len(already_move) >= move_time:
+        return A, B
+
+    ave_A = calculate_ave(A)
+    ave_B = calculate_ave(B)
+
+    # 如果已经达到要求
+    if abs(ave_A - ave) <= accuracy and abs(ave_B - ave) <= accuracy:
+        # 返回A，B
+        return A, B
+    # iteration 迭代
+    for i in A:
+        for j in B:
+            A_new, B_new = swap(A, B, i, j)
+            new_ave_A = calculate_ave(A_new)
+            new_ave_B = calculate_ave(B_new)
+
+            # 若更接近目标均值则接受交换
+            if abs(new_ave_A - ave) < abs(ave_A - ave) and abs(new_ave_B - ave) < abs(ave_B - ave):
+                key = (i["vector"], j["vector"])
+                # 在already_move种存入值
+                if key not in already_move:
+                    already_move[key] = True
+                    return group_swap(A_new, B_new, ave, already_move, move_time, accuracy)
+
+    return A, B
+
+
+memory = []
+
+
+def pick_group(T, ave, time=20, gap=0.01):
+    """
+    主函数：
+    - 按均值排序
+    - 拿最高组和最低组尝试交换
+    - 递归直到所有组均值接近目标 ave
+    - 或者超过某一个time---限制条件，防止爆炸
+    """
+    if len(memory) > time:
+        return T
+    if check(T, ave, gap):
+        return T
+
+    M = row_up(T)
+    A = M[0]
+    B = M[-1]
+
+    already_move = {}
+    new_a, new_b = group_swap(A, B, ave, already_move, move_time=50, accuracy=gap)
+    M[0] = new_a
+    M[-1] = new_b
+
+    memory.append(M)
+    return pick_group(M, ave, time, gap)
+
+# 示例运行
+
+final_groups = pick_group(T, ave=4.5, time=10, gap=0.1)
+
+for idx, g in enumerate(final_groups):
+    print(f"Group {idx}: {[x['vector'] for x in g]}, ave={calculate_ave(g):.2f}")
+
+# 最后还差一个总体化处理
+total = []
+# total 写在总体外面，里面是一百二十次循环
+# 这是返回改好后的组
+def deal_all(T):
+    for i in range(1,11):
+        for A in T[i-1]:
+            # 名字可能要改，此处命名为：tutorial group i 型
+            A["vector"] = "tutor group" + str(i)
+            total.append(A)
+    return total
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
