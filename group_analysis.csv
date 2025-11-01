@@ -1,0 +1,1201 @@
+Tutorial Group,Total Students,Overall Avg CGPA,Group Number,Group Size,Group Students,Group Avg CGPA,Male Ratio,Female Ratio,School Diversity,GPA Variance,Gender Variance,Vector Displacement
+G-1,50,4.1,Group 1,5,"Aarti Nair, Oliver Tan, Priya Singh, Ming Zhang, Sana Jain",4.12,0.4,0.6,5,0.0044,0.96,0.0715
+G-1,50,4.1,Group 2,5,"Anya Kumar, Felix Yip, Savannah Taylor, Aarav Singh, Darren Lee",4.09,0.6,0.4,5,0.0039,0.96,0.0749
+G-1,50,4.1,Group 3,5,"Mei Hong, Ajay Verma, Maria Ivanovna, Ananya Ramesh, Zachary Wu",4.07,0.6,0.4,5,0.0119,0.96,0.0751
+G-1,50,4.1,Group 4,5,"Xun Wei, Isabella Thompson, Grace Turner, Vikram Desai, Anthony Liu",4.11,0.4,0.6,5,0.0028,0.96,0.0714
+G-1,50,4.1,Group 5,5,"Henry Foster, Harlow Wang, Sakina Ahmed, Oleg Petrovich, Zara Chang",4.09,0.4,0.6,5,0.0041,0.96,0.0794
+G-1,50,4.1,Group 6,5,"Mohit Desai, Areeba Khan, Lila Patel, Lucas Walker, Nhung Vu",4.08,0.4,0.6,5,0.0029,0.96,0.0874
+G-1,50,4.1,Group 7,5,"Omer Ahmed, Nisha Das, Truong Minh Chau, Jett Morales, Karen Wong",4.05,0.4,0.6,5,0.0176,0.96,0.088
+G-1,50,4.1,Group 8,5,"Jie Zhang, Vivi Dwi, Kathy Lau, Meera Singh, Nguyen Van Sam",4.11,0.4,0.6,5,0.0497,0.96,0.0954
+G-1,50,4.1,Group 9,5,"Adlan Bin Rahman, Nurul Shafika, Prerna Gupta, Anjali Patel, Siddharth Nair",4.1,0.4,0.6,5,0.0047,0.96,0.1353
+G-1,50,4.1,Group 10,5,"Gabriel Young, Amelia Kim, Han Li, Karen Lee, Layla Torres",4.15,0.2,0.8,5,0.0429,0.64,0.1535
+G-10,50,4.12,Group 1,5,"Jaxon Hall, Ayesha Javed, Christopher Miller, Nina Bennett, Kiran Farooq",4.12,0.4,0.6,5,0.0012,0.96,0.1044
+G-10,50,4.12,Group 2,5,"Rizan Bin Ahmad, Mia Zhang, Yasir Ahmad, Kerry Lim, Soo-Young Kim",4.14,0.4,0.6,5,0.0463,0.96,0.0966
+G-10,50,4.12,Group 3,5,"Adrian Castillo, Tatum Flores, Hae-Jin Lee, Xiao Chen, Alyssa Green",4.12,0.4,0.6,5,0.0538,0.96,0.0964
+G-10,50,4.12,Group 4,5,"Ming Wei, Tianming, Michael Miller, Rhea Lee, Kaya Chang",4.09,0.4,0.6,5,0.0087,0.96,0.1046
+G-10,50,4.12,Group 5,5,"Hassan Malik, Dante Wu, Kiara Lin, Nurul Aini Binti Ahmad, Hunter Wilson",4.11,0.6,0.4,5,0.0049,0.96,0.1096
+G-10,50,4.12,Group 6,5,"Will Chen, Zaki Bin Ibrahim, Paula Wong, Tanya Lee, Tao Liu",4.08,0.6,0.4,5,0.0063,0.96,0.1102
+G-10,50,4.12,Group 7,5,"Sho Nakajima, Cheng Zhang, Kira Yamada, Hendra Mulyana, Yasmine Villanueva",4.15,0.6,0.4,5,0.0095,0.96,0.1099
+G-10,50,4.12,Group 8,5,"Freya Chen, Isaiah Scott, Kendrick Alvarado, Yuzhi, Nina Patil",4.15,0.6,0.4,5,0.0034,0.96,0.11
+G-10,50,4.12,Group 9,5,"Ananya Singh, Leo Xu, Liam Jones, Benjamin Turner, Ximena Fernandez",4.14,0.6,0.4,5,0.0029,0.96,0.1257
+G-10,50,4.12,Group 10,5,"Sophie Cheung, Rhea Kapoor, Xander Cook, Rhys Tan, Marco Garcia",4.08,0.6,0.4,4,0.0046,0.96,0.158
+G-100,50,4.09,Group 1,5,"Fangling, Peter Choi, Mia Hall, Ali Rehman, Wesley Turner",4.1,0.6,0.4,5,0.0079,0.96,0.0964
+G-100,50,4.09,Group 2,5,"Maya Ong, Jordan Chen, Isabella Thomas, Yasir Qureshi, Hua Zhang",4.07,0.6,0.4,5,0.0088,0.96,0.0967
+G-100,50,4.09,Group 3,5,"Yumi Nishikawa, Tommy Wu, Diya Nair, Caiyun, Carter Moore",4.06,0.6,0.4,5,0.0068,0.96,0.105
+G-100,50,4.09,Group 4,5,"Fiona Clark, Han Zhang, Tao Wang, Rachel Lee, Jack Foster",4.09,0.4,0.6,5,0.0023,0.96,0.1038
+G-100,50,4.09,Group 5,5,"Mia Wong, Ameer Bin Rahman, Neelam Bhatia, Ying Liu, Khalid Rahman",4.08,0.4,0.6,5,0.0041,0.96,0.1038
+G-100,50,4.09,Group 6,5,"Siti Maryam, Bradley Huang, Yuanqing, Mia Phillips, Danty Susanto",4.1,0.4,0.6,5,0.0086,0.96,0.1038
+G-100,50,4.09,Group 7,5,"Alina Malik, Fay Tan, Owen Hill, Anjali Nair, Aiden Brown",4.1,0.4,0.6,5,0.0164,0.96,0.1278
+G-100,50,4.09,Group 8,5,"Meera Menon, Margaret Li, Adrian King, Carla Wang, Tae-Soo Kim",4.08,0.4,0.6,5,0.0088,0.96,0.1358
+G-100,50,4.09,Group 9,5,"Bella Perry, Naina Gupta, Seema Kapoor, Hassan Farooq, Orlando Wu",4.08,0.2,0.8,5,0.0128,0.64,0.164
+G-100,50,4.09,Group 10,5,"Fergus Mendoza, Nadia Binti Azhar, Iris Rivera, Raquel Huang, Ashok Nair",4.18,0.4,0.6,5,0.0349,0.96,0.147
+G-101,50,4.11,Group 1,5,"Sofia Reddy, Weijun, Daphne Tan, Xiao Ming, Evelyn Cheung",4.17,0.4,0.6,5,0.0426,0.96,0.0922
+G-101,50,4.11,Group 2,5,"Minghao, Gia Tsai, Nguyen Thi Binh, Kevin Brown, Ethan Taylor",4.12,0.6,0.4,5,0.0133,0.96,0.1068
+G-101,50,4.11,Group 3,5,"Owen Nugroho, Ning Li, Hope Chen, Sandeep Rao, Fatima Bhatia",4.12,0.4,0.6,5,0.0027,0.96,0.1149
+G-101,50,4.11,Group 4,5,"Alani Lin, Christopher Cox, Sophia Jones, Manish Singh, Lola Tan",4.13,0.4,0.6,5,0.0037,0.96,0.1149
+G-101,50,4.11,Group 5,5,"Wani Binti Jalil, Lucas Chen, Savannah Torres, Jaxon Lewis, Ying Wong",4.06,0.4,0.6,5,0.0125,0.96,0.1155
+G-101,50,4.11,Group 6,5,"Kieran Harris, Rachel Choi, Khayla Rahayu, Nguyen Hoang Long, Riley Lim",4.14,0.6,0.4,5,0.0354,0.96,0.1152
+G-101,50,4.11,Group 7,5,"Qi Chen, Zadie Harris, Madiha Ali, Wyatt Price, Zoe King",4.06,0.4,0.6,5,0.0564,0.96,0.1077
+G-101,50,4.11,Group 8,5,"Carter Thompson, Jasper Wang, Amaya Sharma, Isla Young, Eli Cruz",4.11,0.6,0.4,5,0.0025,0.96,0.1388
+G-101,50,4.11,Group 9,5,"Farhan Bin Azhar, Suraj Mishra, Hannah Smith, Shayla Wang, Ajay Iyer",4.12,0.6,0.4,5,0.0053,0.96,0.1389
+G-101,50,4.11,Group 10,5,"Asher Nelson, Rishi Tan, Jin Yang Tan, Kate Tan, Kexin",4.05,0.6,0.4,5,0.0079,0.96,0.1238
+G-102,50,4.1,Group 1,5,"Kiran Shah, Omar Farooq, Minh Tran, Min-Ji Park, Maximus Wright",4.09,0.6,0.4,5,0.0043,0.96,0.1054
+G-102,50,4.1,Group 2,5,"Sakshi Singh, Ulysses Salazar, Levi Huang, Aria Murphy, Pranata Santoso",4.11,0.6,0.4,5,0.0095,0.96,0.1052
+G-102,50,4.1,Group 3,5,"Margarita Sokolova, Yong Hui, Harsh Kumar, Nisha Gupta, Travis Lim",4.1,0.6,0.4,5,0.0083,0.96,0.1052
+G-102,50,4.1,Group 4,5,"Zoe Martinez, Hansel Bautista, Ajay Bhatt, Maharani Sari, Riku Takeda",4.16,0.6,0.4,5,0.0116,0.96,0.1165
+G-102,50,4.1,Group 5,5,"Anjali Kumar, Sofia Hernandez, Zara Lim, Asher Clark, Hao Yang Tan",4.13,0.4,0.6,5,0.0178,0.96,0.1133
+G-102,50,4.1,Group 6,5,"Sakshi Iyer, Felix Wong, Kanwal Bukhari, Raj Tan, Svetlana Chernyshova",4.09,0.4,0.6,5,0.0074,0.96,0.1206
+G-102,50,4.1,Group 7,5,"Alina Awan, Melati Ahmad, Gina Lau, Luca Torres, Elisha Wu",4.1,0.4,0.6,5,0.0136,0.96,0.1366
+G-102,50,4.1,Group 8,5,"Lan Nguyen, Nafisa Ali, Maya Sari, Nira Gupta, Bradley Yang",4.09,0.2,0.8,5,0.0055,0.64,0.1648
+G-102,50,4.1,Group 9,5,"Lyric Tan, Nina Phillips, Fariha Noor, Megan Walker, Wyatt Thompson",4.09,0.2,0.8,5,0.0013,0.64,0.1729
+G-102,50,4.1,Group 10,5,"Henry Tan, Simran Singh, Layla Cooper, Liu Fang, Cheng Fang Tan",4.05,0.4,0.6,4,0.0012,0.96,0.2267
+G-103,50,4.1,Group 1,5,"Tyler Hall, Aria Martinez, Selina Loh, Naim Bin Hashim, Amna Bukhari",4.1,0.4,0.6,5,0.0105,0.96,0.1036
+G-103,50,4.1,Group 2,5,"Dallas Huang, Willow Wong, Chong Wang, Asha Mehta, Eli Tan",4.19,0.6,0.4,5,0.0437,0.96,0.0897
+G-103,50,4.1,Group 3,5,"Mansoor Qureshi, Amira Tan, Queenie Lee, Saad Malik, Talha Iqbal",4.1,0.6,0.4,5,0.0014,0.96,0.1196
+G-103,50,4.1,Group 4,5,"Everett Harris, Samantha Khan, Carmen Ong, Graham Jackson, David Young",4.12,0.6,0.4,5,0.0067,0.96,0.1196
+G-103,50,4.1,Group 5,5,"Alan Chan, Hannah Sanders, Ethan White, Yuna Wong, Dev Sharma",4.13,0.6,0.4,5,0.0085,0.96,0.1198
+G-103,50,4.1,Group 6,5,"Xiao Wei Tan, Fatima Baig, Maya Wilson, Kylie Chen, Irfan Bin Hassan",4.1,0.4,0.6,5,0.0117,0.96,0.1276
+G-103,50,4.1,Group 7,5,"Yvonne Ng, Isaac Thompson, Maya Gonzales, Camila Li, Hikaru Sato",4.09,0.4,0.6,5,0.0279,0.96,0.1196
+G-103,50,4.1,Group 8,5,"Vikram Singh, Zachary Lee, Anjali Singh, Layla Fisher, Maggie Kwan",4.06,0.4,0.6,5,0.0085,0.96,0.1281
+G-103,50,4.1,Group 9,5,"Emily Scott, Fahim Hussein, Tommy Wu, Fatima Malik, Shiloh Lin",4.11,0.4,0.6,5,0.0057,0.96,0.1356
+G-103,50,4.1,Group 10,5,"Sofia Kim, Simon Lee, Khalil Bin Ismail, Nadia Binti Zulkifli, Vy Nguyen",4.05,0.6,0.4,5,0.0106,0.96,0.1364
+G-104,50,4.07,Group 1,5,"Anita Lim, Priya Roy, Gideon Torres, Anil Reddy, Chloe Scott",4.04,0.4,0.6,5,0.0103,0.96,0.0977
+G-104,50,4.07,Group 2,5,"Fitri Binti Mohd, Giselle Wu, Zhen Zhang, William Yip, John Lim",4.07,0.6,0.4,5,0.0093,0.96,0.0953
+G-104,50,4.07,Group 3,5,"Chloe Tan, Gracelyn Dela Cruz, Kamran Farooq, Leo Pranata, Prashant Joshi",4.07,0.6,0.4,5,0.0088,0.96,0.0953
+G-104,50,4.07,Group 4,5,"Emi Yamashita, Madison Scott, Dahlia Chen, Ryder Ward, Benjamin Huang",4.09,0.4,0.6,5,0.0105,0.96,0.0973
+G-104,50,4.07,Group 5,5,"Daniel Adams, Anaya Singh, Xena Reed, Maya Rahman, Waleed Malik",4.07,0.4,0.6,5,0.0027,0.96,0.1129
+G-104,50,4.07,Group 6,5,"Rafael Wong, Lily Ong, Vera Ong, Eamon Liu, Pallavi Mehta",4.08,0.4,0.6,5,0.006,0.96,0.1129
+G-104,50,4.07,Group 7,5,"Shahid Ali, Ying Zhang, Zainab Noor, Tara Wati, Jun Zhang",4.07,0.4,0.6,5,0.0163,0.96,0.1048
+G-104,50,4.07,Group 8,5,"Jason Tan, Nisha Yadav, Emily Johnson, Nia Wong, Gideon Zhang",4.07,0.4,0.6,5,0.0079,0.96,0.1128
+G-104,50,4.07,Group 9,5,"Nancy Yeo, Ashna Mehta, Chloe Wu, Sarah Liu, Lance Alvarado",4.06,0.2,0.8,5,0.0005,0.64,0.1673
+G-104,50,4.07,Group 10,5,"Samantha Ong, Lila Wu, Sophia Taylor, Isha Verma, Chandra Menon",4.06,0.2,0.8,5,0.0007,0.64,0.1754
+G-105,50,4.09,Group 1,5,"Claudia Tan, Devansh Mehta, Charlotte Gonzalez, Trung Le, Kylie Zhang",4.08,0.4,0.6,5,0.0056,0.96,0.0896
+G-105,50,4.09,Group 2,5,"Ping An, Imran Bin Zahid, Arjun Nair, Isabella Rodriguez, Qiana Lestari",4.09,0.4,0.6,5,0.0303,0.96,0.0815
+G-105,50,4.09,Group 3,5,"Alyssa Tan, Vincent Wong, Lola Zhang, Ronald Tan, Vira Dwi",4.04,0.4,0.6,5,0.0189,0.96,0.0915
+G-105,50,4.09,Group 4,5,"Tatum Roberts, Pallavi Kumar, Logan Martin, James Jackson, Dallas Liu",4.08,0.6,0.4,5,0.0007,0.96,0.1004
+G-105,50,4.09,Group 5,5,"Cora Zhang, Maya Torres, Shahid Raza, Chen Bo, Yumi Tanaka",4.06,0.4,0.6,5,0.0085,0.96,0.0983
+G-105,50,4.09,Group 6,5,"Jonathan Wu, Julia Tan, Sophie Reed, Kunal Mehta, Olivia Miller",4.07,0.4,0.6,5,0.0139,0.96,0.1138
+G-105,50,4.09,Group 7,5,"Nicolas Ramos, Addison Lin, Tessa Li, Callum Williams, Ricky Chen",4.12,0.6,0.4,5,0.0033,0.96,0.1247
+G-105,50,4.09,Group 8,5,"Bennett Liu, Mei Chen, Amina Binti Zain, Max Johnson, Dao Tran",4.13,0.6,0.4,5,0.0039,0.96,0.1255
+G-105,50,4.09,Group 9,5,"Yang Jun, Aditi Kumar, Daphne Li, Sabrina Zhao, Saad Javed",4.14,0.4,0.6,5,0.0066,0.96,0.131
+G-105,50,4.09,Group 10,5,"Haruki Suzuki, Nisha Bansal, Amit Agarwal, Chen Li, Kiran Rao",4.12,0.6,0.4,5,0.0029,0.96,0.1327
+G-106,50,4.08,Group 1,5,"Kathy Tan, Cole Huang, Megan Zhao, Jai Mehta, Oscar Villanueva",4.09,0.6,0.4,5,0.0072,0.96,0.0596
+G-106,50,4.08,Group 2,5,"Akemi Takahashi, Gandhi Saputra, Fahad Ali, Sienna Lee, Siddharth Gupta",4.06,0.6,0.4,5,0.0143,0.96,0.0599
+G-106,50,4.08,Group 3,5,"Priya Nair, Albert Wang, Kevin Wang, Guofeng, Cleo Morales",4.08,0.4,0.6,5,0.003,0.96,0.0727
+G-106,50,4.08,Group 4,5,"Quinn Larson, Harrison Moore, Zedrick Ong, Minghao, Jason Robinson",4.18,0.6,0.4,5,0.0337,0.96,0.0709
+G-106,50,4.08,Group 5,5,"Tania Ng, Dylan Li, Nolan Reyes, Miyu Nishimura, Eun-Hee Kim",4.08,0.4,0.6,5,0.0095,0.96,0.0727
+G-106,50,4.08,Group 6,5,"Arya Kapoor, Noel Pineda, Rahul Mehta, Mira Binti Zaki, Nikhil Sharma",4.11,0.6,0.4,5,0.007,0.96,0.0758
+G-106,50,4.08,Group 7,5,"Neelam Rani, Kavitha Tan, Reyansh Iyer, Thomas Harris, Hafiz Ahmad",4.1,0.6,0.4,5,0.0176,0.96,0.0996
+G-106,50,4.08,Group 8,5,"Jun Liu, Aria Lee, Piper Chen, Sergei Ivanovich, Hoang Nguyen",3.99,0.4,0.6,5,0.0094,0.96,0.1082
+G-106,50,4.08,Group 9,5,"Zara Malik, Isla Lee, Aria Tan, Oliver Martinez, Nisha Verma",4.08,0.2,0.8,5,0.0101,0.64,0.1466
+G-106,50,4.08,Group 10,5,"Om Tan, Gabriella Dela Cruz, Charlotte Harris, Noah Morris, Jingyi",4.09,0.4,0.6,5,0.0038,0.96,0.1207
+G-107,50,4.07,Group 1,5,"Meera Gupta, Ananya Roy, Zane Wong, Liu Yang, Yumi Hayashi",4.04,0.4,0.6,5,0.0077,0.96,0.0985
+G-107,50,4.07,Group 2,5,"Xiaoling Chen, Madison Torres, Bria Tsai, Daniel Tan, Tanishq Reddy",4.06,0.4,0.6,5,0.0115,0.96,0.0978
+G-107,50,4.07,Group 3,5,"Sana Menon, Lana Tan, Chad Dela Cruz, Joko Susanto, Nina Binti Noor",4.0,0.4,0.6,5,0.0157,0.96,0.1024
+G-107,50,4.07,Group 4,5,"Rina Ali, Xiao Zhang, Nguyen Thi Hoa, Qiang Zhang, Min-Jung Kim",4.01,0.4,0.6,5,0.0175,0.96,0.0936
+G-107,50,4.07,Group 5,5,"Vera Chan, Xiangqi, Misha Malik, Harvey Lim, Riana Binti Abdul",4.07,0.4,0.6,5,0.0158,0.96,0.1058
+G-107,50,4.07,Group 6,5,"Le Van Minh, Carter Hall, Lily Lim, Zane Navarro, Suresh Bhat",4.13,0.4,0.6,5,0.0037,0.96,0.1181
+G-107,50,4.07,Group 7,5,"Cheryl Ong, Arjun Sinha, Samantha Sanchez, Kai Qiang, Omar Rivera",4.1,0.6,0.4,5,0.0073,0.96,0.116
+G-107,50,4.07,Group 8,5,"Zulaikha Binti Rahman, Hayden Wu, Kavita Singh, Yuri Grigorev, Karan Patel",4.05,0.4,0.6,5,0.0087,0.96,0.1141
+G-107,50,4.07,Group 9,5,"Saanvi Roy, Victoria Reyes, Amara Siti, Jia Li, Emery Wu",4.12,0.2,0.8,5,0.008,0.64,0.1602
+G-107,50,4.07,Group 10,5,"Samreen Ali, Amelia Lewis, Nina Zhao, Charu Iyer, Archer Powell",4.1,0.2,0.8,5,0.0101,0.64,0.158
+G-108,50,4.08,Group 1,5,"Shahril Bin Hamid, Harini Nair, Randy Lim, Sophia Lee, Sheng Liu",4.07,0.4,0.6,5,0.0134,0.96,0.0836
+G-108,50,4.08,Group 2,5,"Ruby Diaz, Shun Takahashi, Nguyen Van Cuong, Renee Lee, Julian Wu",4.08,0.6,0.4,5,0.0025,0.96,0.0996
+G-108,50,4.08,Group 3,5,"Mason King, Maya Devi, Malia Tan, Caleb Parker, Siti Aisya Binti Ibrahim",4.09,0.4,0.6,5,0.0065,0.96,0.0916
+G-108,50,4.08,Group 4,5,"Cameron Ward, Hana Watanabe, Raj Patel, Qing Liu, Mae Chang",4.06,0.4,0.6,5,0.0206,0.96,0.0997
+G-108,50,4.08,Group 5,5,"Sakura Yamamoto, Kendrick Alvarado, Rajendra Kumar, Pooja Nair, Rajiv Nair",4.09,0.6,0.4,5,0.0075,0.96,0.1076
+G-108,50,4.08,Group 6,5,"Hina Waseem, Shreya Rani, Noah Gray, Matthew Martinez, Rafika Binti Harun",4.14,0.4,0.6,5,0.0583,0.96,0.0925
+G-108,50,4.08,Group 7,5,"Aarav Nair, Tara Lim, Lindsey Lin, Rizqi Bin Farhan, Nadya Zainal",4.08,0.4,0.6,5,0.0107,0.96,0.1156
+G-108,50,4.08,Group 8,5,"Yan Mei, Priya Menon, Zeeshan Ahmed, Liang Bo, Liam Reddy",4.05,0.6,0.4,5,0.0109,0.96,0.124
+G-108,50,4.08,Group 9,5,"Zheng Guo, Vidya Menon, Riya Mehta, Chen Ming, Camila Allen",4.06,0.4,0.6,5,0.0016,0.96,0.1318
+G-108,50,4.08,Group 10,5,"Shoji Takahashi, Ivy Wang, Samuel Lee, Hugo Long, Asher Thompson",4.12,0.8,0.2,5,0.0453,0.64,0.1608
+G-109,50,4.08,Group 1,5,"Alia Mohd, Harlow Chen, Hanh Pham, Kenta Suzuki, Asad Ali",4.08,0.4,0.6,5,0.0132,0.96,0.0448
+G-109,50,4.08,Group 2,5,"Fangling, Zoey Chen, Hana Takemura, Nitin Chaudhary, Nova Ong",4.08,0.4,0.6,5,0.0023,0.96,0.0528
+G-109,50,4.08,Group 3,5,"Raj Patel, Xuefeng, Ifti Binti Rahman, Cole Moore, Alina Smith",4.09,0.4,0.6,5,0.0069,0.96,0.0528
+G-109,50,4.08,Group 4,5,"Noah Harris, Carmen Tan, Cassidy Wang, Arav Singh, Shahril Bin Muni",4.07,0.4,0.6,5,0.0183,0.96,0.0449
+G-109,50,4.08,Group 5,5,"Hussain Bin Mohd, Maya Binti Rahim, Samantha Wilson, Kanti Gupta, Kendrick White",4.07,0.4,0.6,5,0.0113,0.96,0.069
+G-109,50,4.08,Group 6,5,"Phan Van Hoa, Zarina Binti Ibrahim, Wendy Cheung, Ritika Joshi, Ajay Reddy",4.06,0.4,0.6,5,0.0179,0.96,0.0691
+G-109,50,4.08,Group 7,5,"Liu Hong, Alvin Dela Cruz, Suriya Tan, Riya Verma, Rameez Shah",4.02,0.4,0.6,5,0.015,0.96,0.0725
+G-109,50,4.08,Group 8,5,"Norah Ng, Kong Wei Tan, Nori Matsuda, Lina Teo, Shahrir Bin Rahman",4.12,0.4,0.6,5,0.0131,0.96,0.0858
+G-109,50,4.08,Group 9,5,"Cheng Wei Yeo, Logan Harris, Ophelia Santos, Nia Carter, Claire Bennett",4.13,0.4,0.6,4,0.0065,0.96,0.1662
+G-109,50,4.08,Group 10,5,"Miriam Tan, Zhi Wei Lim, Sana Rehman, Sofia Wong, James Taylor",4.13,0.4,0.6,5,0.0054,0.96,0.1023
+G-11,50,4.07,Group 1,5,"Liang Mei, Julian Tan, Alison Wong, Tanvi Agarwal, Peiyu",4.13,0.4,0.6,5,0.0122,0.96,0.0698
+G-11,50,4.07,Group 2,5,"Tara Kumar, Noah Wilson, Zainab Rahman, Peilin, Ethan Ong",4.07,0.4,0.6,5,0.0022,0.96,0.0757
+G-11,50,4.07,Group 3,5,"Sana Ali, William Lim, Caleb Murphy, Daya Kumari, Nina Butler",4.0,0.4,0.6,5,0.0086,0.96,0.0787
+G-11,50,4.07,Group 4,5,"Kelly Lim, Seth Lim, Sebastian Mitchell, Elena Vladimirovna, Chengwei",4.06,0.6,0.4,5,0.0183,0.96,0.0816
+G-11,50,4.07,Group 5,5,"Arun Singh, Chloe Hu, Erqi, Tania Kurnia, Tian Yi",4.08,0.6,0.4,5,0.0128,0.96,0.0815
+G-11,50,4.07,Group 6,5,"Wesley Turner, Charlotte Martin, Cleo Wang, Riya Khan, Tyler Moore",4.07,0.4,0.6,5,0.0035,0.96,0.0917
+G-11,50,4.07,Group 7,5,"William Carter, Richa Agarwal, Lian Liu, Neha Kapoor, Jin Lee",4.08,0.4,0.6,5,0.0076,0.96,0.0918
+G-11,50,4.07,Group 8,5,"Jacob Howard, Ying Zhao, Charlotte Thomas, Nora Zhang, Hugo Huang",4.03,0.4,0.6,5,0.0135,0.96,0.0926
+G-11,50,4.07,Group 9,5,"Zhao Rui, Jovian Tan, Dewi Astuti, Ella Johnson, Aisha Fitria",4.14,0.4,0.6,4,0.0182,0.96,0.1748
+G-11,50,4.07,Group 10,5,"Alondra Santos, Dylan Anderson, Kunal Tan, Nguyen Hoang Khoa, Ethan Lee",4.06,0.6,0.4,4,0.0224,0.96,0.1376
+G-110,50,4.08,Group 1,5,"Anjali Sharma, Rajesh Desai, Wendy Chia, Nash Tan, Tobias Alonzo",4.09,0.6,0.4,5,0.0071,0.96,0.1122
+G-110,50,4.08,Group 2,5,"Mizuki Yamashita, Ying Mei, Kevin Ross, Anthony Liu, Gage Yang",4.06,0.6,0.4,5,0.0017,0.96,0.1122
+G-110,50,4.08,Group 3,5,"Sukanya Das, Yuna Takahashi, Shi Wei Lim, Wei Jun, Jamal Bin Rahman",4.07,0.6,0.4,5,0.0017,0.96,0.1121
+G-110,50,4.08,Group 4,5,"Quang Vu, Nurul Izzah, Jason Lam, Nashit Lee, Rohan Shah",4.1,0.6,0.4,5,0.0051,0.96,0.1125
+G-110,50,4.08,Group 5,5,"Cheng Wu, Faisal Malik, Eric Wong, Aubrey Davis, Nora Alia",4.08,0.4,0.6,5,0.0045,0.96,0.1136
+G-110,50,4.08,Group 6,5,"Rina Ahmad, Alaina Chang, Olga Reyes, Jia Wei, Silas Kim",4.13,0.4,0.6,5,0.008,0.96,0.1163
+G-110,50,4.08,Group 7,5,"Laila Thomas, Madison Edwards, Emma Black, Vincent Lim, Jaxon Lee",4.07,0.4,0.6,5,0.0038,0.96,0.1377
+G-110,50,4.08,Group 8,5,"Alana Lee, Zara Binti, Fatima Binti, Ashlyn Wu, Glenn Wong",4.06,0.2,0.8,5,0.0044,0.64,0.1523
+G-110,50,4.08,Group 9,5,"Avery Chan, Chloe Turner, Nadia Binti, Sarah Wang, Samuel Cook",4.09,0.2,0.8,5,0.0071,0.64,0.1601
+G-110,50,4.08,Group 10,5,"Anya Bogdanova, Riley Baker, Brianna Foster, Akemi Watanabe, Wren Tsai",4.02,0.0,1.0,5,0.0107,0.0,0.2068
+G-111,50,4.09,Group 1,5,"Caleb Gray, Penny Wong, Dylan Wang, Lily Scott, Haruto Suzuki",4.09,0.6,0.4,5,0.0073,0.96,0.0981
+G-111,50,4.09,Group 2,5,"Tyler Reddy, Haojun, Mateo Huang, Chandni Verma, Hiroshi Matsumoto",4.09,0.6,0.4,5,0.0562,0.96,0.1061
+G-111,50,4.09,Group 3,5,"Liam Wright, Nisha Malhotra, Madison Bailey, Oliver Chan, Shinichi Nakagawa",4.1,0.6,0.4,5,0.0042,0.96,0.1061
+G-111,50,4.09,Group 4,5,"Wang Ming, Deena Binti Mohd, Angela Lim, Deng Jian, Tristan Young",4.09,0.6,0.4,5,0.0139,0.96,0.0981
+G-111,50,4.09,Group 5,5,"Kartik Reddy, Hong Mei, Trisha Joshi, Jaxon Wu, Jaxon Green",4.17,0.6,0.4,5,0.0089,0.96,0.1001
+G-111,50,4.09,Group 6,5,"Panshi, Willow Chen, Raghav Reddy, Sophie Mendoza, Samira Khan",4.08,0.4,0.6,5,0.0289,0.96,0.1199
+G-111,50,4.09,Group 7,5,"Parker Martin, Violet Perez, Ethan James, Gina Wong, Dewi Sari",4.06,0.4,0.6,5,0.0195,0.96,0.1281
+G-111,50,4.09,Group 8,5,"Shreya Iyer, Afreen Bukhari, Tian Hua, Aisha Ali, Siti Nurhaliza Binti Idris",4.04,0.4,0.6,5,0.0152,0.96,0.1284
+G-111,50,4.09,Group 9,5,"Mila Cook, Silas Wu, Gideon Green, Manisha Gupta, Hao Xun",4.12,0.6,0.4,5,0.0024,0.96,0.1303
+G-111,50,4.09,Group 10,5,"Jasmine Rivera, Tae-Jin Kim, Thomas Harris, Xiong Wei Tan, Harper Tan",4.04,0.6,0.4,5,0.0138,0.96,0.1307
+G-112,50,4.11,Group 1,5,"Penny Kwan, Caleb Mitchell, Fadli Hidayat, Ursula Turner, Keiko Mori",4.06,0.4,0.6,5,0.0095,0.96,0.0846
+G-112,50,4.11,Group 2,5,"Fern Adams, Chen Yu, Cameron Tan, Ngoc Ho, Maris Tsai",4.05,0.4,0.6,5,0.0083,0.96,0.093
+G-112,50,4.11,Group 3,5,"Talia Li, Mackenzie Russell, Ashton Lee, Theo Cooper, Rocco Ong",4.05,0.6,0.4,5,0.0083,0.96,0.0677
+G-112,50,4.11,Group 4,5,"Uma Lopez, Sofia Khanna, Kyle Yip, Ryuu Tanaka, Linda Thomas",4.04,0.4,0.6,5,0.0139,0.96,0.0855
+G-112,50,4.11,Group 5,5,"Farah Binti Ibrahim, Fatima Noor, Min Zhang, Laila Shah, Bingqi",4.16,0.4,0.6,5,0.0136,0.96,0.0852
+G-112,50,4.11,Group 6,5,"Asha Tan, Lincoln Yang, Owais Javed, Bridgette Villanueva, Jagdeep Singh",4.09,0.6,0.4,5,0.0079,0.96,0.1144
+G-112,50,4.11,Group 7,5,"Charlotte Robinson, Ravi Deshmukh, Dong Chen, Ritika Patel, Jackson Yang",4.14,0.6,0.4,5,0.004,0.96,0.1148
+G-112,50,4.11,Group 8,5,"Emma Davis, Layla Reddy, Katia Tan, Sophia Moore, Zeke Yang",4.16,0.2,0.8,5,0.0333,0.64,0.1396
+G-112,50,4.11,Group 9,5,"Irene Cheung, Rowena Mendoza, Sakura Watanabe, Mai Le, Sanjay Kapoor",4.14,0.2,0.8,5,0.0008,0.64,0.1547
+G-112,50,4.11,Group 10,5,"Alice Wang, Riley Jackson, Elena Brown, Ella Zhao, Tarun Nair",4.16,0.2,0.8,5,0.0035,0.64,0.1554
+G-113,50,4.05,Group 1,5,"Lara Lim, Adrian Tan, Suman Singh, Zahid Bin Rahman, Sherry Tan",4.06,0.4,0.6,5,0.0049,0.96,0.0782
+G-113,50,4.05,Group 2,5,"Violet Ward, Yusuf Bin Sulaiman, Kaitlyn Carter, Alya Binti Mohd, Maximus Wright",4.02,0.4,0.6,5,0.0059,0.96,0.0708
+G-113,50,4.05,Group 3,5,"Clara Yang, Jamal Santos, Zara Price, Ahmad bin Ismail, Logan Green",4.04,0.6,0.4,5,0.0095,0.96,0.0949
+G-113,50,4.05,Group 4,5,"Gia Price, Brayden Torres, Vikram Joshi, Diana Prince, Amina Rahman",4.04,0.4,0.6,5,0.0116,0.96,0.0942
+G-113,50,4.05,Group 5,5,"Sadia Noor, Oscar Lee, Rohan Tan, Zain Malik, Han Chen Lim",4.09,0.6,0.4,5,0.0209,0.96,0.0875
+G-113,50,4.05,Group 6,5,"Siti binti Ahmad, Isaac Wright, Diana Binti Azhar, Zahrah Binti Noor, Sonia Iyer",4.08,0.4,0.6,5,0.0057,0.96,0.0865
+G-113,50,4.05,Group 7,5,"Kendall Zhang, Isaac Wong, Kimi Wibowo, Jasper Wang, Natalie Chen",4.12,0.4,0.6,5,0.0102,0.96,0.0969
+G-113,50,4.05,Group 8,5,"Samantha Yang, Yara Chen, Bharat Menon, Leonardo Thomas, Isaiah Murphy",3.99,0.6,0.4,5,0.0217,0.96,0.0969
+G-113,50,4.05,Group 9,5,"Elizaveta Antonova, Lydia Wang, Zhang Bo, Tess Tsai, Farrell Mendoza",4.05,0.4,0.6,5,0.0111,0.96,0.1102
+G-113,50,4.05,Group 10,5,"Fatima Khan, Grace Young, Taojie, Maya Rahayu, Rajiv Mehta",4.04,0.2,0.8,4,0.0105,0.64,0.2265
+G-114,50,4.09,Group 1,5,"Luna Tsai, Abigail Lewis, Dong-Wook Choi, Oki Andri, Troy Wong",4.18,0.6,0.4,5,0.0292,0.96,0.0793
+G-114,50,4.09,Group 2,5,"Lily Tan, Mira Khan, Guixiang, Xander Morris, Jueqi",4.09,0.4,0.6,5,0.0039,0.96,0.0853
+G-114,50,4.09,Group 3,5,"Cheng Zhang, Misha Rani, Alan Chan, Shawn Ng, Mila Wang",4.03,0.4,0.6,5,0.0074,0.96,0.0866
+G-114,50,4.09,Group 4,5,"Nguyen Thi Thanh, Sophie Patel, Li Chan, Tariq Khan, Xiao Wei",4.07,0.4,0.6,5,0.0042,0.96,0.1015
+G-114,50,4.09,Group 5,5,"Deepa Sharma, Bella Goh, Zachary Tan, Lia Harum, Rei Takahashi",4.07,0.4,0.6,5,0.0109,0.96,0.0934
+G-114,50,4.09,Group 6,5,"Rosa Tan, Saira Raza, Ravi Chandran, Sana Malik, Isaac Lee",4.05,0.4,0.6,5,0.0045,0.96,0.1099
+G-114,50,4.09,Group 7,5,"Gauri Mehta, Thea Wang, Miho Nishimura, Maya Zhao, Rohan Sharma",4.17,0.2,0.8,5,0.0244,0.64,0.1415
+G-114,50,4.09,Group 8,5,"Gloria Li, Ariana Richardson, Sofia Cheng, Aubree King, Azman bin Rahman",4.11,0.2,0.8,5,0.0041,0.64,0.1471
+G-114,50,4.09,Group 9,5,"Kabir Singh, Wani Binti Azhar, Iris Lim, Alia Zainal, Amit Sharma",4.12,0.2,0.8,5,0.0053,0.64,0.1474
+G-114,50,4.09,Group 10,5,"Svetlana Petrovna, Kira Foster, Rida Khan, Hannah Tan, Orion Setiawan",4.01,0.2,0.8,5,0.0151,0.64,0.1572
+G-115,50,4.09,Group 1,5,"Sophie Tsai, Harry Li, Caleb Wright, Layla Carter, Pooja Mehra",4.04,0.4,0.6,5,0.0142,0.96,0.082
+G-115,50,4.09,Group 2,5,"Meghan Carter, David Stewart, Nathan Davis, Anaya Shah, James Wright",4.12,0.6,0.4,5,0.0141,0.96,0.0858
+G-115,50,4.09,Group 3,5,"Hina Bukhari, Gordon Yip, Ryoji Yamamoto, Sanya Ahuja, Derrick Lim",4.05,0.6,0.4,5,0.0254,0.96,0.0868
+G-115,50,4.09,Group 4,5,"Ananya Doshi, Alexander Phillips, Rhea Wu, Nathan Diaz, Ella Chen",4.11,0.4,0.6,5,0.0062,0.96,0.0958
+G-115,50,4.09,Group 5,5,"Siti Nora, Samantha Lim, Daiki Matsumoto, Hendrix Yang, Luna Flores",4.09,0.4,0.6,5,0.0031,0.96,0.0957
+G-115,50,4.09,Group 6,5,"Miyuki Nishimura, Lilly Wong, Nguyen Van Loc, Kieran Zhao, Alya Binti Zainal",4.09,0.4,0.6,5,0.0053,0.96,0.0957
+G-115,50,4.09,Group 7,5,"Oliver Lim, Anna Kim, Aoi Tanaka, Ryan Edwards, Nida Rehman",4.11,0.4,0.6,5,0.0024,0.96,0.0959
+G-115,50,4.09,Group 8,5,"Jai Singh, Amber Chen, Shaista Iqbal, Mira Agustina, Kohei Tanaka",4.13,0.4,0.6,5,0.0071,0.96,0.1128
+G-115,50,4.09,Group 9,5,"Mukesh Kumar, Isabella Ward, Saira Iqbal, Weimin, Zhi Yi Lim",4.1,0.6,0.4,5,0.0132,0.96,0.1255
+G-115,50,4.09,Group 10,5,"Jaxon Young, Fiona Li, Yui Kobayashi, Ling Liu, Talha Malik",4.1,0.4,0.6,5,0.0034,0.96,0.1357
+G-116,50,4.1,Group 1,5,"Samuel Patel, Maya Ali, Suman Verma, Derek Lee, Hikaru Matsumoto",4.19,0.6,0.4,5,0.0235,0.96,0.0792
+G-116,50,4.1,Group 2,5,"Aarav Verma, Willow Li, Nguyen Minh Quang, Amina Begum, Ashok Nair",4.1,0.6,0.4,5,0.0189,0.96,0.0847
+G-116,50,4.1,Group 3,5,"Mohammed Hafiz, Anu Iyer, Eric Liu, Nafisa Shah, Harlan Perdana",4.08,0.6,0.4,5,0.0046,0.96,0.0929
+G-116,50,4.1,Group 4,5,"Zoe Brown, Quinn Lim, Derek Adams, Fengguo, Nicolas Ramos",4.17,0.6,0.4,5,0.0377,0.96,0.094
+G-116,50,4.1,Group 5,5,"Sonia Verma, Dong Chen, Hao Wei Tan, Nurul Aini, Jueqi",4.04,0.6,0.4,5,0.0202,0.96,0.1097
+G-116,50,4.1,Group 6,5,"Charlotte Walker, Gabriel Edwards, Zain Ali, Kimberly Lim, Adrian Zhang",4.08,0.6,0.4,5,0.0053,0.96,0.1169
+G-116,50,4.1,Group 7,5,"Nguyen Thi Thao, Henry Liu, Lucy Chen, Lorenzo Wu, Dongmei",4.12,0.6,0.4,5,0.0103,0.96,0.1089
+G-116,50,4.1,Group 8,5,"Sophie Martinez, Gavin Smith, Amira Hasan, Asher Hill, Aarav Gupta",4.1,0.6,0.4,5,0.0226,0.96,0.1167
+G-116,50,4.1,Group 9,5,"Jovian Liu, Sophia Yang, Serena Xiao, Riley Lin, Tina Ho",4.1,0.2,0.8,5,0.0025,0.64,0.1593
+G-116,50,4.1,Group 10,5,"Ahmad Raza, Rina Patel, Zahra Yousaf, Fern Ng, Nina Khan",4.02,0.2,0.8,4,0.0059,0.64,0.2331
+G-117,50,4.11,Group 1,5,"Ying Yi, Daniel Patel, Rizwan Raza, Dhruv Sharma, Vina Ratnasari",4.11,0.4,0.6,5,0.0046,0.96,0.08
+G-117,50,4.11,Group 2,5,"Pamela Reyes, Evelyn Rodriguez, Ulysses Chan, Mingyu, Aurora Price",4.11,0.4,0.6,5,0.0055,0.96,0.072
+G-117,50,4.11,Group 3,5,"Aminah Safwan, Isabella Miller, Jin Yu Tan, Zhi Wei Lim, Shanice Tan",4.07,0.4,0.6,5,0.0118,0.96,0.0722
+G-117,50,4.11,Group 4,5,"Gita Ayu, Qori Putri, Leah Tan, Adrian Lee, Aditya Tan",4.11,0.4,0.6,5,0.0045,0.96,0.08
+G-117,50,4.11,Group 5,5,"Chloe Zhang, Kiran Reddy, Tian Yi Tan, Derek Martinez, Liam Ali",4.11,0.4,0.6,5,0.0129,0.96,0.08
+G-117,50,4.11,Group 6,5,"Kylie Roberts, Maira Binti Rahman, Farah Binti, Hikaru Tanaka, Dylan Li",4.09,0.4,0.6,5,0.1079,0.96,0.0801
+G-117,50,4.11,Group 7,5,"Jun Yi Tan, Fuzheng, Dustin Zhao, Hani Suharni, Nisha Rani",4.1,0.4,0.6,5,0.0044,0.96,0.096
+G-117,50,4.11,Group 8,5,"Yuki Sato, Miyuki Takeda, Farah Ahmed, Hao Chen Lee, Chen Ya",4.15,0.4,0.6,5,0.0075,0.96,0.1043
+G-117,50,4.11,Group 9,5,"Aidan Scott, Claudia Wang, Ember Chang, Kavita Desai, Zane Navarro",4.09,0.4,0.6,5,0.0028,0.96,0.1041
+G-117,50,4.11,Group 10,5,"Felix Lim, Katherine Ho, Maira Malik, Zelda Ong, Ihsan Rahma",4.15,0.4,0.6,5,0.013,0.96,0.1123
+G-118,50,4.11,Group 1,5,"Kendall Smith, Sonya Tan, Uriah Howard, Neha Gupta, Gwen Alvarado",4.13,0.4,0.6,5,0.0419,0.96,0.0807
+G-118,50,4.11,Group 2,5,"Marcus Lim, Divya Mehta, Sufyan Bin Ramli, Radhika Iyer, Aleksey Ivanov",4.1,0.6,0.4,5,0.0066,0.96,0.0929
+G-118,50,4.11,Group 3,5,"Jacob Edwards, Cameron Carter, Shreya Mehta, Lan Liu, Kiran Reddy",4.1,0.6,0.4,5,0.0022,0.96,0.0849
+G-118,50,4.11,Group 4,5,"Feng Zhao, Dane Santos, Peyton Simmons, Addison Young, Ika Putri",4.09,0.4,0.6,5,0.0195,0.96,0.0886
+G-118,50,4.11,Group 5,5,"Chen Liu, Noah Yang, Randy Lim, Autumn Chen, Olive James",4.11,0.6,0.4,5,0.0169,0.96,0.085
+G-118,50,4.11,Group 6,5,"Ningyi, Rafiq Bin Omar, Dylan Tan, Luna Chen, Eliana Tan",4.11,0.6,0.4,5,0.0281,0.96,0.101
+G-118,50,4.11,Group 7,5,"Tanya Tan, Liam Zhang, Sandeep Sharma, Qing Zhao, Dorian Yang",4.11,0.6,0.4,5,0.0051,0.96,0.1089
+G-118,50,4.11,Group 8,5,"Linh Vu, Theodore Yang, Isaiah Huang, Aaliyah Brooks, Hugo Wong",4.1,0.6,0.4,5,0.0035,0.96,0.117
+G-118,50,4.11,Group 9,5,"Riya Bhatia, Luca Torres, David Phillips, Maximus Davis, Ravi Reddy",4.09,0.8,0.2,5,0.0102,0.64,0.1504
+G-118,50,4.11,Group 10,5,"Kylie Torres, Zeke Villanueva, Seth Li, Aki Nishimura, Guang Li",4.13,0.6,0.4,4,0.0177,0.96,0.2051
+G-119,50,4.1,Group 1,5,"Mila Sanchez, Ravi Tan, Shazwan Bin Rahman, Sabrina Tan, Andrew Wong",4.0,0.6,0.4,5,0.0188,0.96,0.0903
+G-119,50,4.1,Group 2,5,"Irina Petrovna, Felix Wong, Kamran Shah, Priya Reddy, Nguyen Van Phuc",4.13,0.6,0.4,5,0.0042,0.96,0.1077
+G-119,50,4.1,Group 3,5,"Cassandra Wu, Shayla Wu, Jackson Yang, Christopher Martinez, Sabrina Lee",4.11,0.4,0.6,5,0.0088,0.96,0.0983
+G-119,50,4.1,Group 4,5,"Truong Thi Hai, Siti Nur, Adriel Chen, Malcolm Chen, Malcolm Tan",4.1,0.6,0.4,5,0.0168,0.96,0.0908
+G-119,50,4.1,Group 5,5,"Sophie Garcia, Emma Lee, Tania Lim, Ryan James, Ben Tan",4.12,0.4,0.6,5,0.0029,0.96,0.1145
+G-119,50,4.1,Group 6,5,"Anoushka Rao, Luming, Mila Torres, Manoj Pillai, Katrina Tan",4.09,0.4,0.6,5,0.0036,0.96,0.1143
+G-119,50,4.1,Group 7,5,"Mariah Mendoza, Seth Li, Carmen Li, Nikhil Kumar, Linh Tran",4.1,0.4,0.6,5,0.0131,0.96,0.1142
+G-119,50,4.1,Group 8,5,"Jing Li, Felicity Tan, Amelia Young, Cai Wei, Adam Patterson",4.11,0.4,0.6,5,0.0145,0.96,0.1223
+G-119,50,4.1,Group 9,5,"Lana Cooper, Sora Nishimura, Siti Aida, Karthik Nair, Liam Walker",4.09,0.4,0.6,5,0.0011,0.96,0.1462
+G-119,50,4.1,Group 10,5,"Clara Lee, Ravi Kumar, Qiao Yu, Dante Wong, Kaitlyn Morris",4.13,0.2,0.8,5,0.0072,0.64,0.1672
+G-12,50,4.12,Group 1,5,"Vesper Salazar, Ian Alonzo, Huang Wei, Tilly Ramos, Harper Martinez",4.18,0.4,0.6,5,0.0307,0.96,0.0944
+G-12,50,4.12,Group 2,5,"Miriam Alvarado, Malachi Liu, Liam Torres, Anaya Mehta, Jin-Woo Seo",4.11,0.6,0.4,5,0.0055,0.96,0.1036
+G-12,50,4.12,Group 3,5,"Skye Huang, Aarav Tan, Nitesh Singh, Fatima Zainal, Stephen Evans",4.12,0.6,0.4,5,0.0513,0.96,0.0956
+G-12,50,4.12,Group 4,5,"Sofia Ali, Fabian Navarro, Budi Santoso, Lily Nguyen, Ayaan Tan",4.12,0.6,0.4,5,0.01,0.96,0.1036
+G-12,50,4.12,Group 5,5,"Chloe Lee, Nash Tan, Adrian Wong, Sienna Zhang, Keegan Li",4.15,0.6,0.4,5,0.0086,0.96,0.104
+G-12,50,4.12,Group 6,5,"Ranya Lim, Zhonghua, Kenshin Hayashi, Jin-Ah Park, Hannah Robinson",4.11,0.4,0.6,5,0.0173,0.96,0.1167
+G-12,50,4.12,Group 7,5,"Penny Lim, Siddharth Patel, Yuri Mikhailov, Kai Zhang, Sofia Nelson",4.08,0.4,0.6,5,0.0055,0.96,0.1171
+G-12,50,4.12,Group 8,5,"Kendall Cooper, Freya Li, Jovian Tan, Rakesh Nair, Ashlyn Wang",4.07,0.4,0.6,5,0.0133,0.96,0.1257
+G-12,50,4.12,Group 9,5,"Yui Yamamoto, Isabella Zhao, Sadiya Iqbal, Liam Yip, Farhan Bin Azhar",4.08,0.4,0.6,5,0.0155,0.96,0.1333
+G-12,50,4.12,Group 10,5,"Diya Yadav, Scarlett Gonzalez, Meera Reddy, Aarav Sinha, Jayden Smith",4.15,0.4,0.6,5,0.0104,0.96,0.1411
+G-120,50,4.12,Group 1,5,"Jackson Moore, Yani Santoso, Joni Setiawan, Janet Ng, Jayden Clark",4.11,0.6,0.4,5,0.0124,0.96,0.0741
+G-120,50,4.12,Group 2,5,"Omar Chen, Giselle Bautista, Fauzi Bin Zain, Samantha Patel, Kai Wei",4.14,0.6,0.4,5,0.0382,0.96,0.0743
+G-120,50,4.12,Group 3,5,"Isaac Wu, Kang Lei, Yara Price, Nolan Foster, Christopher Harris",4.1,0.6,0.4,5,0.0043,0.96,0.0742
+G-120,50,4.12,Group 4,5,"Dong-Il Kim, Jasmine Khan, Yan Li, Victor Andreyev, Ruiwen",4.12,0.6,0.4,5,0.0014,0.96,0.0821
+G-120,50,4.12,Group 5,5,"Marcus Chen, Taro Suzuki, Samantha Lee, Victoria Choi, Yasir Shah",4.17,0.6,0.4,5,0.0353,0.96,0.0911
+G-120,50,4.12,Group 6,5,"Rishi Singh, Samantha Cooper, Rachel Yeo, Jing Chen, Sneha Chakraborty",4.12,0.4,0.6,5,0.0076,0.96,0.0879
+G-120,50,4.12,Group 7,5,"Derek Tan, John Walker, Riku Tanaka, Deng Li, Yasmin Kaur",4.11,0.6,0.4,5,0.0093,0.96,0.0981
+G-120,50,4.12,Group 8,5,"Ashok Patil, Samuel Cook, Jessica Lee, Levi Parker, Ava Rodriguez",4.09,0.6,0.4,5,0.0059,0.96,0.0985
+G-120,50,4.12,Group 9,5,"Janelle Huang, Oliver Wu, Briar Young, Faisal Bin Yusof, Yani Rahmadani",4.17,0.4,0.6,4,0.0409,0.96,0.1849
+G-120,50,4.12,Group 10,5,"Charlotte Alexander, Ravi Gupta, Tina Sun, Lucas Gonzalez, Sophia White",4.05,0.4,0.6,4,0.0025,0.96,0.2014
+G-13,50,4.06,Group 1,5,"Yara Ross, Huiqin, Hendrik Surya, Ryan Edwards, Evelyn Robinson",4.04,0.4,0.6,5,0.0049,0.96,0.089
+G-13,50,4.06,Group 2,5,"Leila Shah, Qori Amalia, Vivek Sethi, Jia Li, Emily Chua",4.07,0.4,0.6,5,0.0244,0.96,0.0806
+G-13,50,4.06,Group 3,5,"Lydia Patterson, Nora Bell, Dustin Zhao, Boris Volkov, Svetlana Egorova",4.05,0.4,0.6,5,0.0189,0.96,0.0886
+G-13,50,4.06,Group 4,5,"Kiran Patel, Ruiwen, Harish Rao, Wyatt Ward, Denny Saputra",4.02,0.6,0.4,5,0.0201,0.96,0.0908
+G-13,50,4.06,Group 5,5,"Zara Ho, Shun Takahashi, Su Ling, Paul Kim, Fang Hong",4.06,0.4,0.6,5,0.002,0.96,0.1206
+G-13,50,4.06,Group 6,5,"Ling Zhang, Wahyu Prabowo, Meena Iyer, Eli Chen, Kieran Kim",4.05,0.6,0.4,5,0.0122,0.96,0.0973
+G-13,50,4.06,Group 7,5,"Zara Wang, Rahul Joshi, Tasneem Javed, Kaori Nakajima, Arnav Yadav",4.06,0.4,0.6,5,0.0139,0.96,0.1126
+G-13,50,4.06,Group 8,5,"Lola Wong, Aiko Watanabe, Jackie Robinson, Nina Tan, Wenkai",4.06,0.4,0.6,5,0.0022,0.96,0.1206
+G-13,50,4.06,Group 9,5,"Diya Mukherjee, Alyssa Garcia, Lucas Peterson, Meiling, Hussain Bin Mohd",4.09,0.4,0.6,5,0.0137,0.96,0.1293
+G-13,50,4.06,Group 10,5,"Lila Reed, Olivia Allen, Anthony Morgan, Yun Li, Colton Roberts",4.12,0.4,0.6,4,0.0064,0.96,0.2192
+G-14,50,4.08,Group 1,5,"Hui Yao Tan, Shahid Malik, Talia Chang, Samuel Torres, Rizal Ramadhan",4.0,0.6,0.4,5,0.0138,0.96,0.1038
+G-14,50,4.08,Group 2,5,"Linda Wong, Tian Wang, Jing Yi, Eko Prasetyo, Dylan Adams",3.99,0.6,0.4,5,0.0342,0.96,0.1041
+G-14,50,4.08,Group 3,5,"Fatimah Rahman, Hao Xiang Tan, Yvonne Ko, Brendan James, Riya Yadav",4.11,0.4,0.6,5,0.004,0.96,0.1155
+G-14,50,4.08,Group 4,5,"Quinn Dela Cruz, Hana Yamamoto, Xander Wong, Liang Hong, Diana Kwan",4.08,0.4,0.6,5,0.002,0.96,0.1231
+G-14,50,4.08,Group 5,5,"Emily Harris, Rabia Noor, Ashraff Bin Mohd, Zhou Min, Shamita Rani",4.08,0.4,0.6,5,0.0032,0.96,0.1231
+G-14,50,4.08,Group 6,5,"Carmen Lee, Aiko Kimura, Henry Morales, Hugo Huang, Stella Green",4.07,0.4,0.6,5,0.0102,0.96,0.1231
+G-14,50,4.08,Group 7,5,"Chloe Ng, Jenna Wong, Steve Lau, Riley Kim, Winston Yang",4.13,0.6,0.4,5,0.0052,0.96,0.1269
+G-14,50,4.08,Group 8,5,"Siti Aisyah, Xyla Cruz, Samuel Morgan, Yusuf Bin Sulaiman, Chandra Widyanto",4.19,0.6,0.4,5,0.0396,0.96,0.1377
+G-14,50,4.08,Group 9,5,"Freddie Wong, Madiha Qureshi, Henry King, Sanjana Mehta, Anita Clarke",4.08,0.4,0.6,5,0.0005,0.96,0.1391
+G-14,50,4.08,Group 10,5,"Sharifah Ali, Veera Kumar, Min-Jae Park, Sophie Liao, Kai Wong",4.03,0.4,0.6,5,0.0237,0.96,0.1397
+G-15,50,4.06,Group 1,5,"Levi Price, Samantha Wu, Wu Bin, Saki Watanabe, Isabella Wilson",4.05,0.4,0.6,5,0.0026,0.96,0.0893
+G-15,50,4.06,Group 2,5,"Soren Wu, Yun Zhang, Shaima Binti Rahman, Hani Susanti, Neelam Patel",4.06,0.4,0.6,5,0.003,0.96,0.0733
+G-15,50,4.06,Group 3,5,"Zachary Walker, Aditi Bhat, Noor Rani, Nguyen Thi Thuy, Mira Sulaiman",4.01,0.4,0.6,5,0.0089,0.96,0.0831
+G-15,50,4.06,Group 4,5,"Leo Cooper, Seng Wei Lim, Hassan Bin Yusof, Lily Ng, Zoe Lim",4.0,0.6,0.4,5,0.0092,0.96,0.0808
+G-15,50,4.06,Group 5,5,"Isaac Tan, Siddharth Iyer, Dominic Yang, Meenakshi Iyer, Deepika Singh",4.07,0.6,0.4,5,0.011,0.96,0.0938
+G-15,50,4.06,Group 6,5,"Truong Van Hoang, Brendan James, Zachary Garcia, Haroon Qureshi, Zoe Lin",4.09,0.8,0.2,5,0.0137,0.64,0.1039
+G-15,50,4.06,Group 7,5,"Azhar Khan, Sung-Min Yoo, Sania Noor, Tyler Johnson, Victoria Wang",4.04,0.6,0.4,5,0.0196,0.96,0.078
+G-15,50,4.06,Group 8,5,"Felicity Morgan, Rory Hughes, Warner Ng, Beckett Lee, Soniya Malik",4.06,0.6,0.4,5,0.0012,0.96,0.1098
+G-15,50,4.06,Group 9,5,"Shanaz Iqbal, Andrew Clark, Xiangqi, Caleb Hughes, Isha Tan",4.07,0.6,0.4,5,0.0023,0.96,0.1259
+G-15,50,4.06,Group 10,5,"Zahra Khan, Jayden Lee, Aaron Taylor, Zhao Li, Derek Tan",4.14,0.8,0.2,5,0.0138,0.64,0.1481
+G-16,50,4.08,Group 1,5,"Geeta Reddy, Dylan Lewis, Caleb Yang, Maya Tan, Xiuqin",4.08,0.6,0.4,5,0.0096,0.96,0.0863
+G-16,50,4.08,Group 2,5,"Ritika Singh, William Li, Lydia Yip, Khalid Malik, Nitin Kumar",4.12,0.6,0.4,5,0.0455,0.96,0.0949
+G-16,50,4.08,Group 3,5,"Ursula Cruz, Liam Reddy, Lydia Chen, Wei Jie, Jeremiah Santos",4.06,0.6,0.4,5,0.0071,0.96,0.1024
+G-16,50,4.08,Group 4,5,"Noor Jahan, Albert Yip, Anita Patel, Liam Hughes, Maya Alexander",4.09,0.4,0.6,5,0.0074,0.96,0.1126
+G-16,50,4.08,Group 5,5,"Sophia Davis, Wesley Villanueva, Chloe Green, Eva Cooper, Tristan Lim",4.01,0.4,0.6,5,0.0116,0.96,0.0982
+G-16,50,4.08,Group 6,5,"Derek Hill, Durga Sharma, Nazia Nadeem, Mia Clark, Ivan Wong",4.07,0.4,0.6,5,0.0024,0.96,0.1045
+G-16,50,4.08,Group 7,5,"Henry Cheung, Sanjana Gupta, Ami Mori, Naina Mehta, Tyson Scott",4.07,0.4,0.6,5,0.0021,0.96,0.1125
+G-16,50,4.08,Group 8,5,"Chen Wang, Lihua, Soo-Min Park, Sylvia Tan, Hiroshi Yamashita",4.06,0.4,0.6,5,0.0076,0.96,0.1206
+G-16,50,4.08,Group 9,5,"Derek Bautista, Shu Fang, Usman Iqbal, Jane Lee, Samara Chang",4.13,0.4,0.6,5,0.0039,0.96,0.1215
+G-16,50,4.08,Group 10,5,"Zhen Li, Mabel Turner, Aishwarya Nair, Kathy Yip, Shuqi",4.08,0.4,0.6,5,0.0131,0.96,0.1285
+G-17,50,4.09,Group 1,5,"Nash Reddy, Nicolette Cruz, Gwen Lee, Toshiro Takashima, Rohan Kumar",4.1,0.6,0.4,5,0.0181,0.96,0.0861
+G-17,50,4.09,Group 2,5,"Joshua Thomas, Sofia Lee, Janet Wong, Wang Feng, Geeta Kaur",4.02,0.4,0.6,5,0.0105,0.96,0.096
+G-17,50,4.09,Group 3,5,"Kenny Lim, Tina Lim, Peiyu, Jin Ho, Wawan Kurniawan",4.07,0.6,0.4,5,0.0099,0.96,0.1022
+G-17,50,4.09,Group 4,5,"Anil Mehta, Anya Mohd, Maya Johnson, Mohammed Ali, James Tan",4.09,0.6,0.4,5,0.0022,0.96,0.118
+G-17,50,4.09,Group 5,5,"Edison Raka, Violet Zhou, Yuna Tan, Ritika Ali, Evan Thomas",4.08,0.4,0.6,5,0.0124,0.96,0.11
+G-17,50,4.09,Group 6,5,"Zulaikha Binti Mohd, Uriah Ramos, Sana Johar, Huifen, Harrison Mendoza",4.08,0.4,0.6,5,0.0182,0.96,0.11
+G-17,50,4.09,Group 7,5,"Sadia Bukhari, Kenta Takahashi, Jia Ming, Diyana Binti Kamar, Rui Jin Tan",4.08,0.6,0.4,5,0.0093,0.96,0.118
+G-17,50,4.09,Group 8,5,"Aaron Lee, Zain Ali, Meher Awan, Siti Amani, Reza Khan",4.16,0.4,0.6,5,0.0333,0.96,0.12
+G-17,50,4.09,Group 9,5,"Vinay Nair, Scarlett Tan, Xiao Yu, Angela Zhang, Aleksei Koval",4.06,0.4,0.6,5,0.0066,0.96,0.1343
+G-17,50,4.09,Group 10,5,"Maya Binti Azman, George Wilson, Minh Dao, Zara Mitchell, Manish Joshi",4.15,0.6,0.4,5,0.0059,0.96,0.1435
+G-18,50,4.07,Group 1,5,"Megan Lim, Uday Singh, Maya Rani, Tyler Garcia, Fang Ling",4.1,0.4,0.6,5,0.0109,0.96,0.1005
+G-18,50,4.07,Group 2,5,"Chloe Chen, Fang Mei, Sana Reddy, Adrian Lim, Bilal Ahmed",4.09,0.4,0.6,5,0.0086,0.96,0.084
+G-18,50,4.07,Group 3,5,"Shahida Khan, Ella Villanueva, Citra Amara, Jackson Clark, Pandu Setiawan",4.1,0.4,0.6,5,0.0115,0.96,0.0925
+G-18,50,4.07,Group 4,5,"Suhana Rao, Mira Binti Yusof, Layla Harris, Jonathan Sun, Jawad Khan",4.08,0.4,0.6,5,0.0105,0.96,0.0994
+G-18,50,4.07,Group 5,5,"Samantha Tan, Amina Tariq, Dylan Parker, Brayden Hall, Shuang",4.04,0.4,0.6,5,0.0082,0.96,0.0922
+G-18,50,4.07,Group 6,5,"Min Li, Lila Tan, Ayushi Gupta, Harlan Perdana, Kelly Tsang",4.07,0.4,0.6,5,0.0045,0.96,0.1154
+G-18,50,4.07,Group 7,5,"Rita Sharma, Sophia Thomas, Tessa Lee, Arjun Rao, Luca Wong",4.07,0.4,0.6,5,0.0118,0.96,0.1154
+G-18,50,4.07,Group 8,5,"Paxton Ross, Kinsley Tsai, Yasmin Lee, Isabella Lee, Lucas Wright",4.02,0.4,0.6,5,0.0099,0.96,0.1186
+G-18,50,4.07,Group 9,5,"Mohan Rao, Zara Lim, Shan Binti, Liu Wei, Derek White",4.07,0.4,0.6,5,0.012,0.96,0.1234
+G-18,50,4.07,Group 10,5,"Xiu Zhang, Yuying Wang, Athena Zhao, Shreya Das, Hao Liang Lim",4.06,0.2,0.8,5,0.0131,0.64,0.1669
+G-19,50,4.07,Group 1,5,"Ava Wilson, Owais Khan, Matthew Clark, Mi-Sook Kim, Lance Alvarado",4.02,0.6,0.4,5,0.0148,0.96,0.0793
+G-19,50,4.07,Group 2,5,"Jessica Martinez, Samuel Lee, Lucas Green, Ananya Kaul, Rohan Shah",4.12,0.6,0.4,5,0.0044,0.96,0.0867
+G-19,50,4.07,Group 3,5,"Jaxon White, Shanaya Tan, Whitney Alvarado, Kendrick Scott, Aarav Reddy",4.06,0.6,0.4,5,0.0105,0.96,0.0845
+G-19,50,4.07,Group 4,5,"Zhou Rui, Sneha Joshi, Nguyen Thi Lan, An Nguyen, Qi Zhang",4.03,0.4,0.6,5,0.0096,0.96,0.0864
+G-19,50,4.07,Group 5,5,"Ella Mitchell, Tristan Castillo, Priti Mehta, Matthew Lee, Gavin Zhao",4.07,0.6,0.4,5,0.0027,0.96,0.1164
+G-19,50,4.07,Group 6,5,"Sushmita Roy, Alyssa Ramirez, Zachary Li, Chen Yu, Imran Waseem",4.06,0.6,0.4,5,0.0067,0.96,0.1087
+G-19,50,4.07,Group 7,5,"Nikhil Reddy, Olivia Fernandez, Sasha Tan, Chen Bo, Arunachalam Devi",4.1,0.4,0.6,5,0.0107,0.96,0.1091
+G-19,50,4.07,Group 8,5,"Christopher Morris, Violeta Ong, Chunxiu, Gabriel Scott, Ping Zhang",4.08,0.4,0.6,5,0.0027,0.96,0.1325
+G-19,50,4.07,Group 9,5,"Emily White, Qianwen, Amite Agarwal, Arvind Reddy, Miyuki Watanabe",4.07,0.4,0.6,5,0.0036,0.96,0.1324
+G-19,50,4.07,Group 10,5,"Mason Wilson, Nina Hu, Vanya Nair, Nina Desai, Rohan Gupta",4.13,0.4,0.6,5,0.0015,0.96,0.1431
+G-2,50,4.09,Group 1,5,"Brianna Johnson, Layla Collins, Mira Lin, Jesse Bennett, Ahmad Ramlie",4.07,0.4,0.6,5,0.0024,0.96,0.0931
+G-2,50,4.09,Group 2,5,"Aadhya Sharma, Gisela Tan, Lana Turner, Winston Villanueva, Derek Adams",4.09,0.4,0.6,5,0.0056,0.96,0.1006
+G-2,50,4.09,Group 3,5,"Lila Zhao, Tina Tan, Shalini Pillai, Yang Zhang, Eli Walker",4.1,0.4,0.6,5,0.0073,0.96,0.1089
+G-2,50,4.09,Group 4,5,"Sofia Chandra, Addison Chen, Anya Chua, Isaiah Turner, Haroon Ali",4.08,0.4,0.6,5,0.0108,0.96,0.1087
+G-2,50,4.09,Group 5,5,"Mingjing, Zhengrong, Shirley Tan, Nathaniel Adams, Tanya Sharma",4.11,0.4,0.6,5,0.0057,0.96,0.1091
+G-2,50,4.09,Group 6,5,"Xiu Li, Ki-Hoon Kim, Lina Binti Ali, Ali Abubakar, Sophia Koh",4.1,0.4,0.6,5,0.0041,0.96,0.1169
+G-2,50,4.09,Group 7,5,"Yoshiko Mori, Yuri Chekhov, Fatima Yusof, Izzat Bin Ibrahim, Quinn Lee",4.08,0.6,0.4,5,0.0054,0.96,0.1208
+G-2,50,4.09,Group 8,5,"Nadia Iqbal, Hanafi Bin Mohd, Zain Qureshi, Chunhua, David Ho",4.04,0.2,0.8,5,0.0081,0.64,0.152
+G-2,50,4.09,Group 9,5,"Patricia Wong, Priya Gupta, Mei Zhao, Nguyen Thi Phuong, Carter Moore",4.11,0.2,0.8,5,0.0033,0.64,0.1501
+G-2,50,4.09,Group 10,5,"Lara Li, Fatima Rani, Selena Tan, Stella Bryant, Jasper Lim",4.09,0.2,0.8,5,0.0127,0.64,0.1572
+G-20,50,4.08,Group 1,5,"Mia Wang, Hiroshi Kobayashi, Alice Liu, Kartik Nair, Simon Li",4.09,0.6,0.4,5,0.0147,0.96,0.0655
+G-20,50,4.08,Group 2,5,"Natasha Wong, Xiang Hong, Yasir Shah, Yulianto Budi, Emily Baker",4.11,0.4,0.6,5,0.006,0.96,0.076
+G-20,50,4.08,Group 3,5,"Riya Chen, Harper Wright, Gaurav Dutta, Ishaan Mehta, Oliver Gray",4.07,0.6,0.4,5,0.0035,0.96,0.0815
+G-20,50,4.08,Group 4,5,"Emily Hill, Luna Lin, Zeeshan Khan, Jin Ping, Jack Ng",4.05,0.6,0.4,5,0.0051,0.96,0.0818
+G-20,50,4.08,Group 5,5,"Mia Chang, Miyuki Kobayashi, Milo Li, Sanjay Tan, Kazuko Watanabe",4.08,0.4,0.6,5,0.0086,0.96,0.0837
+G-20,50,4.08,Group 6,5,"Quinn Rivera, Yoshiko Taniguchi, Yuna Tanaka, Patrick Villanueva, Raghav Sharma",4.08,0.4,0.6,5,0.0125,0.96,0.0917
+G-20,50,4.08,Group 7,5,"Ivy Chan, Huanyu, Abigail White, Jasmine Hall, Nguyen Huu Phuc",4.07,0.2,0.8,5,0.005,0.64,0.1148
+G-20,50,4.08,Group 8,5,"Jaden Walker, Tanvi Kapoor, Mi-Ya Kim, Jingwen, Matthew Wu",4.09,0.4,0.6,5,0.0199,0.96,0.0917
+G-20,50,4.08,Group 9,5,"Cameron Hall, Priyanka Singh, Huang Xin, Gina Agustina, Greta Lin",4.11,0.4,0.6,4,0.0431,0.96,0.108
+G-20,50,4.08,Group 10,5,"Ayush Desai, Truong Minh Quang, Huang Feng, Yuki Tanaka, Bella Torres",4.06,0.6,0.4,4,0.0154,0.96,0.1216
+G-21,50,4.07,Group 1,5,"Neelam Agarwal, Joseph Lee, Kali Chang, Dylan Walker, Ursula Ng",4.08,0.4,0.6,5,0.0101,0.96,0.0802
+G-21,50,4.07,Group 2,5,"Neha Patel, Jin Hua, Ivy Wong, Kevin Lee, Calvin Bell",4.07,0.6,0.4,5,0.0137,0.96,0.0757
+G-21,50,4.07,Group 3,5,"Demi Zhao, Hassan Nawaz, Sita Sharma, Zhao Wei Lim, Noel Pineda",4.06,0.6,0.4,5,0.0063,0.96,0.0919
+G-21,50,4.07,Group 4,5,"Ananya Jain, Zhaohui, Dante Li, Zahra Nabila, Bodhi Li",4.06,0.4,0.6,5,0.0104,0.96,0.0802
+G-21,50,4.07,Group 5,5,"Moxie Lin, Aarav Mehta, Kai Li Tan, Zara Tan, Gage Cooper",4.13,0.4,0.6,5,0.011,0.96,0.0839
+G-21,50,4.07,Group 6,5,"Siti Aisyah Binti Ibrahim, Samuel Tan, Mei Ling Ong, Zoe Turner, Liam Mitchell",4.09,0.4,0.6,5,0.0139,0.96,0.0886
+G-21,50,4.07,Group 7,5,"Leo Turner, Aria Rogers, Yvonne Tan, Katherine Lee, Raymond Lim",4.04,0.4,0.6,5,0.0154,0.96,0.0891
+G-21,50,4.07,Group 8,5,"Beckett Liu, Rebecca Ong, Pooja Joshi, Helena Lam, Rio Yang",4.05,0.4,0.6,5,0.0093,0.96,0.1285
+G-21,50,4.07,Group 9,5,"Sharon Tan, Pooja Sinha, Hanh Nguyen, Sonya Khanna, Jaxon Bennett",4.05,0.2,0.8,5,0.0049,0.64,0.1621
+G-21,50,4.07,Group 10,5,"Boris Sergeyevich, Rania Hussain, Sameer Khan, Pooja Aggarwal, Chloe Collins",4.08,0.4,0.6,5,0.0052,0.96,0.1282
+G-22,50,4.08,Group 1,5,"Serena Chang, Aarohi Kapoor, Kenneth Tan, Jonathan Ramirez, Rina Devi",4.14,0.4,0.6,5,0.0037,0.96,0.0633
+G-22,50,4.08,Group 2,5,"Putri Ayu, Cassandra Tan, Eugene Lim, Raghav Singh, Zoe Wang",4.12,0.4,0.6,5,0.0065,0.96,0.0697
+G-22,50,4.08,Group 3,5,"Shi Lian, Harini Rao, Asher Young, Thuy Le, Liam Young",4.1,0.4,0.6,5,0.0057,0.96,0.0608
+G-22,50,4.08,Group 4,5,"Lucy Cooper, Alia Binti Mohd, Rohan Chaudhary, Brielle Scarlett, Andrew Cheung",4.1,0.4,0.6,5,0.0107,0.96,0.0608
+G-22,50,4.08,Group 5,5,"Nurul Izzati, Joni Chang, Hugo Lee, Viola Lim, Alia Bin Zul",4.1,0.4,0.6,5,0.0089,0.96,0.0687
+G-22,50,4.08,Group 6,5,"Omer Shah, Soniya Bhatia, Kenshin Nakamura, Mei Ling, Natasha Ng",4.09,0.4,0.6,5,0.0053,0.96,0.0765
+G-22,50,4.08,Group 7,5,"Zain Bin Mohd, Paloma Chang, Emily Nguyen, Ariana Cox, Samuel Davis",4.05,0.4,0.6,5,0.0073,0.96,0.0777
+G-22,50,4.08,Group 8,5,"Zhang Lian, Zhi Zhen, Jameelah Binti Ali, Min-Seo Park, Weimin",4.04,0.4,0.6,4,0.0096,0.96,0.1501
+G-22,50,4.08,Group 9,5,"Cristian Martinez, Aaron White, Upton Reyes, Hani Binti Ahmad, Neelam Sharma",4.01,0.6,0.4,4,0.0163,0.96,0.1272
+G-22,50,4.08,Group 10,5,"Yao Liu, Carter White, Andrew Yang, Ningzhi, Aamir Khan",4.09,0.8,0.2,4,0.0072,0.64,0.1648
+G-23,50,4.08,Group 1,5,"Yu Zhang, Eric Lim, Zheng Yu Lim, Neha Reddy, Ahsan Shah",4.07,0.6,0.4,5,0.0253,0.96,0.0852
+G-23,50,4.08,Group 2,5,"Yuzhi, Owen Garcia, Oksana Sergeyevna, Mason Miller, Lucas Wang",4.08,0.6,0.4,5,0.0015,0.96,0.1092
+G-23,50,4.08,Group 3,5,"Jia Chen, Gregory Wong, Rhea Mehta, Hiroki Tanaka, Nishant Kapoor",4.08,0.6,0.4,5,0.0036,0.96,0.1172
+G-23,50,4.08,Group 4,5,"Anya Chen, Rida Javed, Lihua, Carlito Morales, Vincent Lopez",4.08,0.6,0.4,5,0.0027,0.96,0.1012
+G-23,50,4.08,Group 5,5,"Yuan Rui, Cleo Carter, Jasper Chen, Luna Phillips, Jaxon Jenkins",4.08,0.6,0.4,5,0.0125,0.96,0.0852
+G-23,50,4.08,Group 6,5,"Manoj Menon, Ella Liu, Elaine Tan, Ying Li, Zac Johnson",4.08,0.4,0.6,5,0.0175,0.96,0.0852
+G-23,50,4.08,Group 7,5,"Sabrina Binti Ismail, Ningqi, Liam Carter, Yanzhi, Benjamin Lee",4.14,0.4,0.6,5,0.1004,0.96,0.086
+G-23,50,4.08,Group 8,5,"Nai Li, Jamilah Binti Rahman, Xiao Ling, Evelyn Adams, Victoria Sanchez",4.09,0.4,0.6,5,0.0079,0.96,0.1012
+G-23,50,4.08,Group 9,5,"Kira Cruz, Tanya Bhatia, Jin Wei, Siti Wong, Nash Zhao",4.01,0.4,0.6,5,0.0121,0.96,0.102
+G-23,50,4.08,Group 10,5,"Joshua Li, Yasmin Reddy, Brielle Lin, Amina Binti Ali, Wyatt Reed",4.07,0.4,0.6,4,0.0496,0.96,0.1892
+G-24,50,4.06,Group 1,5,"Vikram Gupta, Nira Nair, Ankit Joshi, Mia Thomas, Irfan Khan",4.05,0.6,0.4,5,0.0121,0.96,0.073
+G-24,50,4.06,Group 2,5,"Guo Wei, Meera Nair, Owen Prabowo, Isha Rani, Willow Chang",4.03,0.4,0.6,5,0.011,0.96,0.0772
+G-24,50,4.06,Group 3,5,"Owen Yip, Mia Moore, Johan Sari, Piper Rivera, Monica Yeo",4.1,0.4,0.6,5,0.0099,0.96,0.0786
+G-24,50,4.06,Group 4,5,"Dustin Chen, Melody Tan, David Tan, Daniel Johnson, Qiming",4.07,0.6,0.4,5,0.0134,0.96,0.0972
+G-24,50,4.06,Group 5,5,"Wei Lin Tan, Aaliyah Santos, Sylvia Liu, Jovian Huang, Wen Jin Tan",4.04,0.6,0.4,5,0.0059,0.96,0.0892
+G-24,50,4.06,Group 6,5,"Lucas Zhang, Oliver Li, Tahira Ali, Jasmine Reed, Ethan Jones",4.12,0.6,0.4,5,0.0084,0.96,0.1006
+G-24,50,4.06,Group 7,5,"Kuan Tan, Jack Murphy, Zhen Li, Kumar Nair, Maya Scott",4.05,0.8,0.2,5,0.0114,0.64,0.1383
+G-24,50,4.06,Group 8,5,"Tiffany Chua, Aiden Chan, Kieran Yip, Dustin Yang, Claire Jenkins",4.01,0.6,0.4,5,0.0066,0.96,0.1308
+G-24,50,4.06,Group 9,5,"Shila Binti Ali, Tian Yu, Naina Choudhury, Damon Carter, Silas Yang",4.03,0.6,0.4,4,0.0065,0.96,0.1859
+G-24,50,4.06,Group 10,5,"Althea Reyes, Eko Supriyanto, Alisha Tan, Zhang Lian, Nathan Wu",4.07,0.6,0.4,5,0.0014,0.96,0.113
+G-25,50,4.09,Group 1,5,"Giovanna Chen, Zheng Yang, Shafika Binti Mohd, Jackson Adams, Nancy Liu",4.12,0.4,0.6,5,0.0037,0.96,0.0899
+G-25,50,4.09,Group 2,5,"Dahlia Morales, Jason Lim, Lydia White, Yannick Dela Cruz, Akira Fujimoto",4.09,0.4,0.6,5,0.0022,0.96,0.0977
+G-25,50,4.09,Group 3,5,"Sanya Ali, Linda Tan, Sanjay Nair, Devon Tan, Mira Singh",4.04,0.4,0.6,5,0.0047,0.96,0.0903
+G-25,50,4.09,Group 4,5,"Aisyah Mohd, Wei Ling, Nishant Kumar, Liyana Binti Mohd, Eddie Kwan",4.21,0.4,0.6,5,0.0698,0.96,0.0843
+G-25,50,4.09,Group 5,5,"Maya Reddy, Ananya Reddy, Eric Anderson, Natsuki Sato, Kareem Shah",4.13,0.4,0.6,5,0.0032,0.96,0.09
+G-25,50,4.09,Group 6,5,"Adeline Ramirez, Katherine Tan, Dante Zhang, Kira Tan, Daniel Wu",4.11,0.4,0.6,5,0.0029,0.96,0.0978
+G-25,50,4.09,Group 7,5,"Luna Liu, Nora Wang, Disha Sharma, Min Jie Lim, Carl Li",4.04,0.4,0.6,5,0.0127,0.96,0.0982
+G-25,50,4.09,Group 8,5,"Zoe Johnson, Fiona Wong, Shafeeq Bin Ahmad, Cathy Li, Ronald Tan",4.08,0.4,0.6,5,0.012,0.96,0.1138
+G-25,50,4.09,Group 9,5,"Lydia Kim, Sahara Chen, Caleb Murphy, Pooja Iyer, William Yip",4.02,0.4,0.6,5,0.0213,0.96,0.1228
+G-25,50,4.09,Group 10,5,"Nicole Lee, Yue Ling, Meera Prasad, Natalie Ramirez, Isaac Chen",4.08,0.2,0.8,5,0.0123,0.64,0.1573
+G-26,50,4.08,Group 1,5,"Diya Singh, Milo Zhao, Puneet Kumar, Kazuko Nishida, Yifan",4.05,0.6,0.4,5,0.0117,0.96,0.0773
+G-26,50,4.08,Group 2,5,"Naomi Chen, Fariha Binti Mohd, Ibrahim Zain, Jacob Wang, Yuri Li",4.15,0.6,0.4,5,0.0063,0.96,0.0802
+G-26,50,4.08,Group 3,5,"Sophie Chua, Kendra Alvarado, Eshan, Ruby Lee, James Zhao",4.06,0.2,0.8,5,0.0201,0.64,0.1113
+G-26,50,4.08,Group 4,5,"Aria Cook, Fatin Binti Ahmad, Nora Diaz, Deepa Menon, Ryan Bennett",4.04,0.2,0.8,5,0.0214,0.64,0.1122
+G-26,50,4.08,Group 5,5,"Anita Khanna, Hana Chan, Felix Liu, Jianjun, Mohit Desai",4.08,0.4,0.6,5,0.0126,0.96,0.0833
+G-26,50,4.08,Group 6,5,"Hira Bukhari, Hugo Wang, Hafsa Khan, Kira Yang, Victor Black",4.09,0.4,0.6,5,0.0027,0.96,0.1154
+G-26,50,4.08,Group 7,5,"Siti Nurbaya, Owen Lee, Miki Aizawa, Elena Leonova, Rishabh Sharma",4.08,0.4,0.6,5,0.0043,0.96,0.1154
+G-26,50,4.08,Group 8,5,"Maria Lam, Eric Long, Kelsey Lim, Vera Tan, Alia Bin Abd",4.05,0.4,0.6,5,0.0085,0.96,0.1163
+G-26,50,4.08,Group 9,5,"Zoe Sanchez, Desmond Tan, Layla Evans, Vera Kuznetsova, Quentin Chiu",4.11,0.4,0.6,5,0.0107,0.96,0.1239
+G-26,50,4.08,Group 10,5,"Daphne Lim, Jasmine Yeo, Riya Gupta, Ivy Tan, Ferdinand Villanueva",4.11,0.2,0.8,5,0.0168,0.64,0.1514
+G-27,50,4.07,Group 1,5,"Aarti Desai, Kunal Patel, Shinji Saito, Hui Chen, Vikas Sharma",4.04,0.6,0.4,5,0.0102,0.96,0.0852
+G-27,50,4.07,Group 2,5,"Rhea Sharma, Fei Hong Lim, Lucas Ramirez, Minjie, Aarav Yadav",4.1,0.6,0.4,5,0.0196,0.96,0.0929
+G-27,50,4.07,Group 3,5,"Mira Ng, Isabella Morris, Oscar Lee, Alexander Hill, Nora Wu",4.07,0.4,0.6,5,0.0073,0.96,0.0944
+G-27,50,4.07,Group 4,5,"Sana Iqbal, Khalil Khan, Mohammed Sadiq, Mei Xing, Alexis Lee",4.01,0.4,0.6,5,0.0213,0.96,0.0955
+G-27,50,4.07,Group 5,5,"Akira Yoshida, Arnav Kumar, Sonia Bukhari, Daniel Baker, Anjali Tan",4.08,0.4,0.6,5,0.0136,0.96,0.1024
+G-27,50,4.07,Group 6,5,"Suri Chang, Brody Hughes, Hannah Wang, Jonathan Wong, Nadia Ali",4.11,0.4,0.6,5,0.0117,0.96,0.1028
+G-27,50,4.07,Group 7,5,"Riley Tsai, Rekha Menon, Nicolas Zhao, Dominic Scott, Ella Safira",4.05,0.4,0.6,5,0.0126,0.96,0.1106
+G-27,50,4.07,Group 8,5,"Zara Bennett, Mila Collins, Santiago Garcia, Tania Chan, Jett Wu",4.04,0.4,0.6,5,0.0207,0.96,0.1188
+G-27,50,4.07,Group 9,5,"Olivia Johnson, Sadia Awan, Liana Goh, Cynthia Sun, Karan Joshi",4.17,0.2,0.8,5,0.0324,0.64,0.1595
+G-27,50,4.07,Group 10,5,"Vinay Bhatia, Zaira Binti Karim, Talia Wang, Aria Wilson, Ella Young",4.08,0.2,0.8,5,0.0089,0.64,0.1568
+G-28,50,4.07,Group 1,5,"Savannah Cooper, Madison Reed, Bilal Zafar, Peter Harris, Aaron Huskel",4.05,0.6,0.4,5,0.0085,0.96,0.0628
+G-28,50,4.07,Group 2,5,"Asha Binti, Camille Chen, Oliver Wong, Mason Reyes, Eddie Cheung",4.04,0.6,0.4,5,0.0061,0.96,0.0634
+G-28,50,4.07,Group 3,5,"Stella Chang, Misha Devi, Ming Feng Tan, Steve Lau, Zach Lim",4.07,0.6,0.4,5,0.0028,0.96,0.0783
+G-28,50,4.07,Group 4,5,"Alia Khan, Aubrey Morgan, Julian Li, Victor Andreyev, Chloe Wilson",4.07,0.4,0.6,5,0.0075,0.96,0.0885
+G-28,50,4.07,Group 5,5,"Sophie Chen, Nirmala Iyer, Rylan King, Sergio Moreno, Alana Tan",4.09,0.4,0.6,5,0.0055,0.96,0.0887
+G-28,50,4.07,Group 6,5,"Max Chen, Ivy Pineda, Lina Abdullah, Nazia Rehman, Sebastian Wright",4.07,0.4,0.6,5,0.0065,0.96,0.0885
+G-28,50,4.07,Group 7,5,"Arif Hussain, Nur Fatimah, Elijah Carter, Neela Nair, Rashidah Binti Ibrahim",4.09,0.4,0.6,5,0.0126,0.96,0.0887
+G-28,50,4.07,Group 8,5,"Xiangrong, Emma Hall, Zoe Ali, Lily Cook, Liam Lewis",4.1,0.4,0.6,4,0.0135,0.96,0.1214
+G-28,50,4.07,Group 9,5,"Kenshin Watanabe, Nina Chang, Aditi Sharma, Lian Tan, Mark Johnson",4.08,0.4,0.6,4,0.0143,0.96,0.1206
+G-28,50,4.07,Group 10,5,"Raymond Ho, Priya Patel, Rong Liu, Ria Patel, Xander Lawson",4.07,0.4,0.6,4,0.0199,0.96,0.1205
+G-29,50,4.08,Group 1,5,"Jason Lim, Huanqing, Avery Wilson, Surya Kumar, Brayden Adams",4.08,0.6,0.4,5,0.0008,0.96,0.0836
+G-29,50,4.08,Group 2,5,"Xander Lee, Madison Gray, Silas Tan, Skylar Tan, Shahid Raza",4.08,0.6,0.4,5,0.0024,0.96,0.0756
+G-29,50,4.08,Group 3,5,"Aria Lim, Kai Ren Ng, Raymond Smith, Nisha Singh, Joshua Murphy",4.09,0.6,0.4,5,0.0035,0.96,0.0756
+G-29,50,4.08,Group 4,5,"Alisha Iyer, Rahul Reddy, Ethan Young, Kimberly Lim, Elias Carter",4.1,0.6,0.4,5,0.0085,0.96,0.0757
+G-29,50,4.08,Group 5,5,"Tobias Tan, Alyssa Carter, Nadia Cahyani, Nadeem Ali, Evelyn Green",4.09,0.4,0.6,5,0.0113,0.96,0.0916
+G-29,50,4.08,Group 6,5,"Ananya Sharma, Hao Xun, Yong Jie, Kelly Ng, Faris Bin Mohd",4.09,0.6,0.4,5,0.0061,0.96,0.0916
+G-29,50,4.08,Group 7,5,"Christina Tan, Rongwei, Janelle Tan, Zachary Price, Panshi",4.08,0.6,0.4,5,0.0119,0.96,0.0916
+G-29,50,4.08,Group 8,5,"Shanwei, Riya Tan, Nurul Hani, Ritika Bansal, Jasper Zhang",4.06,0.4,0.6,5,0.0075,0.96,0.1078
+G-29,50,4.08,Group 9,5,"Poppy Smith, Jamal Karim, Eva Wang, Kiran Tiwari, Sadia Khan",4.19,0.2,0.8,5,0.0419,0.64,0.1241
+G-29,50,4.08,Group 10,5,"Tianming, Gemma Jenkins, Xiao Jun, Maya Li, Lucy Barnes",3.98,0.4,0.6,5,0.0129,0.96,0.1349
+G-3,50,4.11,Group 1,5,"Aditi Bhatia, Felix Tsang, Nashit Bhatia, Maya Zhang, Mansoor Aslam",4.03,0.6,0.4,5,0.013,0.96,0.0738
+G-3,50,4.11,Group 2,5,"Harvey Tan, Nida Waseem, Lily Zhou, Zhen Yu, Wei Fang",4.1,0.6,0.4,5,0.0041,0.96,0.0972
+G-3,50,4.11,Group 3,5,"Qing Zhao, Keira Lee, Nguyen Van Tam, Gita Saputra, Olivia Goh",4.11,0.4,0.6,5,0.0074,0.96,0.0972
+G-3,50,4.11,Group 4,5,"Riya Desai, Leo Li, Benjamin Hernandez, Autumn Diaz, Qing Li",4.21,0.4,0.6,5,0.0859,0.96,0.0987
+G-3,50,4.11,Group 5,5,"Khairul Anuar Bin Mohd, Neha Sharma, Ethan Lee, Naina Kapoor, Gabriel Wood",4.05,0.6,0.4,5,0.0141,0.96,0.0975
+G-3,50,4.11,Group 6,5,"Jing Xuan, Milo Tan, Keng Tan, Hunter Green, Ella Cheung",4.28,0.6,0.4,5,0.12,0.96,0.0933
+G-3,50,4.11,Group 7,5,"Rachel Ong, Harvey Smith, Rita Rani, Xuan Zhang, Jianli",4.09,0.6,0.4,5,0.0089,0.96,0.1132
+G-3,50,4.11,Group 8,5,"Evelyn Wong, Maya Patel, Keith Tan, Asher Brown, Zeeshan Bukhari",4.04,0.4,0.6,5,0.0148,0.96,0.1057
+G-3,50,4.11,Group 9,5,"Christian Ward, Riya Shah, Nadia Noor, Zeeshan Iqbal, Tomi Budi",4.07,0.6,0.4,5,0.0008,0.96,0.1214
+G-3,50,4.11,Group 10,5,"Hina Bhatia, Cecilia Chen, Kobe Alexander, Jasmine Sari, Zuri Lin",4.05,0.2,0.8,5,0.0024,0.64,0.1583
+G-30,50,4.1,Group 1,5,"Siti Zulaikha Binti Rahim, Kieran Wu, Jasmine Ng, Kunal Tan, Gavin Walker",4.1,0.6,0.4,5,0.006,0.96,0.082
+G-30,50,4.1,Group 2,5,"Maisie Lee, Anthony Hughes, Sania Malik, Dylan Nguyen, Mason Smith",4.08,0.6,0.4,5,0.0139,0.96,0.0821
+G-30,50,4.1,Group 3,5,"Xiao Chen, Lian Xu, Atsuko Taniguchi, Han Song Lim, Harriet Rivera",4.11,0.4,0.6,5,0.012,0.96,0.0821
+G-30,50,4.1,Group 4,5,"James Bailey, Biaochun, Nida Malik, Patricia White, Seng Hua Lim",4.08,0.6,0.4,5,0.0052,0.96,0.0981
+G-30,50,4.1,Group 5,5,"Anushka Mehra, Jing Wei, Vivian Tan, Thomas Collins, Nurul Farah",4.06,0.4,0.6,5,0.0145,0.96,0.0985
+G-30,50,4.1,Group 6,5,"Ananya Nair, Michael Brown, Trevor Lim, Ava King, Ayesha Binti Rahman",4.1,0.4,0.6,5,0.0107,0.96,0.098
+G-30,50,4.1,Group 7,5,"Keshav Yadav, Aadhya Reddy, Areeba Bukhari, Riley Johnson, Mi-kyung Han",4.13,0.4,0.6,5,0.047,0.96,0.0984
+G-30,50,4.1,Group 8,5,"Kieran Lewis, Sofia Ramirez, Mason Wong, Rhea Reddy, Colton Huang",4.07,0.6,0.4,5,0.0135,0.96,0.1222
+G-30,50,4.1,Group 9,5,"Owais Bukhari, Roxanne Chan, Brandon Lee, Huma Qureshi, Huma Malik",4.08,0.4,0.6,5,0.0157,0.96,0.1221
+G-30,50,4.1,Group 10,5,"Kai Li, Elijah Wong, Xena Wong, Kelly Lee, Jack Martin",4.15,0.6,0.4,5,0.007,0.96,0.1309
+G-31,50,4.11,Group 1,5,"Toni Agustian, Vania Alonzo, Vikas Yadav, Hailey Lin, Landon Parker",4.07,0.6,0.4,5,0.0107,0.96,0.0574
+G-31,50,4.11,Group 2,5,"Aarohi Verma, Deepak Nair, Henry Tsang, Lina Binti Zain, Ryan Baker",4.11,0.6,0.4,5,0.0038,0.96,0.0732
+G-31,50,4.11,Group 3,5,"Chloe Torres, Gabriel Edwards, Hana Binti Mohd, Isaac Liu, Ryder Li",4.07,0.6,0.4,5,0.011,0.96,0.0575
+G-31,50,4.11,Group 4,5,"Damon Wu, Mika Sato, Cathy Tan, Kenta Yamada, Liam Rivera",4.08,0.6,0.4,5,0.0093,0.96,0.0734
+G-31,50,4.11,Group 5,5,"Dustin Young, Anjali Rao, Olive Wang, Toby Lim, Vivian Cooper",4.04,0.4,0.6,5,0.0148,0.96,0.0739
+G-31,50,4.11,Group 6,5,"Claire Tan, Sora Inoue, Elijah Lewis, Maya Rajan, Imran Ashraf",4.08,0.6,0.4,5,0.0215,0.96,0.0733
+G-31,50,4.11,Group 7,5,"Kamran Ahmed, Moe Yamashita, Sophie Chiu, Bodhi Chen, Suhana Bhat",4.22,0.4,0.6,5,0.0837,0.96,0.0917
+G-31,50,4.11,Group 8,5,"Harish Kumar, Arjun Singh, Kavya Singh, Megan Sari, Gideon Hayes",4.13,0.6,0.4,5,0.0043,0.96,0.0973
+G-31,50,4.11,Group 9,5,"Siti Sarah, Zain Bin Ali, Jasmine Chen, Logan Wong, Boris Mikhailov",4.1,0.6,0.4,5,0.0172,0.96,0.1132
+G-31,50,4.11,Group 10,5,"Samara Khan, Peyton Bell, Bina Patel, Ella Gonzalez, Jessica Lim",4.16,0.0,1.0,4,0.0163,0.0,0.2402
+G-32,50,4.08,Group 1,5,"Isla Ross, Anthony Stewart, Sara Lim, Kien Vo, Derek Chen",4.11,0.6,0.4,5,0.0033,0.96,0.0937
+G-32,50,4.08,Group 2,5,"Aditi Suresh, Derek Wilson, Alvin Khor, Xingyu, Yani Tan",4.08,0.4,0.6,5,0.0107,0.96,0.0904
+G-32,50,4.08,Group 3,5,"Xue Chen, Shubham Prakash, Rida Bukhari, Nicholas Tan, Selene Tsai",4.1,0.4,0.6,5,0.0103,0.96,0.0986
+G-32,50,4.08,Group 4,5,"Naina Noor, Hao Chen, Hua Lin, Caleb Nelson, Kanghao",4.08,0.6,0.4,5,0.0059,0.96,0.1012
+G-32,50,4.08,Group 5,5,"Sophie Allen, Colton Ross, Dingqi, Yuki Mori, Sergey Fedorov",4.1,0.6,0.4,5,0.0126,0.96,0.0935
+G-32,50,4.08,Group 6,5,"Ying Xiu, Nora Hall, Rylan Cooper, Xiaofang, Uli Agustin",4.04,0.4,0.6,5,0.0151,0.96,0.1081
+G-32,50,4.08,Group 7,5,"Yang Chen, Cynthia Chan, Yasmin Cruz, Omer Javed, Aisya Binti Azhar",4.06,0.4,0.6,5,0.0199,0.96,0.1146
+G-32,50,4.08,Group 8,5,"Ryan Turner, Addison Ward, Hector Mendoza, Anya Iyer, Cheng Yuan",4.08,0.6,0.4,5,0.0046,0.96,0.1092
+G-32,50,4.08,Group 9,5,"Fatima Binti Rahim, Amira Rahman, Oliver Reed, Nisa Tan, Mason Carter",4.08,0.4,0.6,4,0.0019,0.96,0.2104
+G-32,50,4.08,Group 10,5,"Sabrina Wong, Lorelei Chen, Leonardo Wu, Mina Lim, Igor Petrov",4.11,0.4,0.6,5,0.0054,0.96,0.139
+G-33,50,4.11,Group 1,5,"Neela Kaur, Nandan Yadav, Hao Chen, Jin Hui, Sophie Lee",4.07,0.4,0.6,5,0.0097,0.96,0.0862
+G-33,50,4.11,Group 2,5,"Hannah Lim, Dylan Richardson, Priti Singh, Liam Collins, Fatima Reddy",4.17,0.4,0.6,5,0.0357,0.96,0.0871
+G-33,50,4.11,Group 3,5,"Maya Sarin, Bunga Melati, Maverick Brown, Chase Sanders, Jacky Lau",4.1,0.6,0.4,5,0.0028,0.96,0.0893
+G-33,50,4.11,Group 4,5,"Mila Perez, Mina Qiu, Amir Bin Jamal, Edward Li, Raymond Tan",4.11,0.6,0.4,5,0.0063,0.96,0.0973
+G-33,50,4.11,Group 5,5,"Cora Foster, Eleanor Scott, Maya Teo, Liang Zhao, Aashir Khan",4.09,0.4,0.6,5,0.017,0.96,0.0938
+G-33,50,4.11,Group 6,5,"Liang Wei, Rhea Verma, Nur Fatima, Wira Bin Fadli, Lyndon Torres",4.04,0.6,0.4,5,0.0128,0.96,0.1152
+G-33,50,4.11,Group 7,5,"Jonas Li, Afreen Bukhari, Rebecca Chen, Hana Yamada, Isaac Robinson",4.09,0.4,0.6,5,0.0045,0.96,0.1178
+G-33,50,4.11,Group 8,5,"Luna Zhao, Lin Yi, Yu Chen, Xinyi Lim, Graham Yang",4.14,0.2,0.8,5,0.044,0.64,0.1434
+G-33,50,4.11,Group 9,5,"Milo Wong, Yuan Li, Lola Lee, Sophie Ong, Liang Zhao",4.11,0.4,0.6,5,0.0071,0.96,0.1337
+G-33,50,4.11,Group 10,5,"Zoe Murphy, Fengxiu, Maya Shankar, Lucy Rogers, Ayden Cooper",4.17,0.2,0.8,5,0.003,0.64,0.1762
+G-34,50,4.09,Group 1,5,"Rizwan Bin Mohd, Matthew Morgan, Hafizah Binti Mohd, Arnav Mehta, Hao Ren",4.02,0.6,0.4,5,0.0175,0.96,0.1065
+G-34,50,4.09,Group 2,5,"Cynthia Handayani, Li Qiang, Ivy Yu, Frankie Yip, Talia Wong",4.03,0.4,0.6,5,0.015,0.96,0.1103
+G-34,50,4.09,Group 3,5,"Angela Lee, Takashi Tanaka, Ethan Clark, Tina Li, Emily Liang",4.09,0.4,0.6,5,0.0101,0.96,0.1159
+G-34,50,4.09,Group 4,5,"Li Wei, Bruno Alonzo, Samuel Wang, Kaira Tan, Dahlia Zhao",4.09,0.4,0.6,5,0.0137,0.96,0.1159
+G-34,50,4.09,Group 5,5,"Arjun Sharma, Vanessa Lee, Ellie Stewart, Tama Prabowo, Nanami Nakamura",4.1,0.4,0.6,5,0.0044,0.96,0.1239
+G-34,50,4.09,Group 6,5,"Jin Wei Tan, Jessica Liu, Nathan Lee, Fiona Garcia, Gina Tam",4.05,0.4,0.6,5,0.0105,0.96,0.1248
+G-34,50,4.09,Group 7,5,"Mei Lin, Aihua Li, Nitesh Singh, Nadia Sari, Xiao Liu",4.09,0.6,0.4,5,0.0129,0.96,0.1268
+G-34,50,4.09,Group 8,5,"Rizwan Ahmad, Aditi Reddy, Siddharth Patel, Zai Binti Mohd, Asher Bell",4.14,0.6,0.4,5,0.0091,0.96,0.1286
+G-34,50,4.09,Group 9,5,"Zhen Yang, Dewi Anjani, Lily Li, Nash Clark, Victoria Ross",4.13,0.4,0.6,5,0.0097,0.96,0.1334
+G-34,50,4.09,Group 10,5,"Sakshi Bhatia, Owen Cox, Ruba Khan, Liam Zhao, Xiang Li",4.15,0.6,0.4,5,0.0051,0.96,0.1454
+G-35,50,4.11,Group 1,5,"Mira Wong, Zhang Qiang, Stella Lim, Luca Yang, Ika Binti Jamal",4.13,0.4,0.6,5,0.002,0.96,0.0762
+G-35,50,4.11,Group 2,5,"Tran Thi Phuong, Kieran Tan, Samantha Nguyen, Talha Ali, Laurel Wu",4.13,0.4,0.6,5,0.0078,0.96,0.0763
+G-35,50,4.11,Group 3,5,"Mei Ling, Noah Wong, Gemma Lee, Chao Xu, Katherine Diaz",4.05,0.4,0.6,5,0.015,0.96,0.0866
+G-35,50,4.11,Group 4,5,"Anika Patel, Peishan, Carter Bell, Zhi Qi Tan, Isaac Robinson",4.11,0.6,0.4,5,0.0203,0.96,0.0824
+G-35,50,4.11,Group 5,5,"Leo Tan, Zara Abbas, Minnie Zhang, Bodhi Yang, Yuan Feng",4.11,0.6,0.4,5,0.0025,0.96,0.0904
+G-35,50,4.11,Group 6,5,"Zain Karim, Alina Tan, Zhonghua, Riya Joshi, Rohan Bhatt",4.13,0.4,0.6,5,0.0049,0.96,0.0843
+G-35,50,4.11,Group 7,5,"Taro Yamamoto, Shalini Gupta, Fangzhou, Lily Wong, Zeke Murphy",4.13,0.4,0.6,5,0.0045,0.96,0.0842
+G-35,50,4.11,Group 8,5,"Huang Lei, Amira Khan, Saba Qureshi, Ling Xu, Eko Supriyanto",4.1,0.4,0.6,5,0.0014,0.96,0.132
+G-35,50,4.11,Group 9,5,"Thomas Lee, Evelyn Wang, Miki Suzuki, Shiming, Isla Lin",4.1,0.2,0.8,5,0.0086,0.64,0.1465
+G-35,50,4.11,Group 10,5,"Alyssa Ong, Jianjun, Elsa Binti Sulaiman, Sana Iyer, Nicole Li",4.11,0.2,0.8,5,0.0209,0.64,0.1224
+G-36,50,4.08,Group 1,5,"Owen Mitchell, Sanya Yadav, Logan Kim, Olivia Moore, Susan Tan",4.07,0.4,0.6,5,0.0161,0.96,0.0725
+G-36,50,4.08,Group 2,5,"Nguyen Van Thanh, Xing Ying, Jasper Lim, Anisa Rahman, Anna Yang",4.03,0.4,0.6,5,0.0075,0.96,0.0826
+G-36,50,4.08,Group 3,5,"Jae-Suk Jung, Vikash Wang, Ryder Brown, Eliza Lin, Marco Garcia",4.11,0.6,0.4,5,0.0049,0.96,0.0859
+G-36,50,4.08,Group 4,5,"Omar Peterson, Robert Jones, Carmen Lim, Maya Yusof, Hassan Raza",4.08,0.6,0.4,5,0.0103,0.96,0.101
+G-36,50,4.08,Group 5,5,"Arvind Nair, Erik Yang, Aisha Noor, Ella Lee, Benjamin Zhu",4.06,0.6,0.4,5,0.0142,0.96,0.1012
+G-36,50,4.08,Group 6,5,"Chunxiu, Emily Lee, Hugo Long, Angelina Chang, Samuel Nelson",4.1,0.6,0.4,5,0.0219,0.96,0.1014
+G-36,50,4.08,Group 7,5,"Alvin Young, Tama Prabowo, Layla Hughes, Leah Smith, Rakesh Pillai",4.05,0.6,0.4,5,0.0114,0.96,0.1178
+G-36,50,4.08,Group 8,5,"Addison Cook, Adil Patel, Bo Wen Lim, Liam Davis, Yuki Nakamura",4.07,0.6,0.4,5,0.0032,0.96,0.117
+G-36,50,4.08,Group 9,5,"Azlan Bin Rahim, Shreyas Nair, Oliver Cheng, Dylan Nguyen, Lila Chang",4.04,0.8,0.2,5,0.0188,0.64,0.1432
+G-36,50,4.08,Group 10,5,"Hannah Moore, Kevin Ross, Benjamin Huang, Chris Evans, Lily Zhang",4.15,0.6,0.4,5,0.0046,0.96,0.1222
+G-37,50,4.13,Group 1,5,"Nora Tan, Gordon Ho, Jin Wei, Victor Wong, Min-Young Kim",4.15,0.4,0.6,5,0.0445,0.96,0.0674
+G-37,50,4.13,Group 2,5,"Erin Zhang, Bruno Alonzo, Sophia Johnson, Caleb Bennett, Benjamin Lee",4.15,0.6,0.4,5,0.036,0.96,0.0709
+G-37,50,4.13,Group 3,5,"Kavya Joshi, Sophie Zhao, Kellan Baker, Rajesh Yadav, Cory Tan",4.13,0.6,0.4,5,0.0039,0.96,0.0709
+G-37,50,4.13,Group 4,5,"Ember Chen, Evelyn Carter, Amina Zainal, Jasper Tan, Tran Van Phuc",4.13,0.4,0.6,5,0.0034,0.96,0.0753
+G-37,50,4.13,Group 5,5,"Neha Yadav, Mia White, Lisa Yang, Avery Lee, Bennett Yang",4.09,0.4,0.6,5,0.0049,0.96,0.0836
+G-37,50,4.13,Group 6,5,"Alya Farisha, Nisha Binti, Amelia Clark, Isabella Cheung, Cameron Tan",4.1,0.2,0.8,5,0.0091,0.64,0.1087
+G-37,50,4.13,Group 7,5,"Lily Liu, Vera Kim, Chengxian, Sara Tan, Zac Johnson",4.08,0.4,0.6,5,0.0136,0.96,0.0837
+G-37,50,4.13,Group 8,5,"Zara Binti Mohd, Asma Sheikh, Nita Yuliana, Theresa Tan, Gavin Wu",4.1,0.2,0.8,5,0.0193,0.64,0.1407
+G-37,50,4.13,Group 9,5,"Jin Xiu Lim, Wenkai, Kavita Iyer, Juliet Chen, Logan King",4.08,0.4,0.6,5,0.0101,0.96,0.1237
+G-37,50,4.13,Group 10,5,"Jasper Wu, Medi Prabowo, Willa Ford, Megan Tsai, Dante Ong",4.28,0.6,0.4,4,0.1222,0.96,0.178
+G-38,50,4.09,Group 1,5,"Aoqin, Shivam Reddy, Sonia Irfan, Marcus Chen, Phan Duc Minh",4.07,0.6,0.4,5,0.0125,0.96,0.0657
+G-38,50,4.09,Group 2,5,"Tiantian, Tanner Pineda, Wyatt Price, Tingting, Li Wei",4.09,0.6,0.4,5,0.0023,0.96,0.0896
+G-38,50,4.09,Group 3,5,"Zainab Rashid, Jett Chen, Zhi Hao Lim, Lina Binti Omar, Nora Binti Rahman",4.06,0.4,0.6,5,0.0277,0.96,0.0834
+G-38,50,4.09,Group 4,5,"Tanya Lim, Noah Alonzo, Sana Rani, Rishi Reddy, Ikram Tan",4.08,0.6,0.4,5,0.0106,0.96,0.0896
+G-38,50,4.09,Group 5,5,"Prisha Tan, Fatima Binti, Xena Chan, Stepan Aleksandrov, Bhavesh Gandhi",4.1,0.4,0.6,5,0.0174,0.96,0.0753
+G-38,50,4.09,Group 6,5,"Zainab Bukhari, Lina Zhang, Prisha Singh, Vera Nikitina, Kaito Saito",4.06,0.2,0.8,5,0.0113,0.64,0.1299
+G-38,50,4.09,Group 7,5,"Nina Singh, Ulysses Ramos, Nisha Kaur, Ruqaiya Ali, Hunter Moore",4.1,0.4,0.6,5,0.0075,0.96,0.1073
+G-38,50,4.09,Group 8,5,"Neela Joshi, Andrew Wright, Layla Price, Pallavi Menon, Ming Zhen Lim",4.09,0.4,0.6,5,0.008,0.96,0.1152
+G-38,50,4.09,Group 9,5,"Sara Binti Kamar, Misha Javed, Tristan Smith, Ruby Chow, Benson Huang",4.17,0.4,0.6,5,0.0384,0.96,0.0932
+G-38,50,4.09,Group 10,5,"Peyton James, Anis Binti Ahmad, Yuna Sato, Simran Kaur, Dina Binti Omar",4.06,0.0,1.0,5,0.0225,0.0,0.197
+G-39,50,4.08,Group 1,5,"Kiran Nadar, Emiko Takahashi, Zoe Perez, Michael Nelson, Aman Ali",4.12,0.4,0.6,5,0.015,0.96,0.0795
+G-39,50,4.08,Group 2,5,"Tran Thi Lan, Shan Li, Kirk Lee, Ulysses Wong, Emilia Tsang",4.09,0.4,0.6,5,0.0013,0.96,0.0942
+G-39,50,4.08,Group 3,5,"Mia Thompson, Zainab Iqbal, Rani Kaur, Quincy Turner, Alexander Black",4.14,0.4,0.6,5,0.0055,0.96,0.097
+G-39,50,4.08,Group 4,5,"Layla Tsai, Pooja Bhatt, Sariyah Binti Rahman, Freddie Chan, Aakash Kumar",4.1,0.4,0.6,5,0.0087,0.96,0.0946
+G-39,50,4.08,Group 5,5,"Lily Wang, Matthew Scott, Saswati Roy, Anita Wong, Nicolas Brown",4.08,0.4,0.6,5,0.0028,0.96,0.1102
+G-39,50,4.08,Group 6,5,"Nadia Wong, Griffin Yang, Xiu Ying Tan, Nancy Lee, Saifullah Malik",4.07,0.4,0.6,5,0.0041,0.96,0.1102
+G-39,50,4.08,Group 7,5,"Zara Chen, Ariana Bennett, Xue Ling Tan, Victoria Kwan, Liam Wong",4.06,0.2,0.8,5,0.0195,0.64,0.143
+G-39,50,4.08,Group 8,5,"Ella Harris, Ananya Sinha, Noor Fatima, Faye Wong, Vikram Seth",4.1,0.2,0.8,5,0.0035,0.64,0.1591
+G-39,50,4.08,Group 9,5,"Jinlong, Elena Chen, Hannah Wong, Saanvi Kapoor, Mukti Bin Ibrahim",3.98,0.4,0.6,5,0.0151,0.96,0.1411
+G-39,50,4.08,Group 10,5,"Rohit Sharma, Sofia Turner, Bingli, Savannah Scott, Ethan Wilson",4.04,0.4,0.6,5,0.0007,0.96,0.1515
+G-4,50,4.08,Group 1,5,"Sophia Mitchell, Laura Tan, Luca Wu, Elias Carter, Aaliyah Morgan",4.08,0.4,0.6,5,0.0077,0.96,0.0783
+G-4,50,4.08,Group 2,5,"Parvati Chatterjee, Ming Li Tan, Pooja Verma, David Hughes, William Harris",4.09,0.4,0.6,5,0.0158,0.96,0.0704
+G-4,50,4.08,Group 3,5,"Esther Lee, Lan Huang, Derek Yang, Dmitry Orlov, Nina Baker",4.06,0.4,0.6,5,0.0069,0.96,0.0787
+G-4,50,4.08,Group 4,5,"Sofia Khan, Gracie Scott, Dylan Ward, Rongwei, Emilio Garcia",4.07,0.4,0.6,5,0.0095,0.96,0.0783
+G-4,50,4.08,Group 5,5,"Fatimah Abdullah, Juliati Wibowo, Kiran Patel, Sophie Fox, Santiago De Leon",4.08,0.4,0.6,5,0.0049,0.96,0.0863
+G-4,50,4.08,Group 6,5,"Meera Bansal, Sanya Mehta, Lina Tan, Fiona Yeo, Zachary Nelson",4.09,0.2,0.8,5,0.007,0.64,0.1132
+G-4,50,4.08,Group 7,5,"Eryan, Emily Tan, Cathy Ng, Charlotte Tsai, Elan Shah",4.06,0.2,0.8,5,0.0143,0.64,0.1215
+G-4,50,4.08,Group 8,5,"Nozomi Takahashi, Xiaoping, Nora Pineda, Ruby Kwan, Kieran Ross",4.12,0.2,0.8,5,0.013,0.64,0.1231
+G-4,50,4.08,Group 9,5,"Zainab Farooq, Aiden Turner, Hana Tan, Nurul Hafiza, Charles Robinson",4.09,0.4,0.6,5,0.0064,0.96,0.1184
+G-4,50,4.08,Group 10,5,"Dapeng, Xiu Fen, Molly Chen, Sania Bukhari, Arvind Rao",4.06,0.2,0.8,5,0.0048,0.64,0.1697
+G-40,50,4.1,Group 1,5,"Zora Villanueva, Tam Vo, Tam Nguyen, Jacob Parker, Claudia Kim",4.16,0.4,0.6,5,0.0341,0.96,0.0947
+G-40,50,4.1,Group 2,5,"Saira Malik, Isaac Hall, Sierra Murphy, Yun Ling Ng, Lola Li",4.25,0.4,0.6,5,0.0546,0.96,0.0939
+G-40,50,4.1,Group 3,5,"Ava Martinez, Mukesh Kumar, Elijah Turner, Willow Chan, Maya Mohd",4.1,0.4,0.6,5,0.0107,0.96,0.1014
+G-40,50,4.1,Group 4,5,"Saira Bukhari, Tian Zhang, Harrison Mendoza, Elena Tan, Hua Mei",4.11,0.4,0.6,5,0.0032,0.96,0.1174
+G-40,50,4.1,Group 5,5,"Aiko Yoshikawa, Hudson Walker, Karim Khan, Yasmin Binti Aziz, Elliot Bautista",4.1,0.6,0.4,5,0.0037,0.96,0.118
+G-40,50,4.1,Group 6,5,"Indira Das, Felicia Tan, Dinesh Rao, Rizal Ramadhan, Maya Chan",4.11,0.4,0.6,5,0.0145,0.96,0.1014
+G-40,50,4.1,Group 7,5,"Stella Li, Wani Binti Amin, Ryan Lewis, Finn Roberts, Chandan Sharma",4.03,0.6,0.4,5,0.006,0.96,0.112
+G-40,50,4.1,Group 8,5,"Zara Adams, Akiko Suzuki, Zhao Yu Tan, Yuri Chekhov, Jia Zhang",4.03,0.4,0.6,5,0.0143,0.96,0.1116
+G-40,50,4.1,Group 9,5,"Aiyun, Daria Tan, Duy Pham, Xavier Hall, Yogi Setiawan",4.08,0.4,0.6,5,0.0027,0.96,0.1255
+G-40,50,4.1,Group 10,5,"Tari Hapsari, Rita Lee, Emily Wu, Fedor Baranov, Isaac Tan",4.05,0.4,0.6,4,0.0122,0.96,0.2144
+G-41,50,4.1,Group 1,5,"Jaya Kapoor, Feng Gao, Xing Chen, Vinay Nair, Riley Yang",4.09,0.4,0.6,5,0.0188,0.96,0.0798
+G-41,50,4.1,Group 2,5,"Areeba Ahmad, Aarav Singh, Riley Brown, Priya Mehta, Samia Bukhari",4.1,0.4,0.6,5,0.0074,0.96,0.1037
+G-41,50,4.1,Group 3,5,"Farah Ali, Nikhil Joshi, Rishabh Sharma, Lina Zhao, Min-Seok Lee",4.1,0.6,0.4,5,0.0073,0.96,0.1015
+G-41,50,4.1,Group 4,5,"Hilda Andayani, Leah Wang, Ryoji Yamamoto, Jayden Richardson, Victor Leonov",4.08,0.6,0.4,5,0.0123,0.96,0.1099
+G-41,50,4.1,Group 5,5,"Phoebe Wang, Rebecca Tan, Owen Tan, Desmond Tan, Khairul Bin Jamil",4.08,0.6,0.4,5,0.0189,0.96,0.1017
+G-41,50,4.1,Group 6,5,"Hana Kim, Riley Campbell, Vikram Nair, Elena Fedorova, Shahid Waseem",4.08,0.4,0.6,5,0.0268,0.96,0.096
+G-41,50,4.1,Group 7,5,"Siddharth Rao, Isha Rai, Xia Yan, Samantha Murphy, Mason Garcia",4.15,0.4,0.6,5,0.0036,0.96,0.1144
+G-41,50,4.1,Group 8,5,"Samuel Lin, Ananya Verma, Celeste Ong, Yuna Lee, Leo Flores",4.1,0.4,0.6,5,0.0025,0.96,0.1277
+G-41,50,4.1,Group 9,5,"Daniel Alonzo, Jenna Lim, Ling Yu, Xing Li, Tariq Bin Ali",4.13,0.4,0.6,5,0.0029,0.96,0.1289
+G-41,50,4.1,Group 10,5,"Caleb Lee, Lana Wang, Adeel Ahmed, Anushka Singh, Lily Roberts",4.06,0.4,0.6,5,0.006,0.96,0.1288
+G-42,50,4.1,Group 1,5,"Mikayla Lin, Haruki Fujii, Mackenzie Dela Cruz, Dinesh Patil, Sophia Brown",4.18,0.4,0.6,5,0.0368,0.96,0.0759
+G-42,50,4.1,Group 2,5,"Hina Ahmad, Grace King, Ian Alonzo, Ali Salam, Jin-Ho Park",4.19,0.6,0.4,5,0.0328,0.96,0.0793
+G-42,50,4.1,Group 3,5,"Sonia Mehta, Holly Morales, Gavin White, Kiran Sethi, Suresh Iyer",4.05,0.6,0.4,5,0.0109,0.96,0.0852
+G-42,50,4.1,Group 4,5,"Luca Walker, Riya Patil, Laila Khan, Tristan King, Koa Wu",4.09,0.6,0.4,5,0.0043,0.96,0.0844
+G-42,50,4.1,Group 5,5,"Colton Zhao, Jasmine Putri, Sonali Singh, Victor Parker, Obi Prabowo",4.12,0.6,0.4,5,0.0183,0.96,0.0846
+G-42,50,4.1,Group 6,5,"Nai Li, Ivy Lim, Ava Miller, Ryan Yang, Dante Hughes",4.12,0.6,0.4,5,0.0042,0.96,0.0926
+G-42,50,4.1,Group 7,5,"Cheng Yu, Sanya Sharma, Tanvi Desai, Dallas Liu, James Martinez",4.07,0.6,0.4,5,0.0156,0.96,0.0926
+G-42,50,4.1,Group 8,5,"Heng Yi Lim, Lina Agustina, Darren Lee, Sienna Martinez, Lola Lin",4.04,0.4,0.6,5,0.0221,0.96,0.0985
+G-42,50,4.1,Group 9,5,"Jacob Young, Anushka Reddy, Nisha Reddy, Brenda Yip, Mai Ngo",4.1,0.2,0.8,5,0.0511,0.64,0.1314
+G-42,50,4.1,Group 10,5,"Kevin Patel, Chloe Young, Nina Morales, Ling Hua, Rina Iyer",4.01,0.2,0.8,4,0.0103,0.64,0.2461
+G-43,50,4.08,Group 1,5,"Zhi Qi Tan, Pooja Bansal, Min Zhu, Danish Malik, Chandra Menon",4.03,0.6,0.4,5,0.0057,0.96,0.0949
+G-43,50,4.08,Group 2,5,"Liam Patel, Ada Tan, Rina Sharma, Kiran Gupta, Vincent King",4.09,0.6,0.4,5,0.007,0.96,0.0998
+G-43,50,4.08,Group 3,5,"Hugo Cruz, Sophie Ong, Kendra Zhao, Hao Zhi Lim, Yasmin Rahmadani",4.07,0.4,0.6,5,0.0041,0.96,0.1057
+G-43,50,4.08,Group 4,5,"David Wright, Kanghao, Ruiqi, Kade Young, Amber Tan",4.09,0.4,0.6,5,0.0164,0.96,0.1055
+G-43,50,4.08,Group 5,5,"Grace Campbell, Ke Wang, Khadija Waseem, Koh Wei, Gita Menon",4.07,0.4,0.6,5,0.002,0.96,0.1217
+G-43,50,4.08,Group 6,5,"Xia Yu, Ben Wong, Ava Brown, Kiran Tan, Jackson Yip",4.08,0.4,0.6,5,0.0017,0.96,0.1295
+G-43,50,4.08,Group 7,5,"Lana Wong, Isaiah Huang, Evan Lewis, Aditi Singh, Taro Watanabe",4.08,0.6,0.4,5,0.0012,0.96,0.1317
+G-43,50,4.08,Group 8,5,"Zara Latif, Shiv Kumar, Nadeem Khan, Kayla Rivera, Asim Hussain",4.1,0.6,0.4,5,0.0026,0.96,0.1323
+G-43,50,4.08,Group 9,5,"Takumi Nakamura, Nugroho Setyawan, Jin Xiu, Da Huang, Hui Mei",4.13,0.6,0.4,5,0.0045,0.96,0.151
+G-43,50,4.08,Group 10,5,"Jaxon Martin, Deepak Kumar, Gavin Ramirez, Sara Li, Isaac Green",4.08,0.8,0.2,5,0.0107,0.64,0.1708
+G-44,50,4.11,Group 1,5,"Oliver Lopez, Alina Iqbal, Nora Baker, Nguyen Quoc Duy, Valeria Ivanova",4.07,0.4,0.6,5,0.0093,0.96,0.0784
+G-44,50,4.11,Group 2,5,"Mahesh Babu, Eli, Dorian Morales, Ava Kim, Una Ningsih",4.1,0.4,0.6,5,0.0126,0.96,0.078
+G-44,50,4.11,Group 3,5,"Chen Xiang, Aiko Fujimoto, Aditi Joshi, Gabriel Diaz, Isaiah Cooper",4.19,0.6,0.4,5,0.0302,0.96,0.0862
+G-44,50,4.11,Group 4,5,"Milo Zhao, Evelyn Lim, Rinawati Rahim, Zeenat Awan, Wyatt Campbell",4.08,0.6,0.4,5,0.0087,0.96,0.0914
+G-44,50,4.11,Group 5,5,"Matthew Wu, Lillian Kelly, Zoe Adams, Isaac Koh, An Pham",4.11,0.4,0.6,5,0.0028,0.96,0.102
+G-44,50,4.11,Group 6,5,"Asher Wu, Leo Wilson, Anika Mehta, Xia Li, Aria Smith",4.13,0.4,0.6,5,0.0119,0.96,0.0942
+G-44,50,4.11,Group 7,5,"Elena Wong, Taojie, Zara Yang, Suresh Kumar, Zhihao Wang",4.1,0.6,0.4,5,0.0007,0.96,0.1071
+G-44,50,4.11,Group 8,5,"Patricia Lim, Ming Zhao, Sadaf Iqbal, Ling Feng, Rehan Khan",4.08,0.6,0.4,5,0.0015,0.96,0.1073
+G-44,50,4.11,Group 9,5,"Kiran Lee, Tae-Woo Lee, Willa Howard, Elijah Wilson, Quincy Ong",4.09,0.6,0.4,5,0.0166,0.96,0.1152
+G-44,50,4.11,Group 10,5,"Christian Peterson, Rafael Mendoza, Jin Xiu, Sanjay Verma, Xue Liu",4.1,0.6,0.4,5,0.0029,0.96,0.1311
+G-45,50,4.06,Group 1,5,"Lacey Tsai, Winston Santos, Ava Carter, Theo Campbell, Sarah Taylor",4.07,0.4,0.6,5,0.0044,0.96,0.087
+G-45,50,4.06,Group 2,5,"Ava Harris, Mara Dela Cruz, Yun Cheng, Kartik Subramanian, Lincoln Yang",4.05,0.6,0.4,5,0.006,0.96,0.0797
+G-45,50,4.06,Group 3,5,"Coco Tan, Beatrice Kwan, Wei Zhang, Erik Yudhi, Charlotte Moore",4.06,0.4,0.6,5,0.0018,0.96,0.087
+G-45,50,4.06,Group 4,5,"Abby Cooper, Bingqi, Nguyen Thi Kim, Sidharth Malhotra, Winston Wong",4.09,0.4,0.6,5,0.0165,0.96,0.0793
+G-45,50,4.06,Group 5,5,"Kavita Gupta, Nurul Huda, Gianna Kim, Elliot Lim, Charlie Wong",4.12,0.4,0.6,5,0.0187,0.96,0.0888
+G-45,50,4.06,Group 6,5,"Alina Shah, Hana Nishida, Ahmad Hassan, Tuan Le, Jesse Mendoza",4.05,0.6,0.4,5,0.0085,0.96,0.0958
+G-45,50,4.06,Group 7,5,"Kou Suzuki, Maya Lim, Isabella Tan, Cahya Sari, Ulysses Mitchell",4.1,0.4,0.6,5,0.0063,0.96,0.1116
+G-45,50,4.06,Group 8,5,"Luka Brown, Aliya Khan, Leah Liu, Molly Pineda, Aiden Tan",4.04,0.4,0.6,5,0.0066,0.96,0.1113
+G-45,50,4.06,Group 9,5,"Fikri Bin Ali, Tu Le, Anu Rao, Rachael Tan, Vince Wong",4.01,0.4,0.6,5,0.0263,0.96,0.1122
+G-45,50,4.06,Group 10,5,"Kang Wei Lim, Rahul Khanna, Charlotte Perez, Saanvi Rao, Neha Bhatia",4.05,0.4,0.6,4,0.0178,0.96,0.1511
+G-46,50,4.06,Group 1,5,"Daniel Hall, Dina Binti Azhar, Nash Lee, Shunwei, Zane Huang",4.04,0.6,0.4,5,0.0046,0.96,0.1031
+G-46,50,4.06,Group 2,5,"Nikita Alexeyev, Ella Davis, Elijah Scott, Ashley Thompson, Dante Huang",4.03,0.6,0.4,5,0.0127,0.96,0.1032
+G-46,50,4.06,Group 3,5,"Zeeshan Muneeb, Mabel Tsai, Wenyi, Shreya Choudhury, Harrison Chen",4.07,0.6,0.4,5,0.0201,0.96,0.1031
+G-46,50,4.06,Group 4,5,"Lianhua, Dahlia Li, Quincy Turner, Leah Wong, Wyatt Ward",4.04,0.6,0.4,5,0.0188,0.96,0.1032
+G-46,50,4.06,Group 5,5,"Sophie Johnson, Rakesh Nair, Kiran Sharma, Isha Rao, James Griffin",4.06,0.6,0.4,5,0.0115,0.96,0.1111
+G-46,50,4.06,Group 6,5,"Shila Binti Zain, Beckett Lee, Minghao, Lila Hayes, Fiona Lim",4.05,0.4,0.6,5,0.0015,0.96,0.122
+G-46,50,4.06,Group 7,5,"Elizaveta Semyonova, Dmitry Grigoriev, Wyatt Johnson, Cora Tsai, Kwan-Jin Park",3.98,0.6,0.4,5,0.0099,0.96,0.1279
+G-46,50,4.06,Group 8,5,"Isabella Wright, Rachael Chang, Madiha Bukhari, Tian Li, Yong Wei Tan",4.05,0.4,0.6,5,0.0078,0.96,0.122
+G-46,50,4.06,Group 9,5,"Owais Javed, Rania Sulaiman, Sabrina Chen, Josh Tan, Nadia Binti Zain",4.21,0.6,0.4,4,0.1479,0.96,0.2262
+G-46,50,4.06,Group 10,5,"Leonard Wong, Haruna Ito, Penny Yip, Sakshi Gupta, Pallavi Jain",4.03,0.2,0.8,4,0.0205,0.64,0.2578
+G-47,50,4.06,Group 1,5,"Maddox Hughes, Tarun Khanna, Finn Liu, Lily Gonzalez, Rani Malik",4.06,0.4,0.6,5,0.0064,0.96,0.1103
+G-47,50,4.06,Group 2,5,"Vivian Chen, Sienna Morales, James Lewis, Ethan Hall, Gina Permata",4.05,0.4,0.6,5,0.0056,0.96,0.1104
+G-47,50,4.06,Group 3,5,"Madiha Khan, Chris Young, Madison Baker, Kiran Yadav, Scarlett Coleman",4.06,0.4,0.6,5,0.0157,0.96,0.1023
+G-47,50,4.06,Group 4,5,"Parker Cruz, Naina Bhatia, Emily Powell, Yoshio Suzuki, Julian Bennett",3.99,0.6,0.4,5,0.0118,0.96,0.1183
+G-47,50,4.06,Group 5,5,"Tanner Mendoza, Leila Rahman, Jett Liu, Sakura Tanaka, Priti Yeo",4.09,0.4,0.6,5,0.0108,0.96,0.1112
+G-47,50,4.06,Group 6,5,"Nguyen Van Khoa, Lily Rivera, David Wright, Nora Turner, Si Min Tan",4.08,0.4,0.6,5,0.0072,0.96,0.1188
+G-47,50,4.06,Group 7,5,"Rajiv Singh, Violet Simpson, Eleanor Morales, Nazim Bin Ali, Samuel White",4.05,0.6,0.4,5,0.0079,0.96,0.1293
+G-47,50,4.06,Group 8,5,"Kishore Iyer, Zeenat Malik, Chloe Ward, Oscar Harris, Kamal Nair",4.07,0.6,0.4,5,0.0071,0.96,0.1294
+G-47,50,4.06,Group 9,5,"Sophia Wilson, Fenny Widianti, Exiang, Zainab Ali, Noel Wu",4.07,0.4,0.6,5,0.0116,0.96,0.1345
+G-47,50,4.06,Group 10,5,"Sienna Allen, Zeke Villanueva, Subhash Yadav, Willa Reed, Jae Min Lim",4.08,0.6,0.4,5,0.0148,0.96,0.1375
+G-48,50,4.12,Group 1,5,"Naresh Yadav, Freya Brown, Neha Kumar, Gavin Thompson, Timothy Tan",4.02,0.6,0.4,5,0.0075,0.96,0.0672
+G-48,50,4.12,Group 2,5,"Nitin Mehta, Maya Lee, James Wong, Alya Dwi, Callum Williams",4.06,0.6,0.4,5,0.0093,0.96,0.0821
+G-48,50,4.12,Group 3,5,"Caleb White, Emma Zhang, Isaac Clark, Wren Flores, Hannah King",4.12,0.4,0.6,5,0.001,0.96,0.0844
+G-48,50,4.12,Group 4,5,"Logan Scott, Soo-Hyun Kim, Greg Tsang, Dante Lee, Ava Lim",4.13,0.6,0.4,5,0.0055,0.96,0.1055
+G-48,50,4.12,Group 5,5,"Harper Garcia, Wyatt Tan, Emma Rodriguez, Oscar Cheung, Jasmine Chan",4.1,0.4,0.6,5,0.0043,0.96,0.0924
+G-48,50,4.12,Group 6,5,"Destiny Li, Liam Young, Aisha Chen, Kade Young, Mei Zhen Goh",4.09,0.4,0.6,5,0.004,0.96,0.0925
+G-48,50,4.12,Group 7,5,"Yara Ali, Siddharth Gupta, Zayden Scott, Aira Binti, Naila Zainal",4.2,0.4,0.6,5,0.0986,0.96,0.0696
+G-48,50,4.12,Group 8,5,"Khadija Ali, Harrison Moore, Yin Wei, Zeus Yang, Qomariyah Ningsih",4.16,0.6,0.4,5,0.0085,0.96,0.1058
+G-48,50,4.12,Group 9,5,"Nadia Tan, Li Xuan Tan, Huifen, Victor Wong, Aldina Putri",4.16,0.6,0.4,5,0.0139,0.96,0.1138
+G-48,50,4.12,Group 10,5,"Veda Chen, Amber Lee, Guntur Wibowo, Asher Liu, Quinn Adams",4.13,0.6,0.4,5,0.0084,0.96,0.1136
+G-49,50,4.08,Group 1,5,"Liam Davis, Arif Waseem, Noble Huang, Mia Johnson, Leonardo Wu",4.11,0.6,0.4,5,0.0123,0.96,0.0811
+G-49,50,4.08,Group 2,5,"Panshi, Ethan Ramirez, Manish Singh, Neha Desai, Rachel Tan",4.09,0.4,0.6,5,0.0082,0.96,0.085
+G-49,50,4.08,Group 3,5,"Nina Kaur, Lucas Huang, Pranav Nair, Kanika Verma, Leah Li",4.09,0.4,0.6,5,0.0152,0.96,0.085
+G-49,50,4.08,Group 4,5,"Shalini Patel, Chester Lim, Owen Villanueva, Molly Tan, Serena Lee",4.05,0.4,0.6,5,0.0159,0.96,0.0857
+G-49,50,4.08,Group 5,5,"Riya Sinha, Sami Ali, Aida Binti Omar, Mason Jackson, Ilya Petrovich",4.09,0.4,0.6,5,0.0027,0.96,0.085
+G-49,50,4.08,Group 6,5,"Natsuki Sakamoto, Bella Wright, Rizqi Bin Mohd, Zayn Malik, Rocco Wu",4.1,0.4,0.6,5,0.0045,0.96,0.0851
+G-49,50,4.08,Group 7,5,"Nina Ong, Fanny Tan, Vani Patil, Arvind Sharma, David Simmons",4.1,0.4,0.6,5,0.0148,0.96,0.0931
+G-49,50,4.08,Group 8,5,"Kong Jian, Elaine Lim, Rabia Iqbal, Tina Wei, Levi Edwards",4.09,0.4,0.6,5,0.0005,0.96,0.101
+G-49,50,4.08,Group 9,5,"Vladimir Sergeyev, Bella Lin, Jia Yu, Lydia Lim, Marwan Bin Ali",4.08,0.4,0.6,5,0.0026,0.96,0.1089
+G-49,50,4.08,Group 10,5,"Robert Davis, Nadia Khan, Olivia Tam, Nina Wu, Wei Jie",4.02,0.4,0.6,5,0.0128,0.96,0.1198
+G-5,50,4.08,Group 1,5,"Shu Zhang, Savannah Hayes, Tian Gao, Lucas White, Priya Rao",4.08,0.4,0.6,5,0.0429,0.96,0.0702
+G-5,50,4.08,Group 2,5,"Suhana Roy, Olive Li, Dmitri Andreev, Dorian Wu, Anushka Desai",4.08,0.4,0.6,5,0.0111,0.96,0.0702
+G-5,50,4.08,Group 3,5,"Nisha Tan, Katherine Lim, Jamal Bin Rahman, Michelle Kwan, Anthony Parker",4.09,0.4,0.6,5,0.0133,0.96,0.0623
+G-5,50,4.08,Group 4,5,"Ying Chen, Rebecca Lee, Exiang, Rina Sato, Gavin Carter",4.07,0.4,0.6,5,0.0137,0.96,0.0702
+G-5,50,4.08,Group 5,5,"Qi Wang, Xiaofang, Imogen Butler, Tanya Qureshi, Marcus Turner",4.07,0.2,0.8,5,0.0188,0.64,0.1108
+G-5,50,4.08,Group 6,5,"Xue Rui, Wendy Wong, Rhea Joshi, Layla Chen, Elijah Clark",4.09,0.2,0.8,5,0.0242,0.64,0.1108
+G-5,50,4.08,Group 7,5,"Sophie Zhou, Hassan Bin Yusof, Liam Reyes, Aria Morales, Tatiana Morozova",4.12,0.4,0.6,5,0.0069,0.96,0.0789
+G-5,50,4.08,Group 8,5,"Harlow Diaz, Dylan Kim, Ananya Choudhury, Victoria Ward, Christopher Harris",4.07,0.4,0.6,5,0.0035,0.96,0.1182
+G-5,50,4.08,Group 9,5,"Riya Ali, Ryan Hall, Yue Zhang, Samantha Taylor, Dorian Wu",4.08,0.4,0.6,5,0.011,0.96,0.1102
+G-5,50,4.08,Group 10,5,"Naomi Tanaka, Samuel Huang, Nadia Chai, Danying, Aarav Patel",4.01,0.4,0.6,5,0.0117,0.96,0.1276
+G-50,50,4.11,Group 1,5,"Asad Malik, Hua Ling, Nikhil Bansal, Kirti Sharma, Qori Cahyani",4.11,0.4,0.6,5,0.0027,0.96,0.0687
+G-50,50,4.11,Group 2,5,"Peter Lee, May Li, Rhea Nair, Zhen Zhou, Tanisha Reddy",4.12,0.4,0.6,5,0.0038,0.96,0.0687
+G-50,50,4.11,Group 3,5,"Owen Wang, Freya Murphy, Sophia Zhang, Nolan Reyes, Emma Brown",4.1,0.4,0.6,5,0.005,0.96,0.0687
+G-50,50,4.11,Group 4,5,"Benjamin White, Bingwen, Fatimah Binti Ahmad, Jonathan Ramirez, Natasha Singh",4.05,0.4,0.6,5,0.0259,0.96,0.0692
+G-50,50,4.11,Group 5,5,"Arjun Bansal, Sophia Liu, Karan Nair, Lana Garcia, Arun Nair",4.13,0.6,0.4,5,0.0042,0.96,0.0869
+G-50,50,4.11,Group 6,5,"Daryl Lee, Ayu Dwi, Santhosh Menon, Layla Baker, Deepti Sharma",4.1,0.4,0.6,5,0.0135,0.96,0.0927
+G-50,50,4.11,Group 7,5,"Gavin Wright, Cheng Yi, Anjali Verma, Hannah Jenkins, Kiran Reddy",4.1,0.6,0.4,5,0.004,0.96,0.1109
+G-50,50,4.11,Group 8,5,"Leo Chan, Levi Tan, Haibin Zhao, Amy Yeo, Bria Ong",4.0,0.6,0.4,5,0.0107,0.96,0.0966
+G-50,50,4.11,Group 9,5,"Hafiz Bin Abdul, Widi Hardiyanto, Ciara Lim, Liam Johnson, Siti Khadijah",4.24,0.6,0.4,5,0.0806,0.96,0.0894
+G-50,50,4.11,Group 10,5,"Gavin Adams, Derek Lee, Wiley Huang, Jay Lim, Syed Faris Bin Ali",4.14,1.0,0.0,5,0.0112,0.0,0.1939
+G-51,50,4.1,Group 1,5,"Min Xu, Emily Turner, Duncan Lee, Zach Chan, Syed Muneer Bin Shah",4.1,0.6,0.4,5,0.0032,0.96,0.0704
+G-51,50,4.1,Group 2,5,"Sneha Menon, Shazia Ahmed, Ivan Novikov, Jett Li, Jaxon Thomas",4.02,0.6,0.4,5,0.0081,0.96,0.0719
+G-51,50,4.1,Group 3,5,"Omer Hussain, Kara Liu, Serena Liu, Kenzie Tsai, Samuel Ng",4.05,0.4,0.6,5,0.0069,0.96,0.0566
+G-51,50,4.1,Group 4,5,"Gabriel Navarro, Sanya Rao, Esther Tan, Yongqiang, Saad Khan",4.2,0.4,0.6,5,0.0734,0.96,0.066
+G-51,50,4.1,Group 5,5,"Gavin Harris, Bella Evans, Nida Bukhari, Rina Binti Khairul, Leo Sanders",4.12,0.4,0.6,5,0.0058,0.96,0.0721
+G-51,50,4.1,Group 6,5,"Siti Hawa, Gina Alvarado, Arvind Menon, Kim Lee, Zoe Tan",4.1,0.4,0.6,5,0.0088,0.96,0.08
+G-51,50,4.1,Group 7,5,"Heath Cruz, Vera Chen, Ming Yi Tan, Lila Allen, Dustin Yang",4.08,0.4,0.6,5,0.007,0.96,0.0961
+G-51,50,4.1,Group 8,5,"Asim Hussain, Amelia Martin, Daphne Kwan, Nusrat Bukhari, Tania Tan",4.08,0.2,0.8,5,0.0203,0.64,0.1265
+G-51,50,4.1,Group 9,5,"Prakash Menon, Neha Mehta, Jasmine Tan, Emilia Tan, Olivia Harris",4.06,0.2,0.8,5,0.0055,0.64,0.1347
+G-51,50,4.1,Group 10,5,"Eli Barnes, Victor Liu, Krisha Malhotra, Wendy Chan, Annie Goh",4.22,0.4,0.6,4,0.0617,0.96,0.1707
+G-52,50,4.07,Group 1,5,"Aaliyah Tan, Vinny Rivera, Dylan Scott, Dongmei, Hannah Reed",4.09,0.4,0.6,5,0.0037,0.96,0.1074
+G-52,50,4.07,Group 2,5,"Ella Walker, Nina Li, Han Song Lim, Isaiah Brown, Phoebe Lim",4.09,0.4,0.6,5,0.0219,0.96,0.0913
+G-52,50,4.07,Group 3,5,"Layla Wong, Yasmin Khan, Cheng Chen, Chau Tran, Carlos Martinez",4.05,0.6,0.4,5,0.009,0.96,0.1058
+G-52,50,4.07,Group 4,5,"Aditi Rao, Samantha Brown, Arvind Nair, Jin Jian Lim, Yuri Cruz",4.04,0.6,0.4,5,0.0109,0.96,0.0979
+G-52,50,4.07,Group 5,5,"Kiera Tan, Siti Rahman, Freddy Martinez, Kairo Wu, Arjun Choudhury",4.05,0.6,0.4,5,0.0173,0.96,0.1057
+G-52,50,4.07,Group 6,5,"Dylan Chan, Lakshmi Iyer, Mingyu, Zhi Yi Ng, Veer Singh",4.05,0.6,0.4,5,0.0133,0.96,0.1218
+G-52,50,4.07,Group 7,5,"Qingxian, Ruocong, Amelia Garcia, Alexis Parker, Pei Li",4.16,0.4,0.6,5,0.0355,0.96,0.1422
+G-52,50,4.07,Group 8,5,"Yuan Zhang, Tania Das, Jasmine Wang, Fang Yu, Yuan Wei",4.08,0.4,0.6,5,0.0154,0.96,0.1312
+G-52,50,4.07,Group 9,5,"Daisy Brown, Guixiang, Niharika Roy, Misha Binti Noor, Leela Menon",4.06,0.0,1.0,5,0.0009,0.0,0.2208
+G-52,50,4.07,Group 10,5,"Olivia Wu, Xiaoyu Zhang, Bethany Zhang, Hazel Lim, Amara Zhang",4.03,0.0,1.0,5,0.0062,0.0,0.2214
+G-53,50,4.08,Group 1,5,"Zara Kumar, Grayson Lee, Chloe Lin, Tariq Malik, Zhen Zhou",4.04,0.6,0.4,5,0.0178,0.96,0.0872
+G-53,50,4.08,Group 2,5,"Gianna Lopez, Neha Singh, John Walker, Zhang Li, Ayden Clark",4.08,0.6,0.4,5,0.0026,0.96,0.0943
+G-53,50,4.08,Group 3,5,"Yao Chen, Ophelia Harris, Nathan Ong, Vinny Rivera, Liang Gao",4.12,0.6,0.4,5,0.0043,0.96,0.0959
+G-53,50,4.08,Group 4,5,"Lijuan, Tanvi Joshi, Finn Ramirez, Henry Wood, Nisha Binti",4.1,0.4,0.6,5,0.0031,0.96,0.0972
+G-53,50,4.08,Group 5,5,"Jessica Wright, Fina Rahmawati, Eli Morales, Grace Walker, Nash Wong",4.09,0.4,0.6,5,0.0118,0.96,0.0886
+G-53,50,4.08,Group 6,5,"Omar Tan, Rina Lim, Laxmi Joshi, Maya Perry, Ashton Yang",4.08,0.4,0.6,5,0.0027,0.96,0.0885
+G-53,50,4.08,Group 7,5,"Kaden Hernandez, Nadia Binti Rahman, Jing Xu, Lola Martinez, Hui Xin",4.07,0.4,0.6,5,0.0118,0.96,0.0965
+G-53,50,4.08,Group 8,5,"Riku Saito, Shahid Hussain, Emily Mitchell, Hui Xuan, Dylan King",4.07,0.4,0.6,5,0.0085,0.96,0.1045
+G-53,50,4.08,Group 9,5,"Aidan Ong, Iqra Awan, Siena Chang, Naina Rani, Samir Patel",4.04,0.4,0.6,5,0.0064,0.96,0.1057
+G-53,50,4.08,Group 10,5,"Wira Setiawan, Jae-Won Oh, Aihua, Nadia Binti Zain, Sulekha Yadav",4.06,0.4,0.6,4,0.0114,0.96,0.1447
+G-54,50,4.12,Group 1,5,"Akiko Yamashita, Rohan Joshi, Yasmine Kwan, Brady Yang, Nabihah Binti Rahman",4.27,0.4,0.6,5,0.0565,0.96,0.0633
+G-54,50,4.12,Group 2,5,"Elya Fitria, David Brown, Kayla Brooks, Aaliyah Sanders, Zhang Li",4.08,0.4,0.6,5,0.0171,0.96,0.0586
+G-54,50,4.12,Group 3,5,"Rameez Khan, Aariv Patel, Rina Matsumoto, Sophie Sanders, Yuri Sokolov",4.09,0.4,0.6,5,0.0159,0.96,0.0665
+G-54,50,4.12,Group 4,5,"Aisha Tan, Hieu Nguyen, Jing Yu, Sandeep Sharma, Emma Wang",4.13,0.4,0.6,5,0.0067,0.96,0.0824
+G-54,50,4.12,Group 5,5,"Liam Yang, Pratiwi Sari, Yasmin Wong, Miranda Wang, Isaiah Moore",4.12,0.4,0.6,5,0.0021,0.96,0.0824
+G-54,50,4.12,Group 6,5,"Jameson Cruz, Kaira Singh, Haley Santos, Sara Lee, Muhammad Amir",4.12,0.4,0.6,5,0.0032,0.96,0.0984
+G-54,50,4.12,Group 7,5,"Tarun Singh, Lena Tan, Tina Goh, Maya Wang, Marcus Turner",4.09,0.4,0.6,5,0.0048,0.96,0.0985
+G-54,50,4.12,Group 8,5,"Derek Tan, Siti Zainab, Charlotte Ortiz, Rani Kurnia, Jordan Washington",4.07,0.4,0.6,5,0.0098,0.96,0.1068
+G-54,50,4.12,Group 9,5,"Malcolm Chen, Fariha Malik, Talia Lin, Anya Dela Cruz, Bradley Wong",4.1,0.4,0.6,5,0.002,0.96,0.1224
+G-54,50,4.12,Group 10,5,"Jonathan Yang, Wyatt Cheung, Aoi Sakamoto, Piper Reyes, Zhen Wei",4.08,0.4,0.6,4,0.0195,0.96,0.1627
+G-55,50,4.09,Group 1,5,"Deepak Kumar, Connor Murphy, Clara Wu, Grace Rogers, Serena Chen",4.1,0.4,0.6,5,0.0031,0.96,0.0909
+G-55,50,4.09,Group 2,5,"Saad Khatri, Vladislav Nikiforov, Sushmita Das, Isabella Rossellini, Ella Robinson",4.01,0.4,0.6,5,0.0113,0.96,0.0812
+G-55,50,4.09,Group 3,5,"Xavier Lee, Tobias Wu, Maya Chang, Nadia Binti Noor, Faris Aji",4.09,0.6,0.4,5,0.0093,0.96,0.0982
+G-55,50,4.09,Group 4,5,"Talha Ali, Yusuf Bin Ahmad, Ava Chen, Xavier Salazar, Autumn Powell",4.08,0.6,0.4,5,0.0048,0.96,0.0903
+G-55,50,4.09,Group 5,5,"Owen Chen, Yuri Salazar, Alina Yeo, Mason Carter, Ly Nguyen",4.12,0.6,0.4,5,0.0049,0.96,0.0908
+G-55,50,4.09,Group 6,5,"Victor So, Zain Tran, Nadia Rehman, Lucas Cox, Hafizah Binti Rahman",4.12,0.6,0.4,5,0.0097,0.96,0.0911
+G-55,50,4.09,Group 7,5,"Kieran Villanueva, Irfan Bin Mohd, Tessa Bennett, Dylan Ong, Brenda Li",4.09,0.6,0.4,5,0.0045,0.96,0.1062
+G-55,50,4.09,Group 8,5,"Kye Wu, Priya Sharma, Fatima Syed, Dmitry Alekseev, Ashok Pillai",4.12,0.6,0.4,4,0.0087,0.96,0.1229
+G-55,50,4.09,Group 9,5,"Nguyen Thanh Tam, Xiao Mei, Axel Liu, Ray Tan, Gavin Kim",4.13,0.6,0.4,4,0.0021,0.96,0.1394
+G-55,50,4.09,Group 10,5,"Veronica Zhao, Anjali Mehta, Thomas Wu, Dylan Anderson, Harlan Wu",4.06,0.6,0.4,4,0.0137,0.96,0.1472
+G-56,50,4.07,Group 1,5,"Karla Mendoza, James Turner, Yasmine Price, Daniel Taylor, Yun Chen",4.07,0.6,0.4,5,0.0021,0.96,0.0982
+G-56,50,4.07,Group 2,5,"Bushra Ali, Ashley Castillo, Krishna Kumar, Floyd Mendoza, Jasper Green",4.03,0.6,0.4,5,0.0143,0.96,0.0912
+G-56,50,4.07,Group 3,5,"Elsie Ward, Kylie Hughes, Lydia Young, Jackson Cruz, Kael Huang",4.08,0.4,0.6,5,0.0119,0.96,0.081
+G-56,50,4.07,Group 4,5,"Keira Tan, Yuki Tan, Mei Xuan Lim, Jackson Carter, Seng Hua Lim",4.12,0.4,0.6,5,0.013,0.96,0.1071
+G-56,50,4.07,Group 5,5,"Lai Thi Ngan, Nafisa Iqbal, Maya Wong, Darren Yeo, Finn Tan",4.08,0.4,0.6,5,0.0153,0.96,0.113
+G-56,50,4.07,Group 6,5,"Diana Wong, Ananya Bansal, Aishwarya Rao, Riya Iyer, Derek Wong",4.07,0.2,0.8,5,0.0115,0.64,0.1325
+G-56,50,4.07,Group 7,5,"Fay Wong, Sami Al-Mansoori, Aubrey Sanchez, Florence Ong, Yong Chen",4.1,0.4,0.6,5,0.0025,0.96,0.1138
+G-56,50,4.07,Group 8,5,"Fengyi, Cyrus Liu, Becky Adams, Nora Simmons, Jing Lin Tan",4.04,0.4,0.6,5,0.0098,0.96,0.1217
+G-56,50,4.07,Group 9,5,"Wen Lee Tan, Qinwen, Jasmine Lee, Olivia Bell, Rizal Bin Ibrahim",4.04,0.2,0.8,5,0.0014,0.64,0.157
+G-56,50,4.07,Group 10,5,"Natalie Ong, Nguyen Thi An, Nguyen Thi Trang, Wei Lin, Ulysses Wong",4.05,0.2,0.8,5,0.009,0.64,0.1726
+G-57,50,4.05,Group 1,5,"Asha Kakade, Grayson Lee, Harper Robinson, Oliver Wu, Ashok Reddy",4.08,0.6,0.4,5,0.0089,0.96,0.0528
+G-57,50,4.05,Group 2,5,"Kaylee Turner, Theo Santos, Liang Wei Tan, Irfan Bin Zain, Isha Kapoor",4.07,0.4,0.6,5,0.005,0.96,0.0885
+G-57,50,4.05,Group 3,5,"Sofia Ng, Elena Mikhailovna, Jude Ong, Leo Santos, Lina Zhou",4.06,0.4,0.6,5,0.0111,0.96,0.0882
+G-57,50,4.05,Group 4,5,"Jenna Tan, Savannah Thompson, Matthew Perez, Grace Bell, Tobias Li",4.05,0.4,0.6,5,0.0025,0.96,0.0801
+G-57,50,4.05,Group 5,5,"Hannah Lee, Pooja Reddy, Noah Murphy, Riya Nair, Jin Zhi Lim",4.04,0.4,0.6,5,0.008,0.96,0.0805
+G-57,50,4.05,Group 6,5,"Nina Zhang, Aiko Yoshida, Ethan Smith, Meher Noor, Vivek Iyer",4.05,0.4,0.6,5,0.0141,0.96,0.0881
+G-57,50,4.05,Group 7,5,"Soo-Yeon Park, Jaxon Hall, Nina Ali, Charlotte Chang, Yuri Viktorov",4.05,0.4,0.6,5,0.0104,0.96,0.0962
+G-57,50,4.05,Group 8,5,"Addison Cooper, Lola Wu, Saad Khan, Fatimah Omar, Harsh Patel",4.02,0.4,0.6,5,0.0047,0.96,0.1142
+G-57,50,4.05,Group 9,5,"Rajesh Sharma, Ritika Das, Soren Liu, Maya Bansal, Ananya Das",4.05,0.4,0.6,5,0.0006,0.96,0.1042
+G-57,50,4.05,Group 10,5,"Riku Yamamoto, Li Ming, William Stewart, Sadia Javed, Rhea Kaur",4.06,0.4,0.6,5,0.0045,0.96,0.1043
+G-58,50,4.11,Group 1,5,"Haarika Reddy, Malcolm Yang, Abigail Rodriguez, Simon Tan, Kiran Desai",4.06,0.6,0.4,5,0.0079,0.96,0.083
+G-58,50,4.11,Group 2,5,"Sable Lin, Timothy Reed, Amani Yusof, Scott Santos, Wei Li",4.11,0.4,0.6,5,0.0039,0.96,0.0865
+G-58,50,4.11,Group 3,5,"Maya Bennett, Kien Tran, Tina Yeo, Owais Tariq, Lara Smith",4.1,0.4,0.6,5,0.0077,0.96,0.0866
+G-58,50,4.11,Group 4,5,"Shanaya Chan, Indah Tanjung, Alvin Tan, Matthew Thompson, Saanvi Sharma",4.11,0.4,0.6,5,0.0072,0.96,0.0785
+G-58,50,4.11,Group 5,5,"Grace Tan, Amina Khan, Binh Nguyen, Uma Parker, Eli Martinez",4.12,0.4,0.6,5,0.0508,0.96,0.0707
+G-58,50,4.11,Group 6,5,"Jayden Turner, Maya Khan, Sarita Sharma, Yasmin Tan, Chen Li",4.11,0.4,0.6,5,0.0035,0.96,0.0865
+G-58,50,4.11,Group 7,5,"Chase Rivera, Meera Choudhury, Kavya Iyer, Ellie Sanchez, Rohit Sharma",4.08,0.4,0.6,5,0.0066,0.96,0.0868
+G-58,50,4.11,Group 8,5,"Graham Tsang, Mei Hwa, Emily Davis, Charlotte Zhang, Riyaz Khan",4.13,0.4,0.6,5,0.0091,0.96,0.0948
+G-58,50,4.11,Group 9,5,"Ryan Zhao, Shalini Reddy, Yvette Chan, Reina Fujimoto, Daniel Green",4.18,0.4,0.6,5,0.0475,0.96,0.1287
+G-58,50,4.11,Group 10,5,"Sami Khan, Erica Lim, Soren Liu, Sari Ningsih, Lumina Tsai",4.06,0.4,0.6,4,0.0184,0.96,0.1912
+G-59,50,4.07,Group 1,5,"Hina Malik, Zhou Chen, Kira Shimizu, Naim Bin Mohamad, Tyler Johnson",4.08,0.6,0.4,5,0.0007,0.96,0.1005
+G-59,50,4.07,Group 2,5,"Fiona Chang, Sandeep Singh, Bella Brooks, Ivy Thompson, Aaron Wu",4.06,0.4,0.6,5,0.0042,0.96,0.089
+G-59,50,4.07,Group 3,5,"Sara Yong, Gunnar Yang, Lily Huang, Addison Clarke, Derek Scott",4.07,0.4,0.6,5,0.0093,0.96,0.0889
+G-59,50,4.07,Group 4,5,"Ximena Li, Stella James, Kang-Soo Lee, Nia Tsai, Zachary Zhang",4.08,0.4,0.6,5,0.0041,0.96,0.0809
+G-59,50,4.07,Group 5,5,"Lexi Zhao, Madison Murphy, Miles Lim, Sofia Yang, Eli Carter",4.01,0.4,0.6,5,0.0097,0.96,0.0818
+G-59,50,4.07,Group 6,5,"Xiang Li, Alyssa Scott, Jasper Ortiz, Daisy Cheung, Rishi Sharma",4.06,0.4,0.6,5,0.0117,0.96,0.089
+G-59,50,4.07,Group 7,5,"Chloe Evans, Nguyen Thi Mai, Holly Cheung, Hui Ling, Nasir Ali",4.06,0.2,0.8,5,0.0215,0.64,0.1223
+G-59,50,4.07,Group 8,5,"Safira Binti Aziz, Zane Patel, Rizqi Bin Farhan, Valentina Mikhailova, Laras Wati",4.13,0.4,0.6,4,0.1075,0.96,0.1214
+G-59,50,4.07,Group 9,5,"Alya Binti Rahim, Dedy Kurniawan, Hannah Green, Opal Wang, Brayden Young",4.12,0.4,0.6,4,0.0503,0.96,0.1454
+G-59,50,4.07,Group 10,5,"Jeremiah Green, Milo Cruz, Zhao Chen, Eka Ramadhan, Axel Liu",4.08,0.6,0.4,4,0.003,0.96,0.1565
+G-6,50,4.1,Group 1,5,"Umi Lestari, Brayden Lewis, Diana Ng, Emilio Cruz, Henry Ramirez",4.07,0.6,0.4,5,0.0028,0.96,0.0849
+G-6,50,4.1,Group 2,5,"Rhea Tan, Elijah Huang, Lianhua, Jade Wibowo, Kendall Yang",4.06,0.4,0.6,5,0.0185,0.96,0.0706
+G-6,50,4.1,Group 3,5,"Vicky Tan, Ranjit Singh, Madison Clark, Riya Singh, Rajesh Iyer",4.04,0.4,0.6,5,0.0097,0.96,0.079
+G-6,50,4.1,Group 4,5,"Yuki Hoshino, Suresh Nair, Angela Zhou, Sarah Robinson, Cameron Yang",4.06,0.4,0.6,5,0.0182,0.96,0.0867
+G-6,50,4.1,Group 5,5,"Meera Rao, Miranda Chang, Brady Yang, Maya Brown, Kian Wei Lim",4.09,0.4,0.6,5,0.0117,0.96,0.1104
+G-6,50,4.1,Group 6,5,"Siti Mariam, Khalid Bin Mohd, Lily Zhao, Abigail Nelson, Ryo Tanaka",4.11,0.4,0.6,5,0.0105,0.96,0.0944
+G-6,50,4.1,Group 7,5,"Alyssa Wong, Li Wei Tan, Elliot Wong, Yasmine Tan, Puja Nair",4.12,0.4,0.6,5,0.0047,0.96,0.0945
+G-6,50,4.1,Group 8,5,"Aadhya Patel, Wei Chen, Yuri Lebedev, Pauline Fung, Claire Ng",4.27,0.4,0.6,5,0.0735,0.96,0.1075
+G-6,50,4.1,Group 9,5,"Clara Tan, Harper Hall, Aubrey Carter, Mira Zhao, Asher Edwards",4.07,0.2,0.8,5,0.0116,0.64,0.1489
+G-6,50,4.1,Group 10,5,"Gabriel Howard, Isha Patel, Hannah Binti Ahmad, Anum Malik, Dylan Ong",4.09,0.4,0.6,5,0.0055,0.96,0.1344
+G-60,50,4.1,Group 1,5,"Cassidy Kim, Isaac Rodriguez, Pooja Bhatia, Liang Chen, Kiara Chen",4.09,0.4,0.6,5,0.0026,0.96,0.0982
+G-60,50,4.1,Group 2,5,"Nandita Roy, Keng Jie Tan, Chloe Huang, Rina Matsui, Leonardus Budi",4.09,0.6,0.4,5,0.0056,0.96,0.1039
+G-60,50,4.1,Group 3,5,"Sophia Tan, Zhong Wei, Boris Villanueva, Zachary Chen, Haoran Wang",4.1,0.6,0.4,5,0.0034,0.96,0.1039
+G-60,50,4.1,Group 4,5,"Ritika Iyer, Isabella Torres, Aaron Hall, Arjun Kumar, Ren Tan",4.18,0.6,0.4,5,0.025,0.96,0.1065
+G-60,50,4.1,Group 5,5,"Puti Rahayu, Yvette Santos, Liam Reyes, Zhou Min, Sung-Jin Kim",4.11,0.6,0.4,5,0.0059,0.96,0.1119
+G-60,50,4.1,Group 6,5,"Nina Binti Omar, Nadia Binti Jamil, Elina Binti Mohd, Omer Qureshi, Gage Yang",4.12,0.4,0.6,5,0.0138,0.96,0.1063
+G-60,50,4.1,Group 7,5,"Noel Wu, Fern Lim, Lina Chen, Alexander Cox, Nora Jenkins",4.08,0.4,0.6,5,0.0124,0.96,0.1142
+G-60,50,4.1,Group 8,5,"Owen Wright, Tamara Tan, Heidi Tan, Carl Lee, Linda Chen",4.06,0.4,0.6,5,0.0111,0.96,0.1147
+G-60,50,4.1,Group 9,5,"Umair Shah, Aria Liu, Diana Lewis, Yoshiko Sakamoto, Pablo Reyes",4.08,0.4,0.6,5,0.0134,0.96,0.1303
+G-60,50,4.1,Group 10,5,"Wang Li, Vanessa Cabral, Juna Wang, Eva Lee, Lucas Thompson",4.09,0.2,0.8,5,0.003,0.64,0.1852
+G-61,50,4.07,Group 1,5,"Hazel Goh, Elijah Murphy, Jun Chen, Ella Garcia, Parker Li",4.09,0.6,0.4,5,0.0132,0.96,0.087
+G-61,50,4.07,Group 2,5,"Gita Tan, Kazuki Watanabe, Wilfredo Salazar, Shafina Binti Ahmad, Quang Tran",4.06,0.6,0.4,5,0.021,0.96,0.0871
+G-61,50,4.07,Group 3,5,"Sophia Patel, Hannah Patel, Paul Allen, Harsh Sharma, Cleo Tan",4.05,0.4,0.6,5,0.0051,0.96,0.0919
+G-61,50,4.07,Group 4,5,"Bunga Sari, Vanessa Lim, Zhang Ming, Pandu Rahmat, Hui Ying",4.05,0.4,0.6,5,0.0166,0.96,0.0919
+G-61,50,4.07,Group 5,5,"Erqi, Leila Wong, Quincy Li, Teddy Kurniawan, Samantha Ramos",4.06,0.4,0.6,5,0.0267,0.96,0.0914
+G-61,50,4.07,Group 6,5,"Quang Tran, Aina Binti Zain, Ananya Kapoor, James Thompson, Karan Joshi",4.11,0.6,0.4,5,0.0097,0.96,0.096
+G-61,50,4.07,Group 7,5,"Isaac Martinez, Dewi Tan, Zhenyu, Yasmin Naeem, Kumar Sundaram",4.09,0.4,0.6,5,0.0025,0.96,0.1156
+G-61,50,4.07,Group 8,5,"Tristan Harris, Sana Javed, Isabella Martinez, Tanya Nair, Jayden Chen",4.09,0.4,0.6,5,0.0045,0.96,0.1077
+G-61,50,4.07,Group 9,5,"Sushma Rao, Cathy Liu, Miyuki Ikeda, Siti Aisha, Karan Kapoor",4.09,0.2,0.8,5,0.0048,0.64,0.1567
+G-61,50,4.07,Group 10,5,"Aifen, Mikayla Murphy, Marta Sihombing, Chloe Martinez, Jacob Yang",4.05,0.2,0.8,4,0.0164,0.64,0.2371
+G-62,50,4.06,Group 1,5,"Mira Tan, Christian Liu, Karishma Shah, Carter Brown, Nia Lee",4.03,0.4,0.6,5,0.0141,0.96,0.0655
+G-62,50,4.06,Group 2,5,"Hunter Carter, Lenora Chang, Kangming, Nishant Kapoor, Hiroki Fujimoto",4.05,0.6,0.4,5,0.0088,0.96,0.0725
+G-62,50,4.06,Group 3,5,"Sultan Bin Rahman, Hazel Chen, Harvey Wu, Jasmine Lim, Pooja Agarwal",4.06,0.4,0.6,5,0.0129,0.96,0.0724
+G-62,50,4.06,Group 4,5,"Ava Allen, Zeke Yang, Hannah Rodriguez, Nate Chan, Saanvi Iyer",4.05,0.4,0.6,5,0.0114,0.96,0.1046
+G-62,50,4.06,Group 5,5,"Carter Edwards, Anya Wong, Kaden White, Savannah Chen, Ethan Martinez",4.09,0.6,0.4,5,0.0093,0.96,0.0733
+G-62,50,4.06,Group 6,5,"George So, Yumiko Takeda, Owais Hussain, Miho Sato, Tyler Adams",4.03,0.6,0.4,5,0.0128,0.96,0.1055
+G-62,50,4.06,Group 7,5,"Kamal Ahmed, Saanvi Gupta, Jack Nelson, Zainab Binti Jamal, Rashmika Jain",4.05,0.4,0.6,5,0.0115,0.96,0.0805
+G-62,50,4.06,Group 8,5,"Maya Binti Rahman, Andrei Sokolov, Jaxon Wood, Shalina Lee, Aria Nair",4.1,0.4,0.6,5,0.0082,0.96,0.114
+G-62,50,4.06,Group 9,5,"Usman Rehman, Xena Nelson, Harrison Torres, Miranda Wu, Nikolai Alvarado",4.06,0.6,0.4,5,0.0071,0.96,0.1284
+G-62,50,4.06,Group 10,5,"Tariq Iqbal, Oliver Lim, Zhihao, Sebastian Mitchell, Clara Murphy",4.1,0.6,0.4,5,0.0012,0.96,0.1374
+G-63,50,4.08,Group 1,5,"Aasiyah Khan, Zachary Young, Nikita Patel, Shahbaz Malik, Zhou Li",4.04,0.6,0.4,5,0.0058,0.96,0.0943
+G-63,50,4.08,Group 2,5,"Naresh Kumar, Nina Kelly, Wenyi, Hikaru Sato, Lina Wong",4.04,0.4,0.6,5,0.0113,0.96,0.0942
+G-63,50,4.08,Group 3,5,"Emma Li, Mason Reed, Sung-Jo Lee, Devika Nair, Ethan Johnson",4.16,0.6,0.4,5,0.0139,0.96,0.0907
+G-63,50,4.08,Group 4,5,"Jett Li, Kiran Khanna, Elvin Wong, Zhou Min, Chandni Sethi",4.07,0.4,0.6,5,0.0181,0.96,0.1012
+G-63,50,4.08,Group 5,5,"Chao Wang, Demi Lee, Lily Carter, Sung-Jin Lee, Glenn Lim",4.09,0.6,0.4,5,0.0068,0.96,0.1253
+G-63,50,4.08,Group 6,5,"Laila Binti Rahim, Benedict Cruz, Neelam Singh, Saqib Khan, Dimas Santoso",4.08,0.6,0.4,5,0.0043,0.96,0.1012
+G-63,50,4.08,Group 7,5,"Dingming, Le Minh Tuan, Rhett Chen, Leila Tan, Nikolai Semyonov",4.06,0.6,0.4,5,0.0086,0.96,0.1255
+G-63,50,4.08,Group 8,5,"Sophia Scott, Isaiah Patel, Rei Takahashi, Megan Wright, Feng Qian",4.08,0.4,0.6,5,0.0061,0.96,0.1332
+G-63,50,4.08,Group 9,5,"Ethan Wong, Anjali Bhatia, Nathan Lee, Jacob Lin, Qiming",4.06,0.6,0.4,5,0.0001,0.96,0.1414
+G-63,50,4.08,Group 10,5,"Ariana Liu, Vishnu Rao, Sita Rahman, Tomoko Sato, Chloe Tam",4.09,0.2,0.8,5,0.0143,0.64,0.1701
+G-64,50,4.1,Group 1,5,"Hiroki Tanaka, Zara Dwi, Elias Bennett, Lina Rahmawati, Scarlett Young",4.02,0.4,0.6,5,0.0066,0.96,0.0926
+G-64,50,4.1,Group 2,5,"Kain Yang, Hoa Tran, Khairul Bin Ali, Emily Thompson, Evelyn Collins",4.09,0.4,0.6,5,0.0143,0.96,0.0956
+G-64,50,4.1,Group 3,5,"Zane Wu, Chen Yi, Mi-Ra Kim, Gage Wright, Simran Bhatia",4.08,0.6,0.4,5,0.0166,0.96,0.0849
+G-64,50,4.1,Group 4,5,"Logan Rivera, Ethan Moore, Uy Nguyen, Andrei Konstantinov, Chloe Lim",4.08,0.6,0.4,5,0.0048,0.96,0.0928
+G-64,50,4.1,Group 5,5,"Ravi Yadav, Syahrul Bin Mohd, Ranya Ibrahim, Farooq Khan, Mira Binti Bakar",4.05,0.6,0.4,5,0.0273,0.96,0.1028
+G-64,50,4.1,Group 6,5,"Dina Sari, Ningqi, Ava Li, Bobby Yip, Jacob Bennett",4.12,0.6,0.4,5,0.0041,0.96,0.1011
+G-64,50,4.1,Group 7,5,"Xiaoling Zhou, Brendan Reyes, Bethany Wang, Kamran Shah, Tyler Price",4.12,0.6,0.4,5,0.0024,0.96,0.1172
+G-64,50,4.1,Group 8,5,"Sara Martin, Sandi Prasetyo, Leila Dela Cruz, Daniel Robinson, Kenneth Tan",4.15,0.6,0.4,5,0.0033,0.96,0.1191
+G-64,50,4.1,Group 9,5,"Renee Tan, Daniel Green, Diana Tan, Dong-Soo Lee, Chaya Desai",4.08,0.4,0.6,5,0.0185,0.96,0.1279
+G-64,50,4.1,Group 10,5,"Layla Khan, Leo Xu, Cherie Wong, Faisal Naeem, Talia Chen",4.17,0.4,0.6,5,0.004,0.96,0.1325
+G-65,50,4.09,Group 1,5,"Asad Bukhari, Shivani Tan, Adam Cooper, Kevin Patel, Ravi Kiran",4.09,0.6,0.4,5,0.0037,0.96,0.1004
+G-65,50,4.09,Group 2,5,"Sonia Ong, Akiko Matsuda, Areeba Noor, Toni Susanto, Izzat Bin Mohd",4.09,0.4,0.6,5,0.0055,0.96,0.0918
+G-65,50,4.09,Group 3,5,"Nadine Lee, Elle Li, Tanisha Desai, Harith Bin Rahman, Joshua Wang",4.1,0.4,0.6,5,0.0066,0.96,0.0999
+G-65,50,4.09,Group 4,5,"Naya Tan, Ika Binti Zain, Sushmita Sharma, William Yang, Ilya Semyonov",4.08,0.4,0.6,5,0.0191,0.96,0.092
+G-65,50,4.09,Group 5,5,"Orion Setiawan, Prisha Ong, Alice Wall, Benjamin Hernandez, Khanh Le",4.12,0.6,0.4,5,0.0031,0.96,0.1169
+G-65,50,4.09,Group 6,5,"Kai Zhang, Nandini Rao, Vivi Anggraini, David Smith, Wyatt Thompson",4.13,0.6,0.4,5,0.0069,0.96,0.1173
+G-65,50,4.09,Group 7,5,"Owen Chan, Nikita Sinha, Nguyen Van Thanh, Yuuta Nakamura, Evan Lewis",4.06,0.6,0.4,5,0.0123,0.96,0.1172
+G-65,50,4.09,Group 8,5,"Jing Chen, Phuc Tran, Grace Yang, Mira Binti Ali, Jin Wei Tan",4.1,0.4,0.6,5,0.0055,0.96,0.1158
+G-65,50,4.09,Group 9,5,"Diana Yeo, Naomi Cheung, Leila Iyer, Sophie Wright, Zheng Rui",4.1,0.2,0.8,5,0.0029,0.64,0.16
+G-65,50,4.09,Group 10,5,"Isabel Wong, Xena Santos, Aria Carter, Elena Chua, Kiran Malhotra",4.06,0.2,0.8,5,0.0228,0.64,0.1608
+G-66,50,4.11,Group 1,5,"Andrew Phillips, Lina Yeo, Zoe Yip, Cameron Hall, Khalifah Binti Abd",4.09,0.6,0.4,5,0.0068,0.96,0.0912
+G-66,50,4.11,Group 2,5,"Tao Ming, Sabrina Lin, Zheng Hao Tan, Nisha Joshi, In-Ho Kim",4.06,0.6,0.4,5,0.0114,0.96,0.1
+G-66,50,4.11,Group 3,5,"Violet Tsai, Oliver Thomas, Yuki Yamamoto, Jason Martin, Daniel Kim",4.04,0.6,0.4,5,0.0129,0.96,0.0929
+G-66,50,4.11,Group 4,5,"Xiu Chen, James Li, Alvin Lee, Ella Tsai, Zhihao",4.19,0.6,0.4,5,0.0239,0.96,0.1018
+G-66,50,4.11,Group 5,5,"Saira Khan, Arjun Mehta, Carlos Martinez, Jasmine Ali, Vera Lim",4.11,0.4,0.6,5,0.0125,0.96,0.102
+G-66,50,4.11,Group 6,5,"Ritika Suresh, Jing Mei, Kajal Kaur, Lachlan Zhao, Chloe Ong",4.11,0.4,0.6,5,0.0028,0.96,0.11
+G-66,50,4.11,Group 7,5,"Hannah Wu, Yale Cruz, Joseph Lee, Ying Yue, Ellie Russell",4.12,0.4,0.6,5,0.0136,0.96,0.11
+G-66,50,4.11,Group 8,5,"Rhea Iyer, Devon Tan, Dustin Chen, Tina Lim, Syed Bilal Bin Rahman",4.18,0.6,0.4,5,0.0045,0.96,0.1171
+G-66,50,4.11,Group 9,5,"Pallavi Joshi, Maya Lopez, Zhihao, Kong Ming, Clara Lim",4.13,0.4,0.6,5,0.0055,0.96,0.1262
+G-66,50,4.11,Group 10,5,"Aarav Patil, Fiona Tsai, Caiyun, Samit Kumar, Kaira Ong",4.05,0.6,0.4,5,0.0254,0.96,0.1243
+G-67,50,4.09,Group 1,5,"Peyton Chang, Jerome Tan, Ayesha Malik, Eli Chen, Zara Santos",4.12,0.4,0.6,5,0.0079,0.96,0.0973
+G-67,50,4.09,Group 2,5,"Sanya Gupta, Bingli, Sanya Maheshwari, Leo Huang, Dev Raj",4.12,0.6,0.4,5,0.0079,0.96,0.0981
+G-67,50,4.09,Group 3,5,"Vika Rahmadani, Jett Brown, Janelle Pineda, Paul Chan, Rahul Gupta",4.07,0.6,0.4,5,0.0109,0.96,0.0977
+G-67,50,4.09,Group 4,5,"Disha Nair, Addison Bell, Yuki Takahashi, Ethan Taylor, Julian Carter",4.07,0.6,0.4,5,0.0188,0.96,0.0896
+G-67,50,4.09,Group 5,5,"Kieu Nguyen, Justin Li, Isabella Hernandez, Zane Lee, Akira Matsuda",4.07,0.6,0.4,5,0.0168,0.96,0.0976
+G-67,50,4.09,Group 6,5,"Ava Chan, Alexander Adams, Emery Rice, Rina Lestari, Dylan Liu",4.13,0.4,0.6,5,0.0073,0.96,0.1064
+G-67,50,4.09,Group 7,5,"Lian Huang, Remy Mendoza, Peishan, Cynthia Lee, Xue Ying",4.1,0.4,0.6,5,0.0065,0.96,0.1368
+G-67,50,4.09,Group 8,5,"Oliver Huang, Anastasia Smirnova, Olivia Lee, Lila Young, Owen Hall",4.1,0.4,0.6,5,0.0047,0.96,0.1368
+G-67,50,4.09,Group 9,5,"Kah Ying, Umme Aiman, Aria Wu, Natsumi Yamamoto, Hugo Wang",4.03,0.2,0.8,5,0.0102,0.64,0.1678
+G-67,50,4.09,Group 10,5,"Sameer Khan, Olivia Kim, Umara Rahmadani, Jaya Singh, Zoe Leung",4.08,0.2,0.8,5,0.0033,0.64,0.1809
+G-68,50,4.08,Group 1,5,"Anika Tan, Jennifer Tan, Samuel Torres, Tran Van Dung, Sophie Turner",4.08,0.4,0.6,5,0.0073,0.96,0.0654
+G-68,50,4.08,Group 2,5,"Naomi Ueno, Valerie Tan, Li Jun, Yong Zhang, Nora Parker",4.09,0.4,0.6,5,0.0099,0.96,0.0654
+G-68,50,4.08,Group 3,5,"Fatimah Binti Ali, Emma Tsai, Henry Smith, Jayden Lee, Sadie Rivera",4.16,0.4,0.6,5,0.0463,0.96,0.0674
+G-68,50,4.08,Group 4,5,"Hunter Yang, Mabel Wang, Mia Lewis, Hunter Johnson, Lin Chen",4.1,0.4,0.6,5,0.002,0.96,0.0735
+G-68,50,4.08,Group 5,5,"Leo Kelly, Maya Ramirez, Song-Joo Lee, Adrian Liu, Vina Herlina",4.07,0.4,0.6,5,0.0117,0.96,0.0734
+G-68,50,4.08,Group 6,5,"Maddox Torres, Sanya Malik, Diya Mathur, Ahmad Bin Zakaria, Nashit Khan",4.05,0.6,0.4,5,0.0041,0.96,0.0982
+G-68,50,4.08,Group 7,5,"Tenzin Wangchuk, Luna Rivera, Iris Zhao, Laura Garcia, Riley Adams",4.04,0.4,0.6,5,0.0141,0.96,0.0738
+G-68,50,4.08,Group 8,5,"Jin Le Tan, Wenwen, Ursula Wong, Nina Patel, Mohammed Ali",4.03,0.4,0.6,5,0.0237,0.96,0.0902
+G-68,50,4.08,Group 9,5,"Aiden Thompson, Leona Chua, Sana Mehta, Aditi Kapoor, Knox Yang",4.07,0.4,0.6,5,0.0033,0.96,0.1054
+G-68,50,4.08,Group 10,5,"Matthew Hall, Xiuqin, Rahul Mehta, Luna Long, Levi Li",4.09,0.6,0.4,5,0.004,0.96,0.1061
+G-69,50,4.11,Group 1,5,"Ryan Lin, Narin Tan, Kiera Wong, Erhua, Milo Liu",4.13,0.6,0.4,5,0.0054,0.96,0.1096
+G-69,50,4.11,Group 2,5,"Fiona Binti Wong, Fikri Andika, Sofia Hall, Xander Lim, Jack Huang",4.1,0.6,0.4,5,0.0044,0.96,0.1012
+G-69,50,4.11,Group 3,5,"James Anderson, Nora Binti Zainal, Jian Liu, Jia Tan, Libby Tan",4.1,0.4,0.6,5,0.0158,0.96,0.0932
+G-69,50,4.11,Group 4,5,"Jonas Lee, Amina Binti Noor, Hina Ali, Daniel Campbell, Aarav Yadav",4.09,0.6,0.4,5,0.0122,0.96,0.1176
+G-69,50,4.11,Group 5,5,"Naim Bin Rahim, Katherine Wood, Aria Young, Irfan Bin Zain, Hina Khan",4.11,0.4,0.6,5,0.0059,0.96,0.1252
+G-69,50,4.11,Group 6,5,"Cindy Chang, Sanjay Kapoor, Scarlett Bell, Ningyue, Shakir Bin Ahmad",4.12,0.4,0.6,5,0.0175,0.96,0.1014
+G-69,50,4.11,Group 7,5,"Ivy Reyes, Jin Hao, Ji-Hoon Kim, Serena Wong, Xiangqi",4.1,0.4,0.6,5,0.0143,0.96,0.1093
+G-69,50,4.11,Group 8,5,"Gaurav Joshi, Xiang Yu Tan, Jessica Brown, Maxine Ong, Kenta Hashimoto",4.11,0.6,0.4,5,0.0046,0.96,0.1252
+G-69,50,4.11,Group 9,5,"Luca Carter, Colin Wong, Jingyi, Mia Wu, Ella Cooper",4.11,0.6,0.4,5,0.0019,0.96,0.1252
+G-69,50,4.11,Group 10,5,"Clara Tsai, Jackson Mitchell, Lucas Wilson, Victoria Parker, Nita Nair",4.1,0.4,0.6,5,0.0052,0.96,0.1332
+G-7,50,4.09,Group 1,5,"Aiden Smith, Ursula Scott, Bingwen, Ariana Tsai, Yvonne Reyes",4.13,0.4,0.6,5,0.0437,0.96,0.0868
+G-7,50,4.09,Group 2,5,"Hikaru Kuroda, Addison Yang, Soo-Yeon Lee, Min-Seok Lee, Rosa Martinez",4.09,0.4,0.6,5,0.0062,0.96,0.0863
+G-7,50,4.09,Group 3,5,"Yong Jie, Devika Mehta, Ayesha Shirin, Derek Johnson, Indriani Wulandari",4.08,0.4,0.6,5,0.014,0.96,0.0863
+G-7,50,4.09,Group 4,5,"Isaiah Lee, Aria Khan, Priscilla Tan, Charlie Wong, Neha Joshi",4.07,0.4,0.6,5,0.0118,0.96,0.0944
+G-7,50,4.09,Group 5,5,"Matthew Lee, Vera Yip, Oscar Lim, Isabella Clark, Noah Huang",4.1,0.6,0.4,5,0.0043,0.96,0.1045
+G-7,50,4.09,Group 6,5,"Bilal Hussain, Sofia Patel, Evelyn Kelly, Andre Green, Yoshinori Yamashita",4.06,0.6,0.4,5,0.0154,0.96,0.0968
+G-7,50,4.09,Group 7,5,"Ahmad bin Ali, Shinji Yoshida, Yuan Yi, Sofia Martinez, Xena Kwan",4.12,0.4,0.6,5,0.0164,0.96,0.0946
+G-7,50,4.09,Group 8,5,"Anish Bhatia, Minh Tran, Hassan Malik, Cheng Wei, Yun Chen",4.12,0.8,0.2,5,0.0228,0.64,0.1358
+G-7,50,4.09,Group 9,5,"Zoe Parker, Harsh Kumar, Siti Aminah, Hunter Powell, Eli Tan",4.07,0.6,0.4,5,0.0156,0.96,0.1047
+G-7,50,4.09,Group 10,5,"Aiman Bin Azman, Waleed Iqbal, Daniel Robinson, Daniel Patel, Rita Chan",4.07,0.8,0.2,5,0.0113,0.64,0.1678
+G-70,50,4.09,Group 1,5,"Renee Wong, Rashid Khan, Zachary Wu, Finn James, Jack Ng",4.1,0.6,0.4,5,0.003,0.96,0.096
+G-70,50,4.09,Group 2,5,"Cary Tan, Ella Rodriguez, Jaxon Kim, Beau Dela Cruz, Dante Lewis",4.09,0.6,0.4,5,0.0048,0.96,0.096
+G-70,50,4.09,Group 3,5,"Amelia Thompson, Tina Yung, Jasmine Binti Ali, Dylan Collins, Ming Shen",4.11,0.4,0.6,5,0.0127,0.96,0.092
+G-70,50,4.09,Group 4,5,"Katherine Chen, Nimisha Gupta, Elena Kwan, Finn Walker, Nguyen Van Tinh",4.04,0.4,0.6,5,0.0076,0.96,0.0962
+G-70,50,4.09,Group 5,5,"Sumita Sharma, Ulyssa Dela Cruz, Kangtai, Wayne Tan, Khalil Bin Ismail",4.14,0.4,0.6,5,0.0058,0.96,0.0941
+G-70,50,4.09,Group 6,5,"Aifang, Zara Chan, Jing Mei, Guangzhen, Huang Feng",4.09,0.4,0.6,5,0.0088,0.96,0.1078
+G-70,50,4.09,Group 7,5,"Anjali Desai, Maya Evans, Rina Amelia, Jett Martinez, Ken Yamamoto",4.09,0.4,0.6,5,0.0023,0.96,0.1238
+G-70,50,4.09,Group 8,5,"Aiko Tanaka, Kyla Cheung, Raisha Khanna, Hafsa Noor, Benjamin Allen",4.1,0.2,0.8,5,0.0049,0.64,0.1484
+G-70,50,4.09,Group 9,5,"Alice Kwan, Emma Thomas, Jasmine Bhat, Aarvi Gupta, Yasin Shah",4.08,0.2,0.8,5,0.0113,0.64,0.1488
+G-70,50,4.09,Group 10,5,"Emma Thompson, Saanvi Patel, Aria Phillips, Hina Raza, Dina Farhan",4.12,0.0,1.0,5,0.0064,0.0,0.2025
+G-71,50,4.1,Group 1,5,"Soo-Yeon Kim, Eric Huang, Emily Tsai, Hiroki Nakamura, Lucas Martinez",4.06,0.6,0.4,5,0.0106,0.96,0.0868
+G-71,50,4.1,Group 2,5,"Evelyn Yeo, Jonas Evans, Peyton Villanueva, Dmitri Volkov, Renji Tanaka",4.06,0.6,0.4,5,0.0091,0.96,0.0869
+G-71,50,4.1,Group 3,5,"Anisah Binti, Uriah Wong, Maya Iyer, Kylie Ross, Adriel Reyes",4.13,0.4,0.6,5,0.0463,0.96,0.0773
+G-71,50,4.1,Group 4,5,"Ming Zhao, Olivia Ng, Nora Campbell, Willa Pineda, Zain Bin Ali",4.16,0.2,0.8,5,0.0349,0.64,0.1136
+G-71,50,4.1,Group 5,5,"Aisha Khan, Mohammad Ali, Priyanka Kapoor, Mia Garcia, Carter Xu",4.09,0.4,0.6,5,0.0053,0.96,0.085
+G-71,50,4.1,Group 6,5,"Fiona Lam, Vivek Nair, Cassandra Reyes, Ningyu, Fei Hong Lim",4.08,0.4,0.6,5,0.0142,0.96,0.0851
+G-71,50,4.1,Group 7,5,"Hira Ali, Zhang Yi, Lily Turner, Ayla Turner, Ravi Sharma",4.03,0.4,0.6,5,0.0139,0.96,0.0946
+G-71,50,4.1,Group 8,5,"Lana Lee, Uriah Pineda, Monique Fernandez, Jade Tan, Aiwen Wang",4.09,0.4,0.6,5,0.0072,0.96,0.125
+G-71,50,4.1,Group 9,5,"Indira Ong, Carmen Lin, Rhea Bennett, Tara Chen, Dong-Soo Lee",4.21,0.2,0.8,5,0.0247,0.64,0.1488
+G-71,50,4.1,Group 10,5,"Amina Binti Rahman, Lila Martinez, Sofia Perez, Mia Lim, Kamran Hussain",4.1,0.2,0.8,5,0.0203,0.64,0.1685
+G-72,50,4.1,Group 1,5,"Max Lim, Zehra Noor, Sebastian Wright, Vani Rani, Mei Wong",4.06,0.4,0.6,5,0.0103,0.96,0.0985
+G-72,50,4.1,Group 2,5,"Takahiro Nakashima, Disha Iyer, Evan Yang, Belle Wang, Michael Jackson",4.1,0.6,0.4,5,0.0025,0.96,0.1046
+G-72,50,4.1,Group 3,5,"Rashid Malik, Gina Tan, Caleb Liu, Sakura Takahashi, Luke Howard",4.1,0.6,0.4,5,0.0037,0.96,0.1046
+G-72,50,4.1,Group 4,5,"Tristan Li, Tara Nair, Nathan Roberts, Zoe Li, Fatimah Binti",4.12,0.6,0.4,5,0.0049,0.96,0.1047
+G-72,50,4.1,Group 5,5,"Hoang Van Loc, Elena Petrovna, Siddharth Iyer, Callie Lin, Maria Stepanova",4.11,0.4,0.6,5,0.0108,0.96,0.1053
+G-72,50,4.1,Group 6,5,"Hafiz Rahman, Sara Malik, Kevin Wang, Sophie Tan, Preston Davis",4.12,0.6,0.4,5,0.0068,0.96,0.1129
+G-72,50,4.1,Group 7,5,"Nitin Sharma, Rida Noor, Erik Chen, Gideon Reed, Nari Yoshida",4.11,0.6,0.4,5,0.0058,0.96,0.1206
+G-72,50,4.1,Group 8,5,"Caleb Moreno, Jade Kwan, Jayden Bennett, Luke Price, Suki Tanaka",4.09,0.6,0.4,5,0.0045,0.96,0.1287
+G-72,50,4.1,Group 9,5,"Yusuf Bin Ahmad, Shahid Bin Ahmad, Priti Sharma, Nguyen Hoang Long, Ava Chua",4.07,0.6,0.4,5,0.0304,0.96,0.1214
+G-72,50,4.1,Group 10,5,"Ulya Handayani, Lian Chen, William Young, Aaron Wilson, Sophia Hernandez",4.14,0.6,0.4,5,0.0033,0.96,0.1458
+G-73,50,4.09,Group 1,5,"Lilah Diaz, Akira Nishida, Hannah Martinez, Kazuo Higashi, Celine Wong",4.05,0.4,0.6,5,0.0114,0.96,0.0844
+G-73,50,4.09,Group 2,5,"Uma Dela Cruz, Josh Thompson, Liang Zhang, Dylan Yang, Matthew Wilson",4.07,0.6,0.4,5,0.0104,0.96,0.0891
+G-73,50,4.09,Group 3,5,"Guangqiang, Ryan Lim, Tran Van Thanh, Leo Li, Tiantian Liu",4.1,0.4,0.6,5,0.0103,0.96,0.0906
+G-73,50,4.09,Group 4,5,"Stella Peterson, Henry Li, Hao Chen, Aaliyah Flores, Nguyen Van Son",4.12,0.6,0.4,5,0.0122,0.96,0.0821
+G-73,50,4.09,Group 5,5,"Claudia Dela Cruz, Vira Andini, Zylen Alvarado, Levi Morgan, Megan Lewis",4.08,0.4,0.6,5,0.013,0.96,0.0745
+G-73,50,4.09,Group 6,5,"Ty Wu, Rida Shah, Faisal Rehman, Lina Lim, Aditi Mehta",4.13,0.4,0.6,5,0.0023,0.96,0.0847
+G-73,50,4.09,Group 7,5,"Zhen Wei, Hannah Sanchez, Maya Thompson, Nadia Ismail, Marc Cheung",4.09,0.4,0.6,5,0.0016,0.96,0.0984
+G-73,50,4.09,Group 8,5,"Trey Liu, Lucy Simmons, Hui Zhang, Angela Yip, Rahul Desai",4.09,0.4,0.6,5,0.0019,0.96,0.1064
+G-73,50,4.09,Group 9,5,"Nguyen Van Hao, Kiran Noor, Xiang Yu, Addie Lin, Wyatt Adams",4.09,0.4,0.6,5,0.0023,0.96,0.1224
+G-73,50,4.09,Group 10,5,"Saira Ali, Yuna Nakamura, Xia Chen, Nina Kwan, Shanaya Rao",4.06,0.0,1.0,5,0.0062,0.0,0.197
+G-74,50,4.08,Group 1,5,"Sanya Verma, Amira Noor, Ling Feng, Theo Ross, Saurabh Mehta",4.09,0.6,0.4,5,0.0051,0.96,0.094
+G-74,50,4.08,Group 2,5,"Victoria Adams, Tingwei, Luca Murphy, Dika Saputra, Aidan Tan",4.09,0.6,0.4,5,0.0188,0.96,0.094
+G-74,50,4.08,Group 3,5,"Saki Nishimura, Lina Binti Ismail, Quinn Yang, Nikita Alexeyev, Jace Rivera",4.08,0.6,0.4,5,0.0172,0.96,0.102
+G-74,50,4.08,Group 4,5,"Natalie Rivera, Layla Zhang, Mason Reyes, Jaxon Lee, Emmy Wang",4.1,0.4,0.6,5,0.0028,0.96,0.1153
+G-74,50,4.08,Group 5,5,"Elaine Dela Cruz, Meena Devi, Aarav Bajaj, Dylan Wong, Victor Lim",4.06,0.6,0.4,5,0.0104,0.96,0.1104
+G-74,50,4.08,Group 6,5,"Mithun Nair, Amelia Wang, Huda Binti Ali, Elijah Liu, Jiayi",4.07,0.4,0.6,5,0.023,0.96,0.1152
+G-74,50,4.08,Group 7,5,"Fatma Binti Ali, Eva Lestari, Naim Bin Rahim, Kaden Reed, Jasper King",4.1,0.6,0.4,5,0.0092,0.96,0.1181
+G-74,50,4.08,Group 8,5,"Xara Alvarado, Sanjana Iyer, Nash Wong, Cindy Lestari, Ellis Zhao",4.1,0.4,0.6,5,0.0014,0.96,0.1234
+G-74,50,4.08,Group 9,5,"Aditi Nair, Sophie Bennett, Daniel Koh, Ariana Coleman, Zachary Allen",4.08,0.4,0.6,5,0.0045,0.96,0.1391
+G-74,50,4.08,Group 10,5,"Chloe Brown, Laila Binti Ismail, Shuqi, Calla Chen, Ethan Thomas",4.05,0.2,0.8,5,0.0067,0.64,0.1655
+G-75,50,4.08,Group 1,5,"Mi-Sook Choi, Oliver Thomas, Anika Iyer, Sanjay Nair, Ahmad Bin Azhar",4.07,0.6,0.4,5,0.001,0.96,0.1
+G-75,50,4.08,Group 2,5,"Olivia Garcia, Felix Tan, Santi Kusuma, Bingli, Victor Reyes",4.09,0.6,0.4,5,0.0254,0.96,0.0999
+G-75,50,4.08,Group 3,5,"Liam Chen, Kavita Sharma, Salma Khan, William Lim, Kiran Rao",4.08,0.6,0.4,5,0.0043,0.96,0.1079
+G-75,50,4.08,Group 4,5,"Shan Biao, Ritika Sethi, Ava Nguyen, Mikhail Ivanov, Yuri Mikhailov",4.09,0.6,0.4,5,0.0071,0.96,0.1239
+G-75,50,4.08,Group 5,5,"David Simmons, Sunita Iyer, Chen Hui, Jian Li, Nitin Singhal",4.09,0.6,0.4,5,0.0074,0.96,0.1319
+G-75,50,4.08,Group 6,5,"Kavya Sharma, Anil Reddy, Ying Xu, Xanthe Scott, Leo Zhang",4.07,0.4,0.6,5,0.0022,0.96,0.1262
+G-75,50,4.08,Group 7,5,"Arvind Kumar, Asher Phillips, Kiran Chawla, Jasmine Binti Lee, Mateo Huang",4.09,0.6,0.4,5,0.0141,0.96,0.1239
+G-75,50,4.08,Group 8,5,"Tianyi, Mohammed Patel, Ruchi Gupta, Anika Reddy, Yasir Malik",4.06,0.4,0.6,5,0.0153,0.96,0.1344
+G-75,50,4.08,Group 9,5,"Laila Rahman, Wyatt Yang, Sneha Reddy, Pooja Sharma, Samantha Sun",4.13,0.2,0.8,5,0.049,0.64,0.1579
+G-75,50,4.08,Group 10,5,"Tessa Alonzo, Ava Rivera, Ivy Ong, Ava Green, Rumana Niazi",4.08,0.0,1.0,5,0.0489,0.0,0.193
+G-76,50,4.1,Group 1,5,"Yara Ong, Anup Kumar, Andrew Li, Adeel Qureshi, Fang Ying",4.09,0.4,0.6,5,0.0128,0.96,0.079
+G-76,50,4.1,Group 2,5,"Ananya Joshi, Ming Zhou, Kong Wei Tan, Riya Sharma, Aanya Kapoor",4.1,0.4,0.6,5,0.015,0.96,0.079
+G-76,50,4.1,Group 3,5,"Gloria Sanders, Ryota Yamada, Bella Lee, Ian Lee, Amara Kim",4.09,0.4,0.6,5,0.0029,0.96,0.095
+G-76,50,4.1,Group 4,5,"Penny Tan, Nicholas Griffin, Elaine Wang, Tariq Ahmed, Nina Anggraini",4.1,0.4,0.6,5,0.0055,0.96,0.095
+G-76,50,4.1,Group 5,5,"Kylie Tan, Alexander Clark, Yang Jun Lim, Meena Bhatia, Tania Sinha",4.08,0.4,0.6,5,0.0074,0.96,0.1033
+G-76,50,4.1,Group 6,5,"Camila Lee, Katherine Goh, James Taylor, Kian Zhang, Elijah Harris",4.08,0.6,0.4,5,0.0177,0.96,0.0879
+G-76,50,4.1,Group 7,5,"Kiran Bhatia, Naina Sharma, Shiv Patel, Sajida Noor, Brittany Wong",4.12,0.4,0.6,5,0.0021,0.96,0.1033
+G-76,50,4.1,Group 8,5,"Henry Martin, Danielle Dela Cruz, Andrew Lewis, Aubrey Lin, Julian Bautista",4.09,0.6,0.4,5,0.0068,0.96,0.1117
+G-76,50,4.1,Group 9,5,"Brian Yang, Samantha Teo, Mikhail Petrov, Shreya Sharma, Ying Xuan Tan",4.15,0.4,0.6,5,0.0069,0.96,0.1135
+G-76,50,4.1,Group 10,5,"Crystal Lim, Meera Joshi, Sienna Wong, Shahrir Bin Rahman, Bobby Hidayat",4.09,0.4,0.6,5,0.0019,0.96,0.1351
+G-77,50,4.09,Group 1,5,"Madison Zhang, Aisha binti Hassan, David Murphy, Karan Nair, Fatima Rahman",4.19,0.4,0.6,5,0.0295,0.96,0.0805
+G-77,50,4.09,Group 2,5,"Holly Tan, Chloe Wong, Victor Reyes, Rahul Kumar, Emily Ng",4.1,0.4,0.6,5,0.0121,0.96,0.0856
+G-77,50,4.09,Group 3,5,"Riley Edwards, Riley Dela Cruz, John Brown, Jett Yang, Ren Tanaka",4.09,0.6,0.4,5,0.0032,0.96,0.1
+G-77,50,4.09,Group 4,5,"Lily Foster, Larasati Wulandari, Anderson Wu, Poppy Green, Aarav Desai",4.13,0.4,0.6,5,0.0211,0.96,0.0861
+G-77,50,4.09,Group 5,5,"Chloe Rivera, Leena Joshi, Ferdie Navarro, Kezhen, Christopher Li",4.09,0.4,0.6,5,0.0155,0.96,0.1096
+G-77,50,4.09,Group 6,5,"Lily Johnson, Gideon Hall, Kiran Nair, Ema Binti Rahman, James Griffin",4.13,0.6,0.4,5,0.0145,0.96,0.1084
+G-77,50,4.09,Group 7,5,"Sofia Green, Roy Tan, Zoe Mitchell, Tanya Ali, Eli Walker",4.09,0.4,0.6,5,0.0109,0.96,0.1256
+G-77,50,4.09,Group 8,5,"Nusrat Ali, Nadia Binti Fadli, Nolan Perez, Sreya Rao, Tanner Wu",4.05,0.4,0.6,5,0.0039,0.96,0.1262
+G-77,50,4.09,Group 9,5,"Hina Iqbal, Nadia Binti Mohd, Toni Saputra, Alyssa Cox, Huilin",3.97,0.4,0.6,5,0.0142,0.96,0.1301
+G-77,50,4.09,Group 10,5,"Tsubasa Takahashi, Priyanka Kaur, Jinlong, Jasmine Lin, Soo-Yeon Jang",4.08,0.0,1.0,5,0.0073,0.0,0.2072
+G-78,50,4.07,Group 1,5,"Kiran Patil, Aihua Zhuang, Sun Li, Nurul binti Zainal, Riya Reddy",4.06,0.4,0.6,5,0.0208,0.96,0.083
+G-78,50,4.07,Group 2,5,"Zoya Tsai, Nathan Tan, Diana Li, Aldo Setiawan, Khalid Rahman",4.05,0.6,0.4,5,0.0086,0.96,0.0917
+G-78,50,4.07,Group 3,5,"Navya Arya, Min Yi Tan, Patricia Lee, Vikram Nair, Diana Malik",4.06,0.4,0.6,5,0.0068,0.96,0.115
+G-78,50,4.07,Group 4,5,"Isabella Lim, Wanda Cruz, Alaric Yang, Nguyen Van Hieu, Raghav Singh",4.03,0.6,0.4,5,0.0177,0.96,0.1006
+G-78,50,4.07,Group 5,5,"Rita Narayan, Oliver Morales, Kylie Torres, Rafael Tan, Agung Prabowo",4.09,0.6,0.4,5,0.0071,0.96,0.1079
+G-78,50,4.07,Group 6,5,"Nami Fujimoto, Elisha Wu, Fauziah Binti Ahmad, Noah Huang, Daniel Edwards",4.07,0.6,0.4,5,0.0098,0.96,0.1156
+G-78,50,4.07,Group 7,5,"Zara Amalia, Feng Yi Tan, Jun Huang, Sienna Edwards, Josh Tan",4.06,0.4,0.6,5,0.0026,0.96,0.131
+G-78,50,4.07,Group 8,5,"Zachary Patel, Nina Chen, Lina Devi, Samantha Cox, Teng Wei Lim",4.09,0.4,0.6,5,0.0089,0.96,0.1232
+G-78,50,4.07,Group 9,5,"Sophia Garcia, Alya Rahman, Adalyn Tan, Isabella Walker, Kunal Bhatia",4.11,0.2,0.8,5,0.0285,0.64,0.1523
+G-78,50,4.07,Group 10,5,"Queenie Pineda, Jasmine Hapsari, Alice Tan, Scarlett Hall, Jaxon Jenkins",4.05,0.2,0.8,5,0.0147,0.64,0.1593
+G-79,50,4.1,Group 1,5,"Sadia Malik, Zhao Qiang, Perry Villanueva, Zara Wong, Khushboo Malik",4.08,0.4,0.6,5,0.011,0.96,0.1042
+G-79,50,4.1,Group 2,5,"Hui Liu, Nadia Binti Ismail, Paul Tan, Nashit Khan, Landon Reed",4.15,0.6,0.4,5,0.0097,0.96,0.107
+G-79,50,4.1,Group 3,5,"Sakshi Joshi, Bella Wong, Tyler Moore, Ashton Clark, Hui Min Tan",4.11,0.4,0.6,5,0.0062,0.96,0.1039
+G-79,50,4.1,Group 4,5,"Rongwei, Xena Santiago, Nora Howard, Jin Zhi, Anika Varma",4.13,0.4,0.6,5,0.0032,0.96,0.1204
+G-79,50,4.1,Group 5,5,"Elijah Reed, Diana Binti Zain, Vina Safira, Omer Farooq, Eun-Ji Lee",4.1,0.4,0.6,5,0.0043,0.96,0.1278
+G-79,50,4.1,Group 6,5,"Qing Wei Lim, Valentina Zhao, Eva Clark, Gavin Wu, Hao Wu",4.1,0.6,0.4,5,0.0056,0.96,0.1364
+G-79,50,4.1,Group 7,5,"Nova Gonzalez, Chaofeng, Haruto Fujimoto, Miyako Shimizu, Logan Thompson",4.12,0.4,0.6,5,0.0025,0.96,0.1363
+G-79,50,4.1,Group 8,5,"Nina Lee, Hani Binti Noor, Isaac Brooks, Shruti Verma, Rizan Bin Ahmad",4.13,0.4,0.6,5,0.0029,0.96,0.1366
+G-79,50,4.1,Group 9,5,"Arvind Sharma, Siti Zulaikha, Wang Yu, Nari Kim, Bilal Hussain",4.03,0.4,0.6,5,0.0153,0.96,0.1324
+G-79,50,4.1,Group 10,5,"Amira Wong, Olive Green, Kartik Sharma, Xing Yu, Nhat Nguyen",4.05,0.4,0.6,5,0.0112,0.96,0.1385
+G-8,50,4.09,Group 1,5,"Poppy Cahyani, Joshua White, Michael Zhang, Ayla Wong, Anushka Verma",4.12,0.4,0.6,5,0.0049,0.96,0.0753
+G-8,50,4.09,Group 2,5,"Neha Iyer, Harry Ho, Seung-Jin Han, Mia Morgan, Liam Hill",4.08,0.6,0.4,5,0.0046,0.96,0.0757
+G-8,50,4.09,Group 3,5,"Kira Tanaka, Liu Hong, Mason Hughes, Aria Singh, Michael Young",4.05,0.6,0.4,5,0.0139,0.96,0.0764
+G-8,50,4.09,Group 4,5,"Sofia Chen, Landon Lim, Lara Cruz, Cheng Li, Souta Watanabe",4.09,0.6,0.4,5,0.0034,0.96,0.0916
+G-8,50,4.09,Group 5,5,"Fatima Tan, Rafiq Bin Zain, Suki Wang, Nathan Adams, Dara Cheng",4.08,0.4,0.6,5,0.0152,0.96,0.099
+G-8,50,4.09,Group 6,5,"Avery Li, Jade Chang, Jacob Robinson, Aminah Binte, Amara Belle",4.13,0.4,0.6,5,0.0387,0.96,0.0755
+G-8,50,4.09,Group 7,5,"Thao Le, Yuki Takeda, Zara Rahman, Zane Carter, Alena Chang",4.07,0.4,0.6,5,0.0071,0.96,0.0992
+G-8,50,4.09,Group 8,5,"Aidan Foster, Mila Reed, Jane Smith, Dominic Li, Wendy Au",4.06,0.4,0.6,5,0.0089,0.96,0.1153
+G-8,50,4.09,Group 9,5,"Dmitry Petrov, Wei Chen, Mei Wang, Laila Ali, Levi Parker",4.1,0.4,0.6,5,0.0019,0.96,0.123
+G-8,50,4.09,Group 10,5,"Cindy Wong, Tian Wei, Angela Tan, Kiran Rane, Kyle Wang",4.14,0.2,0.8,5,0.0044,0.64,0.16
+G-80,50,4.1,Group 1,5,"Jack Green, Hana Ng, Aaron Thompson, Mollie Edwards, Cameron Zhao",4.09,0.6,0.4,5,0.0065,0.96,0.1006
+G-80,50,4.1,Group 2,5,"Michael Walker, Nida Khan, Huang Xin, Yareli Cruz, John Doe",4.11,0.6,0.4,5,0.0125,0.96,0.1006
+G-80,50,4.1,Group 3,5,"Indra Prasetyo, Layla Wu, Jing Yi Tan, Ron Tan, Killian James",4.12,0.6,0.4,5,0.0247,0.96,0.0927
+G-80,50,4.1,Group 4,5,"Caleb Butler, Maria Garcia, Keshav Yadav, Nora Bailey, Zahra Ali",4.05,0.4,0.6,5,0.0123,0.96,0.1021
+G-80,50,4.1,Group 5,5,"Mahesh Babu, Igor Petrov, Lucas Kim, Zoe Wong, Nguyen Thi Ai",4.11,0.6,0.4,5,0.0509,0.96,0.1006
+G-80,50,4.1,Group 6,5,"Nathan Tan, Baodong, Arjun Deshmukh, Priya Kaul, Orla James",4.08,0.4,0.6,5,0.0019,0.96,0.1173
+G-80,50,4.1,Group 7,5,"Arjun Verma, Lu Jian, Hassan Ibrahim, Lan Shi, Jacob Parker",4.09,0.6,0.4,5,0.0064,0.96,0.1246
+G-80,50,4.1,Group 8,5,"Hana Matsumura, Ravi Deshmukh, Hao Wei Tan, Nisha Desai, Harold Lee",4.1,0.6,0.4,5,0.0118,0.96,0.1166
+G-80,50,4.1,Group 9,5,"Marwan Bin Ali, Feri andika, Kiran Sethi, Siti Aishah, Ruth Tan",4.09,0.6,0.4,5,0.012,0.96,0.1246
+G-80,50,4.1,Group 10,5,"Kira Lee, Killian Wu, Quinlan Roberts, Adil Bin Rahman, Sophia Baker",4.18,0.6,0.4,5,0.0095,0.96,0.1271
+G-81,50,4.1,Group 1,5,"Tatiana Sergeyevna, Grace Wu, Qian Yu Tan, Wayne Tan, Khushboo Khan",4.1,0.4,0.6,5,0.0014,0.96,0.0945
+G-81,50,4.1,Group 2,5,"Holly Hughes, Irina Dmitrieva, Gavin Tan, Emery Collins, Aria Perez",4.09,0.4,0.6,5,0.0057,0.96,0.0946
+G-81,50,4.1,Group 3,5,"Alvin Yeo, Lola Bennett, Piper Yip, Dylan Wang, Emma Wong",4.12,0.4,0.6,5,0.0059,0.96,0.0948
+G-81,50,4.1,Group 4,5,"Yi Ming Lim, Samira Ali, Sophia Martinez, Marcus Green, Tao Feng",4.09,0.6,0.4,5,0.0039,0.96,0.0981
+G-81,50,4.1,Group 5,5,"Santiago Huang, Fiona Tan, Avery Robinson, Sandeep Reddy, Lucy Watson",4.08,0.4,0.6,5,0.0176,0.96,0.1028
+G-81,50,4.1,Group 6,5,"Eryan, Ying Wu, Farah Lim, Sanjay Gupta, Kiran Desai",4.09,0.4,0.6,5,0.0079,0.96,0.1026
+G-81,50,4.1,Group 7,5,"Jasper Li, Bushra Khan, Ada Zhang, Sophie Hughes, Ming Yue",4.18,0.4,0.6,5,0.0336,0.96,0.0968
+G-81,50,4.1,Group 8,5,"Kyo Tan, Neelima Das, Lina Cheong, Zainal Abidin, Jack Morgan",4.05,0.6,0.4,5,0.014,0.96,0.115
+G-81,50,4.1,Group 9,5,"Samantha Chan, Rory Chen, Arjun Patel, Mira Patel, Max Carter",4.06,0.4,0.6,5,0.0068,0.96,0.1432
+G-81,50,4.1,Group 10,5,"Zara Wu, Isha Begum, Nina Lim, Fiona Huang, Zhou Yu",4.14,0.2,0.8,5,0.0074,0.64,0.1605
+G-82,50,4.07,Group 1,5,"Mohd Rizal Bin Hassan, Mason Kim, Tanisha Nair, Violet Yip, Liam Smith",4.06,0.6,0.4,5,0.0063,0.96,0.0858
+G-82,50,4.07,Group 2,5,"Lucas Young, Jay Wu, Lakshmi Rao, Le Thi Nhung, Rizwan Bin Ahmad",4.08,0.6,0.4,5,0.0026,0.96,0.1018
+G-82,50,4.07,Group 3,5,"Mohan Nair, Vincent Ng, Simone Lim, Amara Tan, Harrison Lee",4.04,0.6,0.4,5,0.0111,0.96,0.1022
+G-82,50,4.07,Group 4,5,"Owais Tariq, Jasbir Singh, Wren Zhao, Isaac Ward, Aubrey Bell",4.07,0.6,0.4,5,0.0109,0.96,0.0937
+G-82,50,4.07,Group 5,5,"Zhao Wei, Ping Wang, Ella Kwan, Asher Kim, Aaliyah Rodriguez",4.06,0.6,0.4,5,0.0128,0.96,0.1018
+G-82,50,4.07,Group 6,5,"Annika Chang, Toni Saputra, Henry Tan, Nguyen Van Phong, Sabrina Binti Mohd",4.08,0.6,0.4,5,0.0129,0.96,0.1098
+G-82,50,4.07,Group 7,5,"Sarah Miller, Chinh Nguyen, Henry Baker, Eli Wu, Alya Faris",4.14,0.6,0.4,5,0.0308,0.96,0.1116
+G-82,50,4.07,Group 8,5,"Ava Johnson, Ronin Smith, Haoqiang, Suresh Yadav, Lara Chen",4.09,0.4,0.6,5,0.0335,0.96,0.1134
+G-82,50,4.07,Group 9,5,"Dimas Santoso, Samir Khan, Gemma Rivera, Nash De Leon, Hana Kuroda",4.08,0.6,0.4,4,0.0037,0.96,0.2058
+G-82,50,4.07,Group 10,5,"Julian Sanders, Gabriel Ramirez, Sadia Ali, Kyo Tan, Yuki Nishiyama",4.02,0.6,0.4,5,0.0121,0.96,0.135
+G-83,50,4.1,Group 1,5,"Ahmad Zaki Bin Rahman, Aminah Ali, Saul Huang, Amani Binti Hisham, Nian Zhang",4.08,0.4,0.6,5,0.016,0.96,0.0721
+G-83,50,4.1,Group 2,5,"Nash Reddy, Guangli, Elliot Lim, Stella Zhao, Kah Ying",4.1,0.6,0.4,5,0.0055,0.96,0.0816
+G-83,50,4.1,Group 3,5,"Grayson Li, Nora Abdul, David Wu, Lisa Lim, Syafiq Bin Mohd",4.1,0.6,0.4,5,0.0046,0.96,0.0896
+G-83,50,4.1,Group 4,5,"An Nguyen, Daniel Chen, Ritika Patil, Cecilia Morales, Gavin Flores",4.12,0.6,0.4,5,0.0119,0.96,0.0821
+G-83,50,4.1,Group 5,5,"Fahad Nadeem, Dorian Villanueva, Elena Murphy, Evan Parker, Elisa Rivera",4.05,0.6,0.4,5,0.0095,0.96,0.0838
+G-83,50,4.1,Group 6,5,"Vincent Lam, Xander Mendoza, Anjali Iyer, James White, Kali Chen",4.12,0.6,0.4,5,0.0085,0.96,0.0902
+G-83,50,4.1,Group 7,5,"Farhan Hussain, Kelvin Tan, Ravi Patel, Leo White, Priya Tan",4.13,0.6,0.4,5,0.0023,0.96,0.1067
+G-83,50,4.1,Group 8,5,"Tu Nguyen, Colton Harris, Kou Suzuki, Guangqiang, Svetlana Alexandrova",4.13,0.6,0.4,5,0.0016,0.96,0.1227
+G-83,50,4.1,Group 9,5,"Isha Alvarado, Anthony Parker, Nash Wu, Shamsher Ali, Efei",4.09,0.8,0.2,5,0.0145,0.64,0.128
+G-83,50,4.1,Group 10,5,"Anita Gupta, Finn Pineda, Shruti Nair, Mateo Yang, Haruto Yamamoto",4.05,0.6,0.4,5,0.0037,0.96,0.1244
+G-84,50,4.11,Group 1,5,"Zhang Ying, Faris Abdul, Xue Mei, Bobby Chua, Imran Khan",4.06,0.6,0.4,5,0.0199,0.96,0.0839
+G-84,50,4.11,Group 2,5,"Evelyn Tan, Oka Susilo, Li Mei, Kaito Takahashi, Pranav Nair",4.11,0.6,0.4,5,0.0085,0.96,0.0984
+G-84,50,4.11,Group 3,5,"Tara Devi, Aarav Sharma, Mei Hong Tan, Leo Chen, Kaito Takahashi",4.13,0.6,0.4,5,0.0061,0.96,0.1067
+G-84,50,4.11,Group 4,5,"Binghua, William Taylor, Sadie Wang, Charlotte Chen, Rajiv Nair",4.03,0.4,0.6,5,0.0164,0.96,0.0887
+G-84,50,4.11,Group 5,5,"Mira Ong, Hiroki Matsusaka, Brooke Tan, Liam Sharma, Zhen Yi Tan",4.1,0.4,0.6,5,0.0181,0.96,0.108
+G-84,50,4.11,Group 6,5,"Kavya Menon, Isabella Moore, Samantha Gray, Siti Nurhaliza, Vignesh Nair",4.13,0.2,0.8,5,0.0064,0.64,0.1306
+G-84,50,4.11,Group 7,5,"Bodhi Edwards, Sabrina Binti Ghazali, Aaliyah Lin, Hannah Chen, Silas Wong",4.13,0.4,0.6,5,0.0112,0.96,0.1243
+G-84,50,4.11,Group 8,5,"Simon Zhao, Zoe Bailey, Nana Ohashi, Aubree Kelly, Ajay Singh",4.14,0.4,0.6,5,0.0049,0.96,0.1326
+G-84,50,4.11,Group 9,5,"Gabriel Adams, Serena Tan, Elena Chang, Ning Hui, Celeste Bautista",4.12,0.2,0.8,5,0.0184,0.64,0.1465
+G-84,50,4.11,Group 10,5,"Rani Devi, Owen Ramirez, Diana Binti Jasmi, Kiran Menon, Yukiko Takahashi",4.14,0.2,0.8,5,0.0027,0.64,0.1553
+G-85,50,4.13,Group 1,5,"Isabella Robinson, Shikha Gupta, Ethan Zhou, Isaiah Foster, Ryan Taylor",4.12,0.6,0.4,5,0.0025,0.96,0.0888
+G-85,50,4.13,Group 2,5,"Kavita Rao, Megan Yang, Cody Evans, Samuel Zhao, Arjun Tan",4.13,0.6,0.4,5,0.0048,0.96,0.0888
+G-85,50,4.13,Group 3,5,"Simran Jain, Ngoc Nguyen, Sameer Kapoor, Owais Hussain, Kavita Mehta",4.12,0.4,0.6,5,0.0064,0.96,0.0904
+G-85,50,4.13,Group 4,5,"Belle Chen, Lillian Rivera, Kira Chen, Khalid Amir, Kaito Saito",4.15,0.4,0.6,5,0.0425,0.96,0.0666
+G-85,50,4.13,Group 5,5,"Sahar Jamil, Sophie Zhang, Rani Patel, Gabriel Morris, Hoang Minh Hieu",4.11,0.4,0.6,5,0.0087,0.96,0.0986
+G-85,50,4.13,Group 6,5,"Pooja Singh, Scarlett Mitchell, Selena Liu, Lucas Mitchell, Tao Chen",4.15,0.4,0.6,5,0.036,0.96,0.1066
+G-85,50,4.13,Group 7,5,"Hiroshi Sato, Kavita Joshi, Elena Liu, Luka Liu, Scarlett Hernandez",4.13,0.4,0.6,5,0.0087,0.96,0.1144
+G-85,50,4.13,Group 8,5,"Tuan Nguyen, Kavya Reddy, Shirley Ong, Emma Bryant, Chris Tan",4.13,0.4,0.6,5,0.0063,0.96,0.1224
+G-85,50,4.13,Group 9,5,"Imran Ashraf, Sharon Lim, Lily Ho, Zara Patel, Jin Tao",4.11,0.4,0.6,5,0.0077,0.96,0.1225
+G-85,50,4.13,Group 10,5,"Sofia Zhang, Maliha Khan, Yoko Nagano, Lily Moore, Lily Mitchell",4.13,0.0,1.0,5,0.0022,0.0,0.204
+G-86,50,4.11,Group 1,5,"Alya Binti, Alex Chan, Joyce Lim, Justin Tan, Desmond Chen",4.19,0.6,0.4,5,0.0283,0.96,0.0774
+G-86,50,4.11,Group 2,5,"Isla Li, Asher Brooks, Jin Tan, Mohsin Ali, Lina Binti Salleh",4.05,0.4,0.6,5,0.0117,0.96,0.0788
+G-86,50,4.11,Group 3,5,"Kylie Wang, Usman Ali, Jacob Davis, Jessica Chen, Jae-Won Oh",4.12,0.6,0.4,5,0.0044,0.96,0.0831
+G-86,50,4.11,Group 4,5,"Jasmin Ali, Nolan Reed, Keng Jie Tan, Hannah Cook, Jian Chen",4.12,0.6,0.4,5,0.0025,0.96,0.0831
+G-86,50,4.11,Group 5,5,"Sabrina Lim, Ahsan Iqbal, Philip Harris, Priya Joshi, Zulfiqar Bin Rahman",4.14,0.6,0.4,5,0.0118,0.96,0.0834
+G-86,50,4.11,Group 6,5,"Delilah Tsai, Ali Hasan, Mila Chen, Sergey Fedorov, Zane Wu",4.18,0.6,0.4,5,0.035,0.96,0.0928
+G-86,50,4.11,Group 7,5,"Sophie Ross, Sophie Wong, Lina Cheng, Catherine Wong, Dapeng",4.04,0.2,0.8,5,0.0145,0.64,0.1184
+G-86,50,4.11,Group 8,5,"David Stewart, Faye Ng, Rita Wong, Brenda Tan, Caleb Liu",4.1,0.4,0.6,5,0.0065,0.96,0.1014
+G-86,50,4.11,Group 9,5,"Nashit Ali, Diana Lee, Vaishali Singh, Bess Parker, Siti Fatimah",4.12,0.2,0.8,5,0.003,0.64,0.1244
+G-86,50,4.11,Group 10,5,"Kota Suzuki, Chad Tan, Lydia Carter, Samantha Hughes, Dahlia Freeman",4.06,0.4,0.6,4,0.0036,0.96,0.1742
+G-87,50,4.12,Group 1,5,"Chloe Adams, Hannah Park, Owais Iqbal, Noah Qian, Ravi Mehta",4.21,0.6,0.4,5,0.0339,0.96,0.0739
+G-87,50,4.12,Group 2,5,"Serena Lim, Olivia Scott, Santiago Garcia, Yang Jun Lim, Victoria Flores",4.09,0.4,0.6,5,0.0032,0.96,0.1055
+G-87,50,4.12,Group 3,5,"Aria White, Violet Lau, Gaurav Mehta, Hao Yang, Logan Lewis",4.12,0.6,0.4,5,0.0264,0.96,0.0871
+G-87,50,4.12,Group 4,5,"Ryder Harris, Lia Nguyen, Elsie Zhao, Jae-Min Lim, Yifan Zhao",4.13,0.6,0.4,5,0.0089,0.96,0.1111
+G-87,50,4.12,Group 5,5,"Benedict Cruz, Alyssa Liu, Lydia Diaz, Ruiying, Suresh Pillai",4.14,0.4,0.6,5,0.0074,0.96,0.1054
+G-87,50,4.12,Group 6,5,"Kunal Yadav, Meera Tan, Miko Setiawan, Ella Lewis, Charlie Li",4.12,0.6,0.4,5,0.0054,0.96,0.1111
+G-87,50,4.12,Group 7,5,"Zayne Jackson, Mika Kobayashi, Emmett Carter, Hana Suzuki, Zhong Li",4.07,0.6,0.4,5,0.0055,0.96,0.112
+G-87,50,4.12,Group 8,5,"Alia Kapoor, Kanika Iyer, Liam Zhao, Ava Tan, Cheng Yi",4.15,0.4,0.6,5,0.0405,0.96,0.1137
+G-87,50,4.12,Group 9,5,"Soo-Young Park, Tina Lee, Nguyen Minh Hoang, Nadia Lim, Logan Kim",4.1,0.4,0.6,4,0.0036,0.96,0.2095
+G-87,50,4.12,Group 10,5,"Kajal Desai, Naila Rani, Zarina Malik, Saman Bukhari, Huma Iqbal",4.06,0.0,1.0,5,0.0033,0.0,0.2132
+G-88,50,4.09,Group 1,5,"Landon Zhao, Sophie Lim, Anjali Bansal, Jaxon Ward, Qingyu",4.09,0.4,0.6,5,0.0102,0.96,0.0807
+G-88,50,4.09,Group 2,5,"Beckett Liu, Vera Ong, Derek Xu, Nina Binti Ismail, Leonardo Santos",4.07,0.6,0.4,5,0.0044,0.96,0.0911
+G-88,50,4.09,Group 3,5,"Daphne Tsai, Yong Wei, Mason Clark, Sanya Bansal, Katrina Ong",4.13,0.4,0.6,5,0.0089,0.96,0.0985
+G-88,50,4.09,Group 4,5,"Riya Suresh, Musa Khan, Pablo Mendoza, Liangyu, Fei Wang",4.07,0.6,0.4,5,0.0054,0.96,0.0991
+G-88,50,4.09,Group 5,5,"Naoko Nishiyama, Pengfei, Usman Tariq, Eleanor Hayes, Brayden Cooper",4.09,0.6,0.4,5,0.0062,0.96,0.1149
+G-88,50,4.09,Group 6,5,"Petrus Santoso, Jade Bell, Ameen Malik, Asher King, Aiko Suzuki",4.09,0.6,0.4,5,0.0158,0.96,0.1149
+G-88,50,4.09,Group 7,5,"Yuki Suzuki, Kavya Nair, Elliot Bautista, Siddharth Rao, Aiden Huang",4.08,0.6,0.4,5,0.0089,0.96,0.1069
+G-88,50,4.09,Group 8,5,"Rashid Khan, Averie Lin, Yuki Sato, Wei Jie Yeo, Zhao Ming",4.08,0.6,0.4,5,0.0119,0.96,0.107
+G-88,50,4.09,Group 9,5,"Sergei Moroz, Pengfei, Megan Ortiz, Gaurav Nair, Rehan Tariq",4.06,0.6,0.4,5,0.0107,0.96,0.1157
+G-88,50,4.09,Group 10,5,"Oliver Davis, Layla Moore, Xena Alvarado, Dante Lee, Gita Kristina",4.1,0.4,0.6,5,0.0049,0.96,0.1288
+G-89,50,4.06,Group 1,5,"Cameron Torres, Ling Chen, Yvette Clarke, Harry Chua, Ananya Iyer",4.06,0.4,0.6,5,0.0253,0.96,0.106
+G-89,50,4.06,Group 2,5,"Alexandra Orlova, Xiang Chen, Zahra Sari, Zachary Zhang, Quinlan Alonzo",4.06,0.6,0.4,5,0.0089,0.96,0.106
+G-89,50,4.06,Group 3,5,"Fengjie, Kieran Lewis, Nadia Bukhari, Huanyu, Fiona Parker",4.07,0.4,0.6,5,0.0157,0.96,0.114
+G-89,50,4.06,Group 4,5,"Sienna Lin, David Lewis, Ajay Kumar, Yasmin Yip, Taeyang Kim",4.06,0.6,0.4,5,0.0104,0.96,0.106
+G-89,50,4.06,Group 5,5,"Felix Lim, Chloe Hall, Landon Wood, Amira Yusof, Shen Ming",4.04,0.6,0.4,5,0.0108,0.96,0.1063
+G-89,50,4.06,Group 6,5,"Yani Lestari, Dong-Hoon Park, Quincy Alvarado, Ella White, Peter Harris",4.06,0.6,0.4,5,0.0174,0.96,0.114
+G-89,50,4.06,Group 7,5,"Isaac Lee, Carmen Torres, Belinda Ong, Leo Salazar, Sana Khan",4.1,0.4,0.6,5,0.0499,0.96,0.1064
+G-89,50,4.06,Group 8,5,"Kian Wei Lim, Aisha Binti Ahmad, Ahsan Waseem, Cynthia Ng, Puneet Kumar",4.02,0.6,0.4,5,0.0063,0.96,0.1306
+G-89,50,4.06,Group 9,5,"Felix Yang, Miki Nishimura, Hadley Chen, Seung Cho, Kiara Tan",4.06,0.4,0.6,5,0.0083,0.96,0.138
+G-89,50,4.06,Group 10,5,"Dante Tan, Nadia Lee, Victoria Bell, Liam Wu, Lily Evans",4.12,0.4,0.6,5,0.0121,0.96,0.147
+G-9,50,4.08,Group 1,5,"Anika Sharma, Lucas Ramirez, Katherine Sari, Faisal Noor, Soo-Jung Kim",4.09,0.4,0.6,5,0.0015,0.96,0.0712
+G-9,50,4.08,Group 2,5,"Felicia Cheung, Henry Clark, Adeline Ng, Arif Hussain, Tania Noor",4.09,0.4,0.6,5,0.0041,0.96,0.0712
+G-9,50,4.08,Group 3,5,"Hannah Li, Ravi Kumar, Farah Rahman, Naman Singh, Rafael Gonzalez",4.08,0.6,0.4,5,0.0038,0.96,0.074
+G-9,50,4.08,Group 4,5,"Lian Zhang, Aarav Kumar, Umar Faisal, Mimi Binti Rahman, Yuri Li",4.07,0.6,0.4,5,0.0044,0.96,0.082
+G-9,50,4.08,Group 5,5,"Aurora Chang, Riley Parker, Jin-Ho Park, Chandni Kapoor, Andre Green",4.07,0.6,0.4,5,0.0184,0.96,0.082
+G-9,50,4.08,Group 6,5,"Evangeline Rivera, Aayush Gupta, Violet Wang, Eli Brown, Nisha Patel",4.08,0.4,0.6,5,0.0061,0.96,0.0951
+G-9,50,4.08,Group 7,5,"Na Li, Amir Ali, Ying Wang, Rohan Nair, Fumiko Yamashita",4.08,0.4,0.6,5,0.0101,0.96,0.0951
+G-9,50,4.08,Group 8,5,"Lena Chen, Darren Lee, Nancy Tan, Peizhen, Liam Tan",4.07,0.4,0.6,5,0.0109,0.96,0.0951
+G-9,50,4.08,Group 9,5,"Sharon Goh, Kieran Kim, Bryan Villanueva, Lily Cheng, Tanvi Sinha",4.15,0.4,0.6,5,0.0356,0.96,0.0974
+G-9,50,4.08,Group 10,5,"Nicolas Xu, Quiana Villanueva, Kiran Mehta, Lillian Wu, Parker Li",4.01,0.6,0.4,5,0.0097,0.96,0.1084
+G-90,50,4.08,Group 1,5,"Alyssa Parker, Aditi Verma, Jaden Dela Cruz, Sandeep Kumar, Liam Davis",4.02,0.6,0.4,5,0.0168,0.96,0.0768
+G-90,50,4.08,Group 2,5,"Liang Chen, Mila Richardson, Yunfeng, Usman Malik, Nikhil Singhal",4.08,0.6,0.4,5,0.0077,0.96,0.0839
+G-90,50,4.08,Group 3,5,"Jiang Bo, Celia Wang, Dmitry Ivanovich, Zara Rivera, Oliver Cheng",4.07,0.6,0.4,5,0.0123,0.96,0.0759
+G-90,50,4.08,Group 4,5,"Samiullah Tariq, Chandra Dewi, Nathan Lim, Nadia Pineda, Sakura Yoshida",4.03,0.4,0.6,5,0.0125,0.96,0.0947
+G-90,50,4.08,Group 5,5,"Bennett Zhang, Samira Younis, Karthik Reddy, Meisha Mehta, Anthony Grant",4.07,0.6,0.4,5,0.0051,0.96,0.0839
+G-90,50,4.08,Group 6,5,"Oscar Ho, Hania Khan, Liam Brown, Sonia Lee, Vince Mendoza",4.08,0.6,0.4,5,0.0064,0.96,0.0999
+G-90,50,4.08,Group 7,5,"Dai Sato, Mei Li, Oliver Chen, Yuna Kim, Rajesh Mehta",4.07,0.6,0.4,5,0.016,0.96,0.0999
+G-90,50,4.08,Group 8,5,"Nathan Kim, Chloe King, Sofiya Khan, Gracie Mendoza, David Young",4.1,0.4,0.6,5,0.0087,0.96,0.1022
+G-90,50,4.08,Group 9,5,"Dingming, Lakshmi Nair, Chengwei, Jingyi Li, Neha Verma",4.16,0.2,0.8,5,0.0339,0.64,0.1354
+G-90,50,4.08,Group 10,5,"Lila Morgan, Romy Hughes, Maya Mehta, Rida Awan, Evelyn Clark",4.09,0.0,1.0,4,0.0033,0.0,0.289
+G-91,50,4.09,Group 1,5,"Uli Dwi, Raymond Lim, Zheng Li, Nina Wong, Parker Martin",4.08,0.6,0.4,5,0.0107,0.96,0.0767
+G-91,50,4.09,Group 2,5,"Alyssa Yeo, Ryan Peterson, Haris Malik, Yoko Taniguchi, Xavier Cox",4.06,0.6,0.4,5,0.0139,0.96,0.0772
+G-91,50,4.09,Group 3,5,"Exiang, Landon Liu, Ajay Thakur, Lyra Tsai, Nadia Aziz",4.08,0.4,0.6,5,0.0012,0.96,0.0876
+G-91,50,4.09,Group 4,5,"Mia Sun, Gunnar Yang, Zane Chen, Samia Khan, Clara Xu",4.08,0.4,0.6,5,0.0052,0.96,0.0876
+G-91,50,4.09,Group 5,5,"Sofia Lin, Gavin Tan, Aiyun Zhou, Ha Tran, Alya Binti Harun",4.13,0.4,0.6,5,0.0193,0.96,0.0893
+G-91,50,4.09,Group 6,5,"Zainab Binti Musa, Akash Choudhary, Hui Ling Ng, Fatima Ali, Huang Wei Lim",4.08,0.6,0.4,5,0.0156,0.96,0.1007
+G-91,50,4.09,Group 7,5,"Kira Sato, Xing Wei, Karthik Nair, Tallulah Tan, Samuel Lim",4.08,0.6,0.4,5,0.0017,0.96,0.1167
+G-91,50,4.09,Group 8,5,"Samantha Ng, Wei Ming, Kiran Nair, Elena Morales, Andrew Wong",4.1,0.6,0.4,5,0.0041,0.96,0.1168
+G-91,50,4.09,Group 9,5,"Lily Rogers, Tristan Zhang, Qiao Min, Michael Zhang, Aria Wang",4.1,0.4,0.6,5,0.0085,0.96,0.1117
+G-91,50,4.09,Group 10,5,"Vikram Rao, Charlotte Anderson, Xander Wang, Oliver Chen, Tanisha Malhotra",4.07,0.6,0.4,5,0.0204,0.96,0.1089
+G-92,50,4.1,Group 1,5,"Kevin Chang, Avery Reyes, Shalini Rao, Jett Green, Zane Tan",4.11,0.6,0.4,5,0.0138,0.96,0.0937
+G-92,50,4.1,Group 2,5,"Heng Wei, Abigail Lee, Nico Lim, Fathima Khan, Michael Brown",4.09,0.6,0.4,5,0.0173,0.96,0.0856
+G-92,50,4.1,Group 3,5,"Anum Iqbal, Ricky Tan, Hao Jun Lim, Lan Xiu, Aria Patel",4.12,0.4,0.6,5,0.0047,0.96,0.105
+G-92,50,4.1,Group 4,5,"Riley Green, Lucas Lee, Vincent Wong, Salina Binti Omar, Jasmine Zhao",4.08,0.4,0.6,5,0.0099,0.96,0.1049
+G-92,50,4.1,Group 5,5,"Erica Chen, Harris Rahman, Khanh Nguyen, Rania Noor, Sara Zhang",4.09,0.4,0.6,5,0.0103,0.96,0.1044
+G-92,50,4.1,Group 6,5,"Sarah Kelly, Ilya Semyonov, Tariq Khan, Husni Bin Mohd, Sasha Lim",4.11,0.6,0.4,5,0.0035,0.96,0.1015
+G-92,50,4.1,Group 7,5,"Ella Ramirez, Xander Yip, Quin Tsang, Kuzaimi Bin Rahman, Megan Tan",4.12,0.6,0.4,5,0.0091,0.96,0.1018
+G-92,50,4.1,Group 8,5,"Lily Smith, Qais Bin Mohd, Harper Chen, Nicolas Brown, Tatiana Ivanovna",4.11,0.4,0.6,5,0.0118,0.96,0.1044
+G-92,50,4.1,Group 9,5,"Amit Chandra, Jing Chen, Samantha Evans, Leo Turner, Ming Zhou",4.05,0.6,0.4,5,0.0157,0.96,0.1118
+G-92,50,4.1,Group 10,5,"Carter Young, Tobias Li, Jessie Tan, Samuel Robinson, Qistina Binti Mohd",4.12,0.6,0.4,5,0.0069,0.96,0.1338
+G-93,50,4.13,Group 1,5,"Niamh Wright, Darren Yeo, Zara Johnson, Zhi Zhen, Sari Rakhmawati",4.21,0.4,0.6,5,0.0921,0.96,0.0801
+G-93,50,4.13,Group 2,5,"Sofia Williams, Henry Lin, Meera Iyer, Finn Walker, Lucas Ong",4.13,0.6,0.4,5,0.002,0.96,0.0956
+G-93,50,4.13,Group 3,5,"Aisha Binti, Logan Perry, Benjamin Zhang, Ronghua, Rohan Bhatt",4.14,0.6,0.4,5,0.0073,0.96,0.0876
+G-93,50,4.13,Group 4,5,"Khalisah Binti Mohd, Ulysses Yip, Oliver Wright, Akemi Saito, Charles Cooper",4.13,0.6,0.4,5,0.0468,0.96,0.0876
+G-93,50,4.13,Group 5,5,"Disha Mehta, Kriti Jain, Joseph Parker, Rania Binti Ali, Chau Tran",4.11,0.4,0.6,5,0.0181,0.96,0.0791
+G-93,50,4.13,Group 6,5,"Anu Joshi, Omar Khan, Yuan Lei, Lydia Bennett, Zane Chan",4.2,0.4,0.6,5,0.025,0.96,0.0878
+G-93,50,4.13,Group 7,5,"Hiroshi Tanaka, Cika Puspita, Fitriani Rahayu, Zainab Malik, Adeel Hussain",4.14,0.4,0.6,5,0.0041,0.96,0.111
+G-93,50,4.13,Group 8,5,"Carter Liu, Xiu Zhen Tan, Anya Tan, Sonia Kapoor, Peizhen",4.11,0.4,0.6,5,0.0043,0.96,0.1191
+G-93,50,4.13,Group 9,5,"Maxwell Li, Lily White, Aman Kumar, Pamela Tan, Tanya Mohan",4.12,0.4,0.6,5,0.0032,0.96,0.119
+G-93,50,4.13,Group 10,5,"Anjali Joshi, Willow Bennett, Tran Thi Luong, Holly Zhang, Liam Ng",4.03,0.2,0.8,5,0.0085,0.64,0.165
+G-94,50,4.09,Group 1,5,"Zara Khan, Sofia Cooper, Ajay Bansal, Spencer Xu, Lara Wong",4.08,0.4,0.6,5,0.0011,0.96,0.0986
+G-94,50,4.09,Group 2,5,"Zainab Rehman, Charlotte Foster, Ishika Roy, Mason Lee, Lorenzo Wu",4.08,0.4,0.6,5,0.0052,0.96,0.0986
+G-94,50,4.09,Group 3,5,"Ivy Lin, Margaret Tan, Anita Devi, Jackson Allen, Wang Wei",4.1,0.4,0.6,5,0.016,0.96,0.0986
+G-94,50,4.09,Group 4,5,"Scarlett Collins, Sheela Krishnan, Amir Bin Khair, Long Thi Bich, Nan Liu",4.08,0.4,0.6,5,0.0039,0.96,0.1146
+G-94,50,4.09,Group 5,5,"Peixuan, Natalia Chen, James Nelson, Ezekiel Li, Saanvi Verma",4.11,0.4,0.6,5,0.0084,0.96,0.1148
+G-94,50,4.09,Group 6,5,"Pallavi Reddy, Freddy Wong, Paola Santos, Caleb Hughes, Parker Wu",4.17,0.6,0.4,5,0.0315,0.96,0.1107
+G-94,50,4.09,Group 7,5,"Shan Mei, Nikhil Bansal, Riley Turner, Ahmed Choudhary, Adriel Tan",4.0,0.6,0.4,5,0.0174,0.96,0.1186
+G-94,50,4.09,Group 8,5,"Chloe Davis, Maya Huang, Hannah Morris, Paige Wong, Rully Prabowo",4.09,0.2,0.8,5,0.0031,0.64,0.1661
+G-94,50,4.09,Group 9,5,"Cindy Tan, Ella Tan, Layla Alvi, Riya Kapoor, Kade Wu",4.11,0.2,0.8,5,0.0011,0.64,0.1663
+G-94,50,4.09,Group 10,5,"Chloe Robinson, Fatimah Noor, Nida Javed, Gracie Hall, Houston Chen",4.05,0.2,0.8,5,0.0191,0.64,0.1667
+G-95,50,4.07,Group 1,5,"Adil Khan, Malaya Chen, Hui Ying Tan, Kanya Setiawati, Matthew Baker",4.1,0.6,0.4,5,0.043,0.96,0.094
+G-95,50,4.07,Group 2,5,"Siddharth Patil, Saniya Ali, Riku Nakamura, Scarlett Lee, Jae-Min Park",4.12,0.6,0.4,5,0.0458,0.96,0.0945
+G-95,50,4.07,Group 3,5,"Saqib Khan, Madeline Wu, Igor Kuznetsov, Aubrey Collins, Koh Tze",3.99,0.6,0.4,5,0.014,0.96,0.1113
+G-95,50,4.07,Group 4,5,"Christopher Martinez, Rishabh Yadav, Raegan Chen, Zara Binti Zain, Ying Hui",4.06,0.4,0.6,5,0.0121,0.96,0.116
+G-95,50,4.07,Group 5,5,"Darren Scott, Anam Iqbal, Layla Tan, Liam Yu, Kunal Joshi",4.07,0.6,0.4,5,0.0077,0.96,0.1176
+G-95,50,4.07,Group 6,5,"Subhash Yadav, Kenta Matsumoto, Manisha Wadhwa, Li Jing, Dahlia Cooper",4.04,0.4,0.6,5,0.0196,0.96,0.1162
+G-95,50,4.07,Group 7,5,"Yong Cheng Tan, Kartik Nair, Selah Lin, Nianzu, Emily Ho",4.06,0.6,0.4,5,0.0215,0.96,0.1096
+G-95,50,4.07,Group 8,5,"Souta Watanabe, Ailin, Lillian Cooper, Carter Li, Zara Noor",4.07,0.6,0.4,5,0.0278,0.96,0.1256
+G-95,50,4.07,Group 9,5,"Rizky Hidayat, Caden Rivera, Lijun, Aditya Bansal, Quinton Young",4.08,0.8,0.2,5,0.0047,0.64,0.156
+G-95,50,4.07,Group 10,5,"Jesse Bennett, Quincy Ramos, Isabella White, Ming Wei, Ming Yu",4.07,0.8,0.2,5,0.0055,0.64,0.164
+G-96,50,4.07,Group 1,5,"Caiyun, Isaiah Li, Patty Lim, Cody Evans, Sophia Smith",4.09,0.4,0.6,5,0.0042,0.96,0.0538
+G-96,50,4.07,Group 2,5,"Zahra Lestari, Samuel Robinson, Marina Tan, Kunal Sinha, Anjali Tiwari",4.07,0.4,0.6,5,0.0078,0.96,0.0537
+G-96,50,4.07,Group 3,5,"Fang Xiu, Chad Dela Cruz, Ranya Al-Mansoori, Yun Chen, Ellie Bell",4.08,0.4,0.6,5,0.0165,0.96,0.0538
+G-96,50,4.07,Group 4,5,"Jessica Tan, Ethan Harris, Dhruv Srivastava, Olive Lim, Vera Smith",4.09,0.4,0.6,5,0.0056,0.96,0.0618
+G-96,50,4.07,Group 5,5,"Faisal Bukhari, Oscar Lim, Ayaan Shah, Ella Wright, Ying Xue",4.02,0.4,0.6,5,0.0084,0.96,0.0626
+G-96,50,4.07,Group 6,5,"Samantha Flores, Asher Li, Victor Santos, Aisha Binti Rahman, Jin-Soo Lee",4.04,0.6,0.4,5,0.0114,0.96,0.0658
+G-96,50,4.07,Group 7,5,"Zhaofeng, Jack Peterson, Una Kaur, Ellie Rivera, Liang Bo",4.04,0.4,0.6,5,0.0149,0.96,0.0861
+G-96,50,4.07,Group 8,5,"Liam Wang, Sophie Taylor, Yumiko Watanabe, Gwen Kwan, Dmitri Andreevich",4.1,0.4,0.6,5,0.0447,0.96,0.1021
+G-96,50,4.07,Group 9,5,"Alexander Green, Zara Ali, Rida Iqbal, Aditi Chai, Zhao Lei",4.09,0.4,0.6,5,0.0017,0.96,0.1178
+G-96,50,4.07,Group 10,5,"Derek Chen, Manish Verma, Ritika Mehta, Nadia Binti Ahmad, Huilin",4.11,0.4,0.6,5,0.0025,0.96,0.1021
+G-97,50,4.08,Group 1,5,"Siti Aminah Binti Ibrahim, Mei Xuan Tan, Mei Liu, Lachlan Thompson, Ali Raza",4.05,0.4,0.6,5,0.0142,0.96,0.0499
+G-97,50,4.08,Group 2,5,"Kaira Lim, Ayesha Siddiqui, Asha Rahman, Chao Zhang, Grayson Wright",4.01,0.4,0.6,5,0.0127,0.96,0.0527
+G-97,50,4.08,Group 3,5,"Olive Wong, Xiu Ying, Aria Thompson, Alexander Mitchell, Tony Tsang",4.07,0.4,0.6,5,0.0133,0.96,0.0656
+G-97,50,4.08,Group 4,5,"Kiran Iyer, Keira Martinez, Savannah Wood, Quade Cruz, Quinn Yip",4.03,0.4,0.6,5,0.0181,0.96,0.0753
+G-97,50,4.08,Group 5,5,"Kinsley Price, Rongxian, Kira Dewi, Zhou Wei, Jayden Chen",4.08,0.4,0.6,5,0.0234,0.96,0.0975
+G-97,50,4.08,Group 6,5,"Jin-Ah Kim, Bella Ramirez, Maya Chua, Long Thi Bich, Wei Fang",4.1,0.4,0.6,5,0.0217,0.96,0.0981
+G-97,50,4.08,Group 7,5,"Maya Wood, Scarlett Evans, Bashir Raza, Lola Zhao, Margo Wang",4.09,0.2,0.8,5,0.0111,0.64,0.0926
+G-97,50,4.08,Group 8,5,"Violet Lee, Bohan, Wicaksono Adi, Tanya Acharya, Bodhi Yang",4.14,0.4,0.6,5,0.0035,0.96,0.1013
+G-97,50,4.08,Group 9,5,"Akira Kobayashi, Zohra Khan, Hannah Rogers, Layla Zhao, Adrian Chen",4.06,0.2,0.8,5,0.0112,0.64,0.1487
+G-97,50,4.08,Group 10,5,"Maya Gupta, Emily Evans, Priti Choudhary, Diana Khan, Jasmine Wong",4.12,0.0,1.0,5,0.0103,0.0,0.1816
+G-98,50,4.09,Group 1,5,"Budi Santoso, Tara Menon, Zhi Xuan, Avery Smith, Victoria Reed",4.03,0.4,0.6,5,0.0056,0.96,0.0865
+G-98,50,4.09,Group 2,5,"Dhruv Singh, Zoe Lee, Colton Bailey, Nina Lin, Henry Hill",4.09,0.6,0.4,5,0.0014,0.96,0.0978
+G-98,50,4.09,Group 3,5,"Haru Yamaguchi, Emily Li, Jason Lam, Michelle Lee, Diana Binti Mohd",4.04,0.4,0.6,5,0.0094,0.96,0.0941
+G-98,50,4.09,Group 4,5,"Caleb Lim, Paige Wang, Hugo Yang, Mindy Kwan, Umar Sembiring",4.02,0.6,0.4,5,0.0183,0.96,0.0995
+G-98,50,4.09,Group 5,5,"Logan Taylor, Uriah Salazar, Katherine Young, Judah Hall, Leah Wilson",4.08,0.6,0.4,5,0.0029,0.96,0.0897
+G-98,50,4.09,Group 6,5,"Syahrul Bin Omar, Aiden Chen, Abigail King, Carter Lee, Maya Lewis",4.08,0.6,0.4,5,0.0049,0.96,0.0898
+G-98,50,4.09,Group 7,5,"Jae-Suk Jung, Matthew Evans, Hana Wong, Josh Thompson, Kaiming",4.05,0.6,0.4,5,0.0062,0.96,0.0901
+G-98,50,4.09,Group 8,5,"Siddharth Mehta, Finnley Brooks, Jay Patel, Ryusei Nakamura, Nianzu",4.13,0.8,0.2,5,0.0118,0.64,0.1157
+G-98,50,4.09,Group 9,5,"Gage Fisher, Dawn Lim, Alexander King, Henry Bennett, Pei Li",4.09,0.6,0.4,4,0.0206,0.96,0.1537
+G-98,50,4.09,Group 10,5,"Asher Wang, Asha Devi, Malachi Foster, Liu Chen, Ritika Sharma",4.25,0.6,0.4,4,0.0243,0.96,0.1633
+G-99,50,4.06,Group 1,5,"Sophie Rivera, Ikram Tan, Ronin Huang, Aki Yoshida, Naoko Ueda",4.02,0.4,0.6,5,0.0133,0.96,0.0975
+G-99,50,4.06,Group 2,5,"Kiran Malhotra, Travis Wong, Zachary Chen, Samantha Rogers, Kylan Yang",4.07,0.6,0.4,5,0.013,0.96,0.0989
+G-99,50,4.06,Group 3,5,"Natalia Fedorova, Queenie Li, Manoj Patel, Samuel Wright, Michael Walker",4.07,0.6,0.4,5,0.0035,0.96,0.0909
+G-99,50,4.06,Group 4,5,"Karla Bautista, Fatima Iqbal, Vikas Mehta, Ali Zain, William Yang",4.05,0.6,0.4,5,0.0109,0.96,0.099
+G-99,50,4.06,Group 5,5,"Meera Shah, Katherine Morales, Aaliyah Howard, Hassan Shah, Matthew Garcia",4.06,0.4,0.6,5,0.0193,0.96,0.1034
+G-99,50,4.06,Group 6,5,"Lian Chen, Farah Binti Omar, Layla Turner, Niko Setiawan, Nash Li",4.1,0.4,0.6,5,0.0078,0.96,0.1207
+G-99,50,4.06,Group 7,5,"Ruby Nelson, Zion Tan, Mai Tran, Qasim Bin Noor, Natalia Wong",4.08,0.4,0.6,5,0.0023,0.96,0.1275
+G-99,50,4.06,Group 8,5,"Aria Wadhwa, Rina Tan, Ella Santos, Nobu Yamamoto, Rafael De Leon",4.07,0.4,0.6,5,0.0017,0.96,0.1354
+G-99,50,4.06,Group 9,5,"Hana Binti Ali, Maya Morgan, Nisha Malik, Phan Duc Minh, Daniel White",4.04,0.4,0.6,5,0.0011,0.96,0.1438
+G-99,50,4.06,Group 10,5,"Sana Tan, Xiaoling Zhang, Joanna Tan, Amaya Tan, Maya Hughes",4.08,0.0,1.0,5,0.0154,0.0,0.215
