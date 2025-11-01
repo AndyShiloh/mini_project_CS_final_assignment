@@ -1,0 +1,189 @@
+"""
+接口还缺函数
+本段中T表示一大组【A1，A2...A10】
+A表示一小组【{stu-1},{stu-2} ....{stu-5}】
+应该还需要一个函数来读取T，分配A
+"""
+
+def connect(H,i):
+    """
+    读取总体函数并返回T
+    """
+    group_list = []
+    big_group_list = []
+    B = "G-" + str(i)
+    for row in H:
+        if row["Tutorial Group"] == B:
+            big_group_list.append(row)
+    for j in range(1,11):
+        # 此处A的值跟提供的group对应的value有关 ，此处仅做示范
+        A = "G-" + str(j)
+        small_group = []
+        for row in big_group_list:
+            if row["group"] == A:
+                small_group.append(row)
+        group_list.append(small_group)
+    return group_list
+
+
+# 模拟接口函数
+T = []
+for i in range(10):
+    B = [{"vector": i}]
+    T.append(B)
+
+
+
+def find_average_vector(informationlist):
+    #for every list[s1{},s2{}...] like small group list[s1{},s2{},s3{}..s5{}] and tutorial group list [s1{}...s50{}], we need to find the average vector
+    #the function can deal with the small group or the whole tutorial group
+    #informationlist:[s1{},s2,s3..]
+    if type(informationlist) == list:
+        new_list = []
+        for i in informationlist:
+            for j in i:
+                new_list.append(j)
+        return find_average_vector(new_list)
+    vector_len = len(informationlist[0]["vector"]) # the n_DIM of the vector=2+num(school)
+    sum_vector = [0.0] * vector_len
+    num_students = len(informationlist)
+    # Summation
+    for student in informationlist:
+        vector = student["vector"]  # Get the vector tuple
+        for i in range(vector_len):
+            sum_vector[i] += vector[i]
+    # 3. Calculate Average (using the correct divisor: num_students)
+    for i in range(vector_len):
+        sum_vector[i] = sum_vector[i] / num_students
+    average_vector=tuple(sum_vector.copy())
+    return average_vector
+
+def find_displacement(A,B):
+    #find displacement of two vectors
+    vector1 = find_average_vector(A)
+    vector2 = find_average_vector(B)
+    squre_add=0
+    for i in range(len(vector1)):
+        squre_add+=(vector1[i]-vector2[i])**2
+    return squre_add
+
+
+def row_up(T):
+    """
+    计算每一组的平均值并按平均值从大到小排序
+    """
+    T_sorted = sorted(T, key=lambda g: find_displacement(g,T), reverse=True)
+    return T_sorted
+
+
+def check(T, ave, gap=0.01):
+    """
+    检查每个小组的平均值是否接近目标 ave
+    """
+    for A in T:
+        if find_displacement(A,T) > gap:
+            return False
+    return True
+
+
+def swap(A, B, i, j):
+    """
+    交换两个组中的成员 i 和 j（浅拷贝）
+    """
+    A_new = A.copy()
+    B_new = B.copy()
+    A_new.remove(i)
+    B_new.remove(j)
+    A_new.append(j)
+    B_new.append(i)
+    return A_new, B_new
+
+
+def group_swap(A, B, ave, already_move, move_time=50, accuracy=0.02):
+    """
+    暴力尝试交换两个组的成员以让平均值更接近 ave
+    """
+    if len(already_move) >= move_time:
+        return A, B
+    A_remain = A
+    B_remain = B
+    # 如果已经达到要求
+    if find_displacement(A_remain,T) <= accuracy and find_displacement(B_remain,T) <= accuracy:
+        # 返回A，B
+        return A, B
+    # iteration 迭代
+    for i in A:
+        for j in B:
+            A_new, B_new = swap(A, B, i, j)
+
+            # 若更接近目标均值则接受交换
+            if  find_displacement(A_new,T)< find_displacement(A_remain,T) and find_displacement(B_new,T)< find_displacement(B_remain,T):
+                key = (i["vector"], j["vector"])
+                # 在already_move种存入值
+                if key not in already_move:
+                    already_move[key] = True
+                    return group_swap(A_new, B_new, ave, already_move, move_time, accuracy)
+
+    return A, B
+
+
+memory = []
+
+
+def pick_group(T, ave, time=20, gap=0.01):
+    """
+    主函数：
+    - 按均值排序
+    - 拿最高组和最低组尝试交换
+    - 递归直到所有组均值接近目标 ave
+    - 或者超过某一个time---限制条件，防止爆炸
+    """
+    if len(memory) > time:
+        return T
+    if check(T, ave, gap):
+        return T
+
+    M = row_up(T)
+    A = M[0]
+    B = M[-1]
+
+    already_move = {}
+    new_a, new_b = group_swap(A, B, ave, already_move, move_time=50, accuracy=gap)
+    M[0] = new_a
+    M[-1] = new_b
+
+    memory.append(M)
+    return pick_group(M, ave, time, gap)
+
+
+# 最后还差一个总体化处理
+total = []
+# total 写在总体外面，里面是一百二十次循环
+# 这是返回改好后的组
+def deal_all(T):
+    for i in range(1,11):
+        for A in T[i-1]:
+            # 名字可能要改，此处命名为 group i 型
+            A["group"] = " group" + str(i)
+            total.append(A)
+    return total
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
