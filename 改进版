@@ -38,7 +38,7 @@ def find_average_vector(informationlist):
     #for every list[s1{},s2{}...] like small group list[s1{},s2{},s3{}..s5{}] and tutorial group list [s1{}...s50{}], we need to find the average vector
     #the function can deal with the small group or the whole tutorial group
     #informationlist:[s1{},s2,s3..]
-    if type(informationlist) == list:
+    if type(informationlist[0]) == list:
         new_list = []
         for i in informationlist:
             for j in i:
